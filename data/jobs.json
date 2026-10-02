@@ -31,8 +31,9 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1"
     },
     "adobe:R170344": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-02",
       "company": "Adobe",
       "external_id": "R170344",
       "first_seen": "2026-10-02",
@@ -121,8 +122,9 @@
       "url": "https://careers.airbnb.com/positions/7453190?gh_jid=7453190"
     },
     "airbnb:8189374": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-02",
       "company": "Airbnb",
       "external_id": "8189374",
       "first_seen": "2026-10-02",
@@ -374,6 +376,21 @@
       "posted": "2026-10-01",
       "title": "Software Development Engineer, Mobile App Foundations - Quality and Release",
       "url": "https://www.amazon.jobs/en/jobs/10567328/software-development-engineer-mobile-app-foundations-quality-and-release"
+    },
+    "amazon:10568048": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Amazon",
+      "external_id": "10568048",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Development Engineer - App Performance, Mobile App Foundations",
+      "url": "https://www.amazon.jobs/en/jobs/10568048/software-development-engineer-app-performance-mobile-app-foundations"
     },
     "anthropic:4572744008": {
       "active": true,
@@ -939,7 +956,7 @@
       "last_seen": "2026-10-02",
       "level": "Mid",
       "locations": [
-        "Pittsburgh"
+        "Austin"
       ],
       "posted": "2026-08-25",
       "title": "iOS Engineer: Cloud Media and Collaboration",
@@ -1199,6 +1216,21 @@
       "posted": "2026-09-02",
       "title": "Senior Software Engineer - Mobile",
       "url": "https://careers.cisco.com/global/en/job/2023877"
+    },
+    "cloudflare:8248635": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Cloudflare",
+      "external_id": "8248635",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "Hybrid"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Mobile SDK",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635"
     },
     "coinbase:8241716": {
       "active": true,
@@ -1481,9 +1513,29 @@
       "title": "Engineering Manager, Mobile Developer Experience",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8119303"
     },
-    "duolingo:8318257002": {
+    "doordash:8197854": {
       "active": true,
+      "category": "Android",
+      "company": "DoorDash",
+      "external_id": "8197854",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "Los Angeles, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-09-11",
+      "title": "Software Engineer - Developer Experience, Android",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854"
+    },
+    "duolingo:8318257002": {
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-02",
       "company": "Duolingo",
       "external_id": "8318257002",
       "first_seen": "2026-10-02",
@@ -1505,6 +1557,7 @@
       "last_seen": "2026-10-02",
       "level": "Senior",
       "locations": [
+        "New York, NY",
         "Pittsburgh, PA"
       ],
       "posted": "2026-01-27",
@@ -1520,6 +1573,7 @@
       "last_seen": "2026-10-02",
       "level": "Senior",
       "locations": [
+        "New York, NY",
         "Pittsburgh, PA"
       ],
       "posted": "2026-07-10",
@@ -1527,8 +1581,9 @@
       "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002"
     },
     "duolingo:8628670002": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-02",
       "company": "Duolingo",
       "external_id": "8628670002",
       "first_seen": "2026-10-02",
@@ -1572,8 +1627,9 @@
       "url": "https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002"
     },
     "duolingo:8745736002": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-02",
       "company": "Duolingo",
       "external_id": "8745736002",
       "first_seen": "2026-10-02",
@@ -1595,6 +1651,7 @@
       "last_seen": "2026-10-02",
       "level": "Senior",
       "locations": [
+        "New York, NY",
         "Pittsburgh, PA"
       ],
       "posted": "2026-08-25",
@@ -3473,8 +3530,9 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7895156"
     },
     "reddit:7977052": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-02",
       "company": "Reddit",
       "external_id": "7977052",
       "first_seen": "2026-10-02",
@@ -3516,6 +3574,21 @@
       "posted": "2026-09-17",
       "title": "Senior iOS Engineer, Media Experience",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8211850"
+    },
+    "reddit:8250125": {
+      "active": true,
+      "category": "iOS",
+      "company": "Reddit",
+      "external_id": "8250125",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "Remote - United States"
+      ],
+      "posted": "2026-10-02",
+      "title": "iOS Software Engineer, Consumer Engineering",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8250125"
     },
     "riot-games:8225544": {
       "active": true,
@@ -3732,6 +3805,21 @@
       "title": "Android Engineer, Social",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874"
     },
+    "robinhood:8246088": {
+      "active": true,
+      "category": "iOS",
+      "company": "Robinhood",
+      "external_id": "8246088",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "Toronto, Canada"
+      ],
+      "posted": "2026-10-02",
+      "title": "iOS Developer, International",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8246088?t=gh_src=&gh_jid=8246088"
+    },
     "roblox:8140563": {
       "active": true,
       "category": "iOS",
@@ -3822,9 +3910,70 @@
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
-    "snap:R0046266": {
+    "snap:Q426SWEA2": {
       "active": true,
+      "category": "Android",
+      "company": "Snap",
+      "external_id": "Q426SWEA2",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Android, Level 4",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
+    },
+    "snap:Q426SWEA6": {
+      "active": true,
+      "category": "Android",
+      "company": "Snap",
+      "external_id": "Q426SWEA6",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Android, Level 5",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
+    },
+    "snap:Q426SWEI2": {
+      "active": true,
+      "category": "iOS",
+      "company": "Snap",
+      "external_id": "Q426SWEI2",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineer, iOS, Level 4",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-4_Q426SWEI2-2"
+    },
+    "snap:Q426SWEI6": {
+      "active": true,
+      "category": "iOS",
+      "company": "Snap",
+      "external_id": "Q426SWEI6",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "level": "Mid",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineer, iOS, Level 5",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
+    },
+    "snap:R0046266": {
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-02",
       "company": "Snap",
       "external_id": "R0046266",
       "first_seen": "2026-10-02",
@@ -4342,5 +4491,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-02T13:48:53Z"
+  "updated_at": "2026-10-02T22:40:30Z"
 }
