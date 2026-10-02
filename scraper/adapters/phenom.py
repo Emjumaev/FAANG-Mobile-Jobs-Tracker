@@ -1,0 +1,62 @@
+"""Phenom People career sites (Cisco, Snowflake): POST {host}/widgets
+
+One search per mobile term, deduped on jobId.
+"""
+import time
+
+from ..http import request_json
+from ..models import Job, as_date, queries_for
+
+MAX_PAGES = 10
+
+
+def fetch(cfg):
+    host = cfg["host"]                    # e.g. "careers.cisco.com"
+    job_url_tpl = cfg["job_url"]          # e.g. "https://careers.cisco.com/global/en/job/{id}"
+    base_body = {
+        "lang": "en", "deviceType": "desktop", "country": "global",
+        "pageName": "search-results", "ddoKey": "refineSearch", "sortBy": "",
+        "subsearch": "", "from": 0, "jobs": True, "counts": True,
+        "all_fields": ["category", "country", "state", "city"],
+        "size": 100, "clearAll": False, "jdsource": "facets",
+        "isSliderEnable": False, "pageId": "page16", "siteType": "external",
+        "keywords": "", "global": True,
+        "selected_fields": {}, "locationData": {},
+    }
+    base_body.update(cfg.get("body_overrides", {}))
+
+    jobs, seen = [], set()
+    for keywords in queries_for(cfg):
+        offset = 0
+        for _ in range(MAX_PAGES):
+            body = dict(base_body, **{"from": offset, "keywords": keywords})
+            data = request_json("POST", "https://{}/widgets".format(host),
+                                json_body=body,
+                                headers={"Content-Type": "application/json"})
+            refine = data.get("refineSearch", {})
+            batch = (refine.get("data") or {}).get("jobs", [])
+            for j in batch:
+                jid = str(j.get("jobId", ""))
+                if not jid or jid in seen:
+                    continue
+                seen.add(jid)
+                locations = [j.get("cityStateCountry", "")] or []
+                if not locations[0]:
+                    locations = [", ".join(x for x in
+                                           (j.get("city"), j.get("state"), j.get("country")) if x)]
+                for ml in j.get("multi_location", []) or []:
+                    if isinstance(ml, str):
+                        locations.append(ml)
+                jobs.append(Job(
+                    company=cfg["name"],
+                    external_id=jid,
+                    title=j.get("title", ""),
+                    url=job_url_tpl.format(id=jid),
+                    locations=locations,
+                    posted=as_date(j.get("postedDate") or j.get("dateCreated")),
+                ))
+            offset += len(batch)
+            if not batch or offset >= refine.get("totalHits", 0):
+                break
+            time.sleep(0.5)
+    return jobs
