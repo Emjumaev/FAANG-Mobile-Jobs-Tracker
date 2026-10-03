@@ -8,7 +8,7 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-03 16:49:26 UTC** · 📌 **287** open mobile jobs
+> 🕐 Last updated: **2026-10-03 21:52:34 UTC** · 📌 **287** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **124** iOS · **116** Android · **1** iOS & Android · **46** Mobile
@@ -155,8 +155,8 @@ tech companies, scraped directly from each company's careers API every
 | [Senior iOS Engineer](https://jobs.apple.com/en-us/details/200680670/senior-ios-engineer) 🆕 | iOS | Senior | Sunnyvale | 2026-08-28 | 2026-10-02 |
 | [iOS Engineer: Cloud Media and Collaboration](https://jobs.apple.com/en-us/details/200680469/ios-engineer-cloud-media-and-collaboration) 🆕 | iOS | Mid | Vancouver | 2026-08-27 | 2026-10-02 |
 | [Xcode Cloud Distributed Systems Software Engineer](https://jobs.apple.com/en-us/details/200680206/xcode-cloud-distributed-systems-software-engineer) 🆕 | iOS | Mid | Vancouver | 2026-08-27 | 2026-10-02 |
-| [iOS Engineer: Cloud Media and Collaboration](https://jobs.apple.com/en-us/details/200679688/ios-engineer-cloud-media-and-collaboration) 🆕 | iOS | Mid | Austin | 2026-08-25 | 2026-10-02 |
-| [iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678192/ios-software-engineer-creative-apps) 🆕 | iOS | Mid | Cary | 2026-08-20 | 2026-10-02 |
+| [iOS Engineer: Cloud Media and Collaboration](https://jobs.apple.com/en-us/details/200679688/ios-engineer-cloud-media-and-collaboration) 🆕 | iOS | Mid | Pittsburgh | 2026-08-25 | 2026-10-02 |
+| [iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678192/ios-software-engineer-creative-apps) 🆕 | iOS | Mid | San Diego | 2026-08-20 | 2026-10-02 |
 | [iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678787/ios-software-engineer-creative-apps) 🆕 | iOS | Mid | Vancouver | 2026-08-20 | 2026-10-02 |
 | [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678194/sr-ios-software-engineer-creative-apps) 🆕 | iOS | Senior | Cupertino | 2026-08-20 | 2026-10-02 |
 | [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678780/sr-ios-software-engineer-creative-apps) 🆕 | iOS | Senior | Vancouver | 2026-08-20 | 2026-10-02 |
