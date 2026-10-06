@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-06 18:44:30 UTC** · 📌 **295** open mobile jobs
+> 🕐 Last updated: **2026-10-06 22:55:24 UTC** · 📌 **296** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **125** iOS · **118** Android · **1** iOS & Android · **51** Mobile
-> · By level: 4 Intern · 4 Entry · 112 Mid · 113 Senior · 43 Staff+ · 19 Manager
+> 📊 By platform: **126** iOS · **118** Android · **2** iOS & Android · **50** Mobile
+> · By level: 5 Intern · 4 Entry · 112 Mid · 112 Senior · 44 Staff+ · 19 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -21,11 +21,11 @@ tech companies, scraped directly from each company's careers API every
 | [Adobe](#adobe) | 2 |
 | [Adyen](#adyen) | 2 |
 | [Affirm](#affirm) | 4 |
-| [Airbnb](#airbnb) | 6 |
-| [Amazon](#amazon) | 15 |
+| [Airbnb](#airbnb) | 5 |
+| [Amazon](#amazon) | 16 |
 | [Anthropic](#anthropic) | 2 |
 | [Apple](#apple) | 49 |
-| [Block](#block) | 1 |
+| [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 4 |
 | [Cloudflare](#cloudflare) | 1 |
@@ -99,8 +99,8 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829427003) 🆕 | Mobile | Staff+ | Remote US | 2026-08-14 | 2026-10-02 |
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829429003) 🆕 | Mobile | Staff+ | Remote Canada | 2026-08-14 | 2026-10-02 |
-| [Senior Software Engineer, Mobile (Consumer Engineering)](https://job-boards.greenhouse.io/affirm/jobs/7663436003) 🆕 | Mobile | Senior | Remote Canada | 2026-03-18 | 2026-10-06 |
 | [Senior Software Engineer, Mobile (Consumer Engineering)](https://job-boards.greenhouse.io/affirm/jobs/7663434003) 🆕 | Mobile | Senior | Remote US | 2026-03-18 | 2026-10-06 |
+| [Senior Software Engineer, Mobile (Consumer Engineering)](https://job-boards.greenhouse.io/affirm/jobs/7663436003) 🆕 | Mobile | Senior | Remote Canada | 2026-03-18 | 2026-10-06 |
 
 ## Airbnb
 
@@ -111,12 +111,12 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer, Passport & Commerce, Android](https://careers.airbnb.com/positions/8247303?gh_jid=8247303) 🆕 | Android | Mid | Remote, USA | 2026-10-01 | 2026-10-02 |
 | [Software Engineer, Passport & Commerce, iOS](https://careers.airbnb.com/positions/8239985?gh_jid=8239985) 🆕 | iOS | Mid | Remote, USA | 2026-09-29 | 2026-10-02 |
 | [Mobile Software Engineer, Tech Foundations](https://careers.airbnb.com/positions/8189374?gh_jid=8189374) 🆕 | Mobile | Mid | Brazil | 2026-09-09 | 2026-10-02 |
-| [Senior Mobile Software Engineer, Quality Engineering](https://careers.airbnb.com/positions/7453190?gh_jid=7453190) 🆕 | Mobile | Senior | Brazil - Remote | 2026-01-22 | 2026-10-02 |
 
 ## Amazon
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)](https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa) 🆕 | iOS & Android | Intern | Seattle, Washington, USA | 2026-10-06 | 2026-10-06 |
 | [Software Development Engineer - App Performance, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10568048/software-development-engineer-app-performance-mobile-app-foundations) 🆕 | Mobile | Mid | Seattle, Washington, USA | 2026-10-02 | 2026-10-02 |
 | [Software Development Engineer, Mobile App Foundations - Quality and Release](https://www.amazon.jobs/en/jobs/10567328/software-development-engineer-mobile-app-foundations-quality-and-release) 🆕 | Mobile | Mid | Seattle, Washington, USA | 2026-10-01 | 2026-10-02 |
 | [Software Development Engineer II - Mobile, Last Mile Delivery Prdct&Tech](https://www.amazon.jobs/en/jobs/10559348/software-development-engineer-ii-mobile-last-mile-delivery-prdct-tech) 🆕 | Mobile | Mid | Austin, Texas, USA | 2026-09-24 | 2026-10-02 |
@@ -144,8 +144,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Senior iOS Engineer - Creativity Apps](https://jobs.apple.com/en-us/details/200685890/senior-ios-engineer-creativity-apps) 🆕 | iOS | Senior | Zurich | 2026-10-06 | 2026-10-06 |
 | [Senior iOS Engineer - Creativity Apps](https://jobs.apple.com/en-us/details/200685888/senior-ios-engineer-creativity-apps) 🆕 | iOS | Senior | Berlin | 2026-10-06 | 2026-10-06 |
+| [Senior iOS Engineer - Creativity Apps](https://jobs.apple.com/en-us/details/200685890/senior-ios-engineer-creativity-apps) 🆕 | iOS | Senior | Zurich | 2026-10-06 | 2026-10-06 |
 | [iOS Telephony Software Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200687104/ios-telephony-software-engineer-wireless-technologies-ecosystems) 🆕 | iOS | Mid | Cupertino | 2026-10-05 | 2026-10-06 |
 | [UI Frameworks Engineer, Swift Platform Experience](https://jobs.apple.com/en-us/details/200687359/ui-frameworks-engineer-swift-platform-experience) 🆕 | iOS | Mid | Cupertino | 2026-10-05 | 2026-10-06 |
 | [iOS SpringBoard Engineer- Graphic Wallpapers & Screensavers](https://jobs.apple.com/en-us/details/200674686/ios-springboard-engineer-graphic-wallpapers-screensavers) 🆕 | iOS | Mid | Cupertino | 2026-10-01 | 2026-10-02 |
@@ -198,6 +198,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Staff iOS Software Engineer, Bitcoin](http://block.xyz/careers/jobs/5373636008?gh_jid=5373636008) 🆕 | iOS | Staff+ | Bay Area, CA, United States of America | 2026-10-06 | 2026-10-06 |
 | [Staff iOS Software Engineer, Product Platform](http://block.xyz/careers/jobs/5423630008?gh_jid=5423630008) 🆕 | iOS | Staff+ | Bay Area, CA, United States of America | 2026-09-14 | 2026-10-02 |
 
 ## Bloomberg

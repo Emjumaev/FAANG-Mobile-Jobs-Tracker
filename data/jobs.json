@@ -153,8 +153,9 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7829429003"
     },
     "airbnb:7453190": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-06",
       "company": "Airbnb",
       "external_id": "7453190",
       "first_seen": "2026-10-02",
@@ -467,6 +468,21 @@
       "posted": "2026-10-02",
       "title": "Software Development Engineer - App Performance, Mobile App Foundations",
       "url": "https://www.amazon.jobs/en/jobs/10568048/software-development-engineer-app-performance-mobile-app-foundations"
+    },
+    "amazon:10571004": {
+      "active": true,
+      "category": "iOS & Android",
+      "company": "Amazon",
+      "external_id": "10571004",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "level": "Intern",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-10-06",
+      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
     },
     "anthropic:4572744008": {
       "active": true,
@@ -1280,6 +1296,21 @@
       "posted": "2026-10-05",
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200687359/ui-frameworks-engineer-swift-platform-experience"
+    },
+    "block:5373636008": {
+      "active": true,
+      "category": "iOS",
+      "company": "Block",
+      "external_id": "5373636008",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "level": "Staff+",
+      "locations": [
+        "Bay Area, CA, United States of America"
+      ],
+      "posted": "2026-10-06",
+      "title": "Staff iOS Software Engineer, Bitcoin",
+      "url": "http://block.xyz/careers/jobs/5373636008?gh_jid=5373636008"
     },
     "block:5423630008": {
       "active": true,
@@ -4842,5 +4873,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-06T18:44:30Z"
+  "updated_at": "2026-10-06T22:55:24Z"
 }
