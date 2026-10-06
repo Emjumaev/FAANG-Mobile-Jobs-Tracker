@@ -2992,7 +2992,7 @@
       "company": "Meta",
       "external_id": "1061795906099278",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -3011,7 +3011,7 @@
       "company": "Meta",
       "external_id": "1203016587809246",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "Bellevue, WA",
@@ -3031,7 +3031,7 @@
       "company": "Meta",
       "external_id": "1394915781774041",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -3051,7 +3051,7 @@
       "company": "Meta",
       "external_id": "2189071041883117",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA"
@@ -3066,7 +3066,7 @@
       "company": "Meta",
       "external_id": "3374573439389340",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "London, UK"
@@ -3081,7 +3081,7 @@
       "company": "Meta",
       "external_id": "699608119727078",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-06",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -4657,5 +4657,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-06T00:26:47Z"
+  "updated_at": "2026-10-06T06:58:00Z"
 }
