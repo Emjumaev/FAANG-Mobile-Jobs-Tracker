@@ -27,7 +27,7 @@
       "locations": [
         "Remote California"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Senior Engineering Manager  | iOS Video Applications",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1"
     },
@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
@@ -619,6 +619,21 @@
       "title": "Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience",
       "url": "https://jobs.apple.com/en-us/details/200654462/software-engineer-ios-engineer-springboard-multitasking-system-experience"
     },
+    "apple:200657297": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200657297",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Mid",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-04-11",
+      "title": "iOS Home Application Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200657297/ios-home-application-engineer-wireless-technologies-ecosystems"
+    },
     "apple:200658053": {
       "active": true,
       "category": "iOS",
@@ -1050,7 +1065,7 @@
       "last_seen": "2026-10-07",
       "level": "Mid",
       "locations": [
-        "Pittsburgh"
+        "Austin"
       ],
       "posted": "2026-08-25",
       "title": "iOS Engineer: Cloud Media and Collaboration",
@@ -2377,8 +2392,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/131242196723475142"
     },
     "google:132534755320046278": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Google",
       "external_id": "132534755320046278",
       "first_seen": "2026-10-02",
@@ -2781,8 +2797,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/79634996049912518"
     },
     "google:80509850823336646": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Google",
       "external_id": "80509850823336646",
       "first_seen": "2026-10-02",
@@ -2841,8 +2858,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83164677483176646"
     },
     "google:83748242205876934": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Google",
       "external_id": "83748242205876934",
       "first_seen": "2026-10-02",
@@ -3716,8 +3734,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4548812101"
     },
     "proton:4881689101": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-07",
       "company": "Proton",
       "external_id": "4881689101",
       "first_seen": "2026-10-02",
@@ -3761,8 +3780,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4881705101"
     },
     "proton:4881716101": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-07",
       "company": "Proton",
       "external_id": "4881716101",
       "first_seen": "2026-10-02",
@@ -3836,8 +3856,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4932193101"
     },
     "proton:4932197101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Proton",
       "external_id": "4932197101",
       "first_seen": "2026-10-02",
@@ -4182,7 +4203,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "title": "Senior Manager, Software Engineering - Slack Core Mobile",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Software-Engineering_JR356609-2"
     },
@@ -4197,7 +4218,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4212,7 +4233,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -4227,7 +4248,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -4242,7 +4263,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -4257,7 +4278,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -4272,7 +4293,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -4287,7 +4308,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-4_Q426SWEI2-2"
     },
@@ -4302,7 +4323,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -4349,7 +4370,7 @@
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -4401,8 +4422,9 @@
       "url": "https://www.lifeatspotify.com/jobs/senior-c-ios-engineer-user-platform"
     },
     "stripe:7543559": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Stripe",
       "external_id": "7543559",
       "first_seen": "2026-10-02",
@@ -4461,8 +4483,9 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8229361"
     },
     "stripe:8239006": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-07",
       "company": "Stripe",
       "external_id": "8239006",
       "first_seen": "2026-10-02",
@@ -4873,5 +4896,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-07T06:33:31Z"
+  "updated_at": "2026-10-07T13:59:28Z"
 }
