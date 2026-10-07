@@ -93,8 +93,9 @@
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8103468"
     },
     "affirm:7663434003": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-07",
       "company": "Affirm",
       "external_id": "7663434003",
       "first_seen": "2026-10-06",
@@ -108,8 +109,9 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7663434003"
     },
     "affirm:7663436003": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-07",
       "company": "Affirm",
       "external_id": "7663436003",
       "first_seen": "2026-10-06",
@@ -530,8 +532,9 @@
       "url": "https://jobs.apple.com/en-us/details/200613850/software-quality-engineer-mobile-apps-retail-engineering"
     },
     "apple:200624967": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-07",
       "company": "Apple",
       "external_id": "200624967",
       "first_seen": "2026-10-02",
@@ -1057,8 +1060,9 @@
       "url": "https://jobs.apple.com/en-us/details/200678787/ios-software-engineer-creative-apps"
     },
     "apple:200679688": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-07",
       "company": "Apple",
       "external_id": "200679688",
       "first_seen": "2026-10-02",
@@ -1282,6 +1286,21 @@
       "title": "Senior iOS Experiences Engineer - Services Special Project",
       "url": "https://jobs.apple.com/en-us/details/200686243/senior-ios-experiences-engineer-services-special-project"
     },
+    "apple:200686902": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200686902",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Manager",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-10-07",
+      "title": "Engineering Manager, Siri App (iOS and macOS)",
+      "url": "https://jobs.apple.com/en-us/details/200686902/engineering-manager-siri-app-ios-and-macos"
+    },
     "apple:200687104": {
       "active": true,
       "category": "iOS",
@@ -1311,6 +1330,21 @@
       "posted": "2026-10-05",
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200687359/ui-frameworks-engineer-swift-platform-experience"
+    },
+    "apple:200687574": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200687574",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Mid",
+      "locations": [
+        "Austin"
+      ],
+      "posted": "2026-10-07",
+      "title": "Full stack/iOS Engineer (iOS + Backend) - iCloud Products",
+      "url": "https://jobs.apple.com/en-us/details/200687574/full-stack-ios-engineer-ios-backend-icloud-products"
     },
     "block:5373636008": {
       "active": true,
@@ -1629,6 +1663,21 @@
       "posted": "2026-09-18",
       "title": "Senior Software Engineer - iOS",
       "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202448"
+    },
+    "deliveroo:8202481": {
+      "active": true,
+      "category": "Android",
+      "company": "Deliveroo",
+      "external_id": "8202481",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Mid",
+      "locations": [
+        "London, United Kingdom - Deliveroo"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineer II - Android",
+      "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202481"
     },
     "deliveroo:8206363": {
       "active": true,
@@ -3654,6 +3703,21 @@
       "title": "Staff Software Engineer - iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---iOS_R0135097-1"
     },
+    "paypal:R0138333": {
+      "active": true,
+      "category": "Android",
+      "company": "PayPal",
+      "external_id": "R0138333",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Mid",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineer - Android",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
+    },
     "pinterest:6922682": {
       "active": true,
       "category": "iOS",
@@ -3947,6 +4011,36 @@
       "title": "iOS Software Engineer, Consumer Engineering",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8250125"
     },
+    "reddit:8263374": {
+      "active": true,
+      "category": "iOS",
+      "company": "Reddit",
+      "external_id": "8263374",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Senior",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-10-07",
+      "title": "Senior iOS Software Engineer, Consumer Engineering",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263374"
+    },
+    "reddit:8263406": {
+      "active": true,
+      "category": "Android",
+      "company": "Reddit",
+      "external_id": "8263406",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "level": "Mid",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-10-07",
+      "title": "Android Software Engineer, Consumer Engineering",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263406"
+    },
     "riot-games:8225544": {
       "active": true,
       "category": "Mobile",
@@ -4193,8 +4287,9 @@
       "url": "https://careers.roblox.com/jobs/8140563?gh_jid=8140563"
     },
     "salesforce:JR356609": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-07",
       "company": "Salesforce",
       "external_id": "JR356609",
       "first_seen": "2026-10-02",
@@ -4298,8 +4393,9 @@
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
     "snap:Q426SWEI2": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-07",
       "company": "Snap",
       "external_id": "Q426SWEI2",
       "first_seen": "2026-10-02",
@@ -4896,5 +4992,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-07T13:59:28Z"
+  "updated_at": "2026-10-07T23:26:31Z"
 }
