@@ -638,13 +638,13 @@
       "url": "https://jobs.apple.com/en-us/details/200654462/software-engineer-ios-engineer-springboard-multitasking-system-experience"
     },
     "apple:200657297": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-10-08",
       "company": "Apple",
       "external_id": "200657297",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-08",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -682,6 +682,21 @@
       "posted": "2026-04-23",
       "title": "Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience",
       "url": "https://jobs.apple.com/en-us/details/200659816/software-engineer-ios-engineer-springboard-multitasking-system-experience"
+    },
+    "apple:200661354": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200661354",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "level": "Mid",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-10-08",
+      "title": "UI Frameworks Engineer, Swift Platform Experience",
+      "url": "https://jobs.apple.com/en-us/details/200661354/ui-frameworks-engineer-swift-platform-experience"
     },
     "apple:200662668": {
       "active": true,
@@ -1009,7 +1024,7 @@
       "last_seen": "2026-10-08",
       "level": "Mid",
       "locations": [
-        "San Diego"
+        "Cary"
       ],
       "posted": "2026-08-20",
       "title": "iOS Software Engineer - Creative Apps",
@@ -1122,8 +1137,9 @@
       "url": "https://jobs.apple.com/en-us/details/200680206/xcode-cloud-distributed-systems-software-engineer"
     },
     "apple:200680469": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-08",
       "company": "Apple",
       "external_id": "200680469",
       "first_seen": "2026-10-02",
@@ -1153,8 +1169,9 @@
       "url": "https://jobs.apple.com/en-us/details/200680670/senior-ios-engineer"
     },
     "apple:200681044": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-08",
       "company": "Apple",
       "external_id": "200681044",
       "first_seen": "2026-10-02",
@@ -2301,8 +2318,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/122481443765920454"
     },
     "google:122641612760064710": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-08",
       "company": "Google",
       "external_id": "122641612760064710",
       "first_seen": "2026-10-02",
@@ -2816,6 +2834,21 @@
       "title": "Software Engineer II, Mobile iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/76179974033154758"
     },
+    "google:77224005420884678": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "77224005420884678",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "level": "Mid",
+      "locations": [
+        "Sydney NSW, Australia"
+      ],
+      "posted": "2026-10-08",
+      "title": "Software Engineer, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77224005420884678"
+    },
     "google:77247651363332806": {
       "active": true,
       "category": "Android",
@@ -2894,8 +2927,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/80509850823336646"
     },
     "google:80738331272323782": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-08",
       "company": "Google",
       "external_id": "80738331272323782",
       "first_seen": "2026-10-02",
@@ -2909,8 +2943,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/80738331272323782"
     },
     "google:82869459684860614": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-08",
       "company": "Google",
       "external_id": "82869459684860614",
       "first_seen": "2026-10-02",
@@ -3151,8 +3186,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/99276695390823110"
     },
     "instacart:8147298": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-08",
       "company": "Instacart",
       "external_id": "8147298",
       "first_seen": "2026-10-02",
@@ -3166,8 +3202,9 @@
       "url": "https://instacart.careers/job/?gh_jid=8147298"
     },
     "instacart:8147300": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-08",
       "company": "Instacart",
       "external_id": "8147300",
       "first_seen": "2026-10-02",
@@ -3256,8 +3293,9 @@
       "url": "https://app.careerpuck.com/job-board/lyft/job/8743515002?gh_jid=8743515002"
     },
     "lyft:8761940002": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-08",
       "company": "Lyft",
       "external_id": "8761940002",
       "first_seen": "2026-10-02",
@@ -3541,8 +3579,9 @@
       "url": "https://explore.jobs.netflix.net/careers/job/790318041034"
     },
     "netflix:790318493298": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-08",
       "company": "Netflix",
       "external_id": "790318493298",
       "first_seen": "2026-10-02",
@@ -4072,6 +4111,21 @@
       "posted": "2026-10-07",
       "title": "Android Software Engineer, Consumer Engineering",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8263406"
+    },
+    "reddit:8263407": {
+      "active": true,
+      "category": "Android",
+      "company": "Reddit",
+      "external_id": "8263407",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "level": "Senior",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": "2026-10-08",
+      "title": "Senior Android Software Engineer, Consumer Engineering",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407"
     },
     "riot-games:8225544": {
       "active": true,
@@ -5024,5 +5078,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-08T14:07:28Z"
+  "updated_at": "2026-10-08T23:41:21Z"
 }
