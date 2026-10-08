@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-07 23:26:31 UTC** · 📌 **289** open mobile jobs
+> 🕐 Last updated: **2026-10-08 06:44:59 UTC** · 📌 **290** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **125** iOS · **115** Android · **2** iOS & Android · **47** Mobile
-> · By level: 5 Intern · 4 Entry · 112 Mid · 107 Senior · 43 Staff+ · 18 Manager
+> 📊 By platform: **124** iOS · **116** Android · **2** iOS & Android · **48** Mobile
+> · By level: 5 Intern · 4 Entry · 112 Mid · 108 Senior · 43 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -22,9 +22,9 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 2 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 5 |
-| [Amazon](#amazon) | 16 |
+| [Amazon](#amazon) | 17 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 50 |
+| [Apple](#apple) | 49 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 4 |
@@ -65,7 +65,7 @@ tech companies, scraped directly from each company's careers API every
 | [Snap](#snap) | 4 |
 | [Snowflake](#snowflake) | 1 |
 | [Spotify](#spotify) | 2 |
-| [Stripe](#stripe) | 3 |
+| [Stripe](#stripe) | 4 |
 | [SumUp](#sumup) | 7 |
 | [Tripadvisor](#tripadvisor) | 9 |
 | [Twitch](#twitch) | 3 |
@@ -83,8 +83,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Sr. iOS Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605) 🆕 | iOS | Senior | 4 Locations | 2026-09-18 | 2026-10-02 |
-| [Senior Engineering Manager  \| iOS Video Applications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1) 🆕 | iOS | Manager | Remote California | 2026-09-18 | 2026-10-02 |
+| [Sr. iOS Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605) 🆕 | iOS | Senior | 4 Locations | 2026-09-19 | 2026-10-02 |
+| [Senior Engineering Manager  \| iOS Video Applications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1) 🆕 | iOS | Manager | Remote California | 2026-09-19 | 2026-10-02 |
 
 ## Adyen
 
@@ -122,6 +122,7 @@ tech companies, scraped directly from each company's careers API every
 | [Principal Software Engineer, Fulfillment by Amazon - IOS](https://www.amazon.jobs/en/jobs/10530757/principal-software-engineer-fulfillment-by-amazon-ios) 🆕 | iOS | Staff+ | Bengaluru, Karnataka, IND | 2026-09-06 | 2026-10-02 |
 | [Software Development Manager, Android](https://www.amazon.jobs/en/jobs/10505109/software-development-manager-android) 🆕 | Android | Manager | Cambridge, Massachusetts, USA | 2026-08-24 | 2026-10-02 |
 | [Mobile Security Engineer, Application Security](https://www.amazon.jobs/en/jobs/10509690/mobile-security-engineer-application-security) 🆕 | Mobile | Mid | USA | 2026-08-20 | 2026-10-02 |
+| [Sr. Front-End Mobile Engineer, Aza & PXT AI](https://www.amazon.jobs/en/jobs/10505565/sr-front-end-mobile-engineer-aza-pxt-ai) 🆕 | Mobile | Senior | Bellevue, Washington, USA | 2026-08-18 | 2026-10-08 |
 | [Software Development Manager, Prime Video Mobile Android](https://www.amazon.jobs/en/jobs/10504584/software-development-manager-prime-video-mobile-android) 🆕 | Android | Manager | Seattle, Washington, USA | 2026-08-18 | 2026-10-02 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10505107/software-development-engineer-ios) 🆕 | iOS | Mid | Newark, New Jersey, USA | 2026-08-18 | 2026-10-02 |
 | [Sr. Builder - Mobile (Sr. SDE), Ring](https://www.amazon.jobs/en/jobs/10502541/sr-builder-mobile-sr-sde-ring) 🆕 | Mobile | Senior | Toronto, Ontario, CAN | 2026-08-14 | 2026-10-02 |
@@ -188,7 +189,6 @@ tech companies, scraped directly from each company's careers API every
 | [iOS Engineer - Wallet](https://jobs.apple.com/en-us/details/200662761/ios-engineer-wallet) 🆕 | iOS | Mid | San Diego | 2026-05-12 | 2026-10-02 |
 | [Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience](https://jobs.apple.com/en-us/details/200659816/software-engineer-ios-engineer-springboard-multitasking-system-experience) 🆕 | iOS | Mid | Cupertino | 2026-04-23 | 2026-10-02 |
 | [Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience](https://jobs.apple.com/en-us/details/200654462/software-engineer-ios-engineer-springboard-multitasking-system-experience) 🆕 | iOS | Mid | Cupertino | 2026-04-16 | 2026-10-02 |
-| [iOS Home Application Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200657297/ios-home-application-engineer-wireless-technologies-ecosystems) 🆕 | iOS | Mid | Cupertino | 2026-04-11 | 2026-10-07 |
 | [iOS/macOS Software Engineer](https://jobs.apple.com/en-us/details/200651661/ios-macos-software-engineer) 🆕 | iOS | Mid | Cupertino | 2026-03-13 | 2026-10-02 |
 | [iOS Software Engineer, Customer Systems](https://jobs.apple.com/en-us/details/200631336/ios-software-engineer-customer-systems) 🆕 | iOS | Mid | Sunnyvale | 2026-02-25 | 2026-10-02 |
 | [Software Quality Engineer, Mobile Apps - Retail Engineering](https://jobs.apple.com/en-us/details/200613850/software-quality-engineer-mobile-apps-retail-engineering) 🆕 | Mobile | Mid | Austin | 2026-02-18 | 2026-10-02 |
@@ -436,7 +436,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer - Android](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333) 🆕 | Android | Mid | 2 Locations | 2026-10-07 | 2026-10-07 |
+| [Software Engineer - Android](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333) 🆕 | Android | Mid | 2 Locations | 2026-10-08 | 2026-10-07 |
 | [Staff Software Engineer iOS](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer-iOS_R0134248-1) 🆕 | iOS | Staff+ | Austin, Texas, United States of America | 2026-09-03 | 2026-10-02 |
 | [Staff Software Engineer - iOS](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---iOS_R0135097-1) 🆕 | iOS | Staff+ | 2 Locations | 2026-09-03 | 2026-10-02 |
 | [Sr Software Engineer, Android](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer--Android_R0134362-1) 🆕 | Android | Senior | 2 Locations | 2026-09-03 | 2026-10-02 |
@@ -507,19 +507,19 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Staff iOS Developer Experience Engineer - Slack](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1) 🆕 | iOS | Staff+ | 3 Locations | 2026-10-01 | 2026-10-02 |
-| [Staff Prototyping Engineer, Android](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1) 🆕 | Android | Staff+ | 5 Locations | 2026-10-01 | 2026-10-02 |
-| [Senior Staff Prototyping Engineer, iOS](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1) 🆕 | iOS | Staff+ | 5 Locations | 2026-10-01 | 2026-10-02 |
-| [Senior Software Engineer, Android Accessibility](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335) 🆕 | Android | Senior | 4 Locations | 2026-09-24 | 2026-10-02 |
+| [Staff iOS Developer Experience Engineer - Slack](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1) 🆕 | iOS | Staff+ | 3 Locations | 2026-10-02 | 2026-10-02 |
+| [Staff Prototyping Engineer, Android](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1) 🆕 | Android | Staff+ | 5 Locations | 2026-10-02 | 2026-10-02 |
+| [Senior Staff Prototyping Engineer, iOS](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1) 🆕 | iOS | Staff+ | 5 Locations | 2026-10-02 | 2026-10-02 |
+| [Senior Software Engineer, Android Accessibility](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335) 🆕 | Android | Senior | 4 Locations | 2026-09-25 | 2026-10-02 |
 
 ## Snap
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer, Android, Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1) 🆕 | Android | Mid | Toronto, Canada | 2026-10-06 | 2026-10-06 |
-| [Software Engineer, iOS, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2) 🆕 | iOS | Mid | 5 Locations | 2026-10-02 | 2026-10-02 |
-| [Software Engineer, Android, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1) 🆕 | Android | Mid | 5 Locations | 2026-10-02 | 2026-10-02 |
-| [Software Engineer, Android, Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2) 🆕 | Android | Mid | 5 Locations | 2026-10-02 | 2026-10-02 |
+| [Software Engineer, Android, Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1) 🆕 | Android | Mid | Toronto, Canada | 2026-10-07 | 2026-10-06 |
+| [Software Engineer, iOS, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2) 🆕 | iOS | Mid | 5 Locations | 2026-10-03 | 2026-10-02 |
+| [Software Engineer, Android, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1) 🆕 | Android | Mid | 5 Locations | 2026-10-03 | 2026-10-02 |
+| [Software Engineer, Android, Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2) 🆕 | Android | Mid | 5 Locations | 2026-10-03 | 2026-10-02 |
 
 ## Snowflake
 
@@ -539,6 +539,7 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Engineering Manager, Mobile Development Productivity](https://stripe.com/jobs/search?gh_jid=8229361) 🆕 | Mobile | Manager | US-Remote | 2026-10-05 | 2026-10-06 |
+| [Android BSP Engineer](https://stripe.com/jobs/search?gh_jid=8239006) 🆕 | Android | Mid | Taipei, Taiwan | 2026-09-29 | 2026-10-02 |
 | [Mobile Engineer, Treasury](https://stripe.com/jobs/search?gh_jid=7978915) 🆕 | Mobile | Mid | United Kingdom | 2026-06-03 | 2026-10-02 |
 | [Android Engineer, Terminal OS Platform](https://stripe.com/jobs/search?gh_jid=7557403) 🆕 | Android | Mid | San Francisco, Seattle | 2026-01-22 | 2026-10-02 |
 
