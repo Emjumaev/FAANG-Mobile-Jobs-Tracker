@@ -27,7 +27,7 @@
       "locations": [
         "Remote California"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Senior Engineering Manager  | iOS Video Applications",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1"
     },
@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
@@ -1054,7 +1054,7 @@
       "last_seen": "2026-10-09",
       "level": "Mid",
       "locations": [
-        "San Diego"
+        "Cary"
       ],
       "posted": "2026-08-20",
       "title": "iOS Software Engineer - Creative Apps",
@@ -1455,8 +1455,9 @@
       "url": "https://bloomberg.avature.net/careers/JobDetail/Senior-iOS-Engineer-Mobile-Professional/21229"
     },
     "cisco:2015676": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-09",
       "company": "Cisco",
       "external_id": "2015676",
       "first_seen": "2026-10-02",
@@ -2188,6 +2189,22 @@
       "title": "Android XR Application Compatibility AI Technical Lead",
       "url": "https://www.google.com/about/careers/applications/jobs/results/111864505801024198"
     },
+    "google:112629819581047494": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "112629819581047494",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Staff+",
+      "locations": [
+        "Los Angeles, CA, USA",
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-24",
+      "title": "Staff iOS Developer, Search",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112629819581047494"
+    },
     "google:112803830181044934": {
       "active": false,
       "category": "iOS",
@@ -2802,6 +2819,22 @@
       "title": "Senior Software Engineer, Mobile, Android",
       "url": "https://www.google.com/about/careers/applications/jobs/results/72841586148287174"
     },
+    "google:73305472681026246": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "73305472681026246",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Senior",
+      "locations": [
+        "Los Angeles, CA, USA",
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-09-15",
+      "title": "Senior iOS Developer, Search App",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/73305472681026246"
+    },
     "google:73813138889155270": {
       "active": true,
       "category": "Android",
@@ -2864,6 +2897,21 @@
       "posted": "2026-09-23",
       "title": "Senior Software Engineer, Mobile, iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/74811910985261766"
+    },
+    "google:76007361445012166": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "76007361445012166",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Staff+",
+      "locations": [
+        "Krak\u00f3w, Poland"
+      ],
+      "posted": "2026-10-09",
+      "title": "Mobile Technical Lead, RCS For Business",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/76007361445012166"
     },
     "google:76179974033154758": {
       "active": true,
@@ -3064,6 +3112,21 @@
       "posted": "2026-09-09",
       "title": "Software Engineer III, iOS XR",
       "url": "https://www.google.com/about/careers/applications/jobs/results/84098129569161926"
+    },
+    "google:84604442862592710": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "84604442862592710",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Staff+",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-10-09",
+      "title": "Senior Software Engineer, Tech Lead, Android Studio",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84604442862592710"
     },
     "google:85254755672040134": {
       "active": true,
@@ -3400,7 +3463,6 @@
         "Bellevue, WA",
         "Menlo Park, CA",
         "New York, NY",
-        "Redmond, WA",
         "Remote, US",
         "San Francisco, CA"
       ],
@@ -3475,8 +3537,9 @@
       "url": "https://www.metacareers.com/jobs/699608119727078"
     },
     "monzo:7115379": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-09",
       "company": "Monzo",
       "external_id": "7115379",
       "first_seen": "2026-10-02",
@@ -3831,7 +3894,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -4445,7 +4508,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4460,7 +4523,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -4475,7 +4538,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -4490,7 +4553,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -4505,7 +4568,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -4520,7 +4583,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -4551,7 +4614,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -4598,7 +4661,7 @@
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -5124,5 +5187,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-09T06:47:21Z"
+  "updated_at": "2026-10-09T13:52:42Z"
 }
