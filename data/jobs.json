@@ -382,8 +382,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10504584/software-development-manager-prime-video-mobile-android"
     },
     "amazon:10505107": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-09",
       "company": "Amazon",
       "external_id": "10505107",
       "first_seen": "2026-10-02",
@@ -921,7 +922,7 @@
       "locations": [
         "Cupertino"
       ],
-      "posted": "2026-07-13",
+      "posted": "2026-10-09",
       "title": "UI and iOS Platform Software Engineer, Safari",
       "url": "https://jobs.apple.com/en-us/details/200671616/ui-and-ios-platform-software-engineer-safari"
     },
@@ -2506,6 +2507,21 @@
       "title": "Software Engineer, GeminiApp Android and Chrome Integration, DeepMind",
       "url": "https://www.google.com/about/careers/applications/jobs/results/128432525755196102"
     },
+    "google:129286946147967686": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "129286946147967686",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Senior",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-10-09",
+      "title": "Senior Software Engineer, Gemini Enterprise Mobile",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/129286946147967686"
+    },
     "google:129819530682606278": {
       "active": true,
       "category": "iOS",
@@ -2585,6 +2601,21 @@
       "posted": "2026-08-27",
       "title": "Staff Software Engineer, Mobile (Android), YouTube",
       "url": "https://www.google.com/about/careers/applications/jobs/results/133666085139292870"
+    },
+    "google:133963718856712902": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "133963718856712902",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "level": "Staff+",
+      "locations": [
+        "Bucharest, Romania"
+      ],
+      "posted": "2026-10-09",
+      "title": "Staff Technical Lead, Games Performance, Android System Health",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133963718856712902"
     },
     "google:134433573246509766": {
       "active": true,
@@ -2851,8 +2882,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/73813138889155270"
     },
     "google:74065227699626694": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-09",
       "company": "Google",
       "external_id": "74065227699626694",
       "first_seen": "2026-10-02",
@@ -2959,8 +2991,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/77247651363332806"
     },
     "google:77656647140287174": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-09",
       "company": "Google",
       "external_id": "77656647140287174",
       "first_seen": "2026-10-02",
@@ -3099,8 +3132,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83912025851208390"
     },
     "google:84098129569161926": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-09",
       "company": "Google",
       "external_id": "84098129569161926",
       "first_seen": "2026-10-02",
@@ -3444,8 +3478,7 @@
         "Menlo Park, CA",
         "New York, NY",
         "Remote, US",
-        "San Francisco, CA",
-        "Seattle, WA"
+        "San Francisco, CA"
       ],
       "posted": null,
       "title": "Software Engineer - iOS (Technical Leadership)",
@@ -3498,9 +3531,7 @@
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-09",
       "level": "Mid",
-      "locations": [
-        "Menlo Park, CA"
-      ],
+      "locations": [],
       "posted": null,
       "title": "Software Engineer - Android, Standalone Apps Team",
       "url": "https://www.metacareers.com/jobs/2189071041883117"
@@ -3530,7 +3561,9 @@
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
-        "New York, NY"
+        "New York, NY",
+        "Remote, US",
+        "San Francisco, CA"
       ],
       "posted": null,
       "title": "Software Engineer - Android (Technical Leadership)",
@@ -4508,7 +4541,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-09",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4523,7 +4556,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-09",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -5187,5 +5220,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-09T13:52:42Z"
+  "updated_at": "2026-10-09T23:01:15Z"
 }
