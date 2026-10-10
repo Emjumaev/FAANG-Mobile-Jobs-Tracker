@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-10 13:08:42 UTC** · 📌 **287** open mobile jobs
+> 🕐 Last updated: **2026-10-10 22:07:25 UTC** · 📌 **286** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **125** iOS · **112** Android · **2** iOS & Android · **48** Mobile
-> · By level: 5 Intern · 4 Entry · 108 Mid · 108 Senior · 44 Staff+ · 18 Manager
+> 📊 By platform: **125** iOS · **111** Android · **2** iOS & Android · **48** Mobile
+> · By level: 5 Intern · 4 Entry · 107 Mid · 108 Senior · 44 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -43,7 +43,7 @@ tech companies, scraped directly from each company's careers API every
 | [Instacart](#instacart) | 3 |
 | Intel | — |
 | [Lyft](#lyft) | 3 |
-| [Meta](#meta) | 6 |
+| [Meta](#meta) | 5 |
 | Microsoft | — |
 | MongoDB | — |
 | [Monzo](#monzo) | 1 |
@@ -377,7 +377,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/3374573439389340) | iOS | Mid | London, UK | — | 2026-10-02 |
 | [Software Engineer, Android](https://www.metacareers.com/jobs/1394915781774041) | Android | Mid | Burlingame, CA; Menlo Park, CA; New York, NY *(+3 more)* | — | 2026-10-02 |
 | [Software Engineer - iOS (Technical Leadership)](https://www.metacareers.com/jobs/1061795906099278) | iOS | Mid | Menlo Park, CA; New York, NY; Remote, US *(+1 more)* | — | 2026-10-02 |
-| [Software Engineer - Android, Standalone Apps Team](https://www.metacareers.com/jobs/2189071041883117) | Android | Mid | — | — | 2026-10-02 |
 | [Software Engineer - Android (Technical Leadership)](https://www.metacareers.com/jobs/699608119727078) | Android | Mid | Menlo Park, CA; New York, NY; Remote, US *(+1 more)* | — | 2026-10-02 |
 
 ## Monzo

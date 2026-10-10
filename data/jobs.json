@@ -3524,8 +3524,9 @@
       "url": "https://www.metacareers.com/jobs/1394915781774041"
     },
     "meta:2189071041883117": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-10",
       "company": "Meta",
       "external_id": "2189071041883117",
       "first_seen": "2026-10-02",
@@ -5220,5 +5221,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-10T13:08:42Z"
+  "updated_at": "2026-10-10T22:07:25Z"
 }
