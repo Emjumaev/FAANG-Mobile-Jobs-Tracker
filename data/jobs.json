@@ -22,7 +22,7 @@
       "company": "Adobe",
       "external_id": "R170167",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Manager",
       "locations": [
         "Remote California"
@@ -53,7 +53,7 @@
       "company": "Adobe",
       "external_id": "R170605",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Senior",
       "locations": [
         "4 Locations"
@@ -1055,7 +1055,7 @@
       "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
-        "San Diego"
+        "Cary"
       ],
       "posted": "2026-08-20",
       "title": "iOS Software Engineer - Creative Apps",
@@ -3742,7 +3742,7 @@
       "company": "NVIDIA",
       "external_id": "JR2024408",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Intern",
       "locations": [
         "Taiwan, Taipei"
@@ -3877,7 +3877,7 @@
       "company": "PayPal",
       "external_id": "R0134248",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Staff+",
       "locations": [
         "Austin, Texas, United States of America"
@@ -3892,7 +3892,7 @@
       "company": "PayPal",
       "external_id": "R0134362",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Senior",
       "locations": [
         "2 Locations"
@@ -3907,7 +3907,7 @@
       "company": "PayPal",
       "external_id": "R0135097",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Staff+",
       "locations": [
         "2 Locations"
@@ -3922,7 +3922,7 @@
       "company": "PayPal",
       "external_id": "R0138333",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
         "2 Locations"
@@ -4541,7 +4541,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4556,7 +4556,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -4571,7 +4571,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -4586,7 +4586,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -4596,7 +4596,7 @@
       "company": "Snap",
       "external_id": "Q426SWEA2",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -4611,7 +4611,7 @@
       "company": "Snap",
       "external_id": "Q426SWEA6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -4642,7 +4642,7 @@
       "company": "Snap",
       "external_id": "Q426SWEI6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -4689,7 +4689,7 @@
       "company": "Snap",
       "external_id": "R0047083",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-10",
       "level": "Mid",
       "locations": [
         "Toronto, Canada"
@@ -5220,5 +5220,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-10T06:26:11Z"
+  "updated_at": "2026-10-10T13:08:42Z"
 }
