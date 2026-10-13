@@ -22,12 +22,12 @@
       "company": "Adobe",
       "external_id": "R170167",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Remote California"
       ],
-      "posted": "2026-09-18",
+      "posted": "2026-09-19",
       "title": "Senior Engineering Manager  | iOS Video Applications",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1"
     },
@@ -53,12 +53,12 @@
       "company": "Adobe",
       "external_id": "R170605",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-18",
+      "posted": "2026-09-19",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
@@ -68,7 +68,7 @@
       "company": "Adyen",
       "external_id": "8098671",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Bengaluru"
@@ -83,7 +83,7 @@
       "company": "Adyen",
       "external_id": "8103468",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Chicago"
@@ -91,6 +91,21 @@
       "posted": "2026-08-24",
       "title": "Staff Engineer - Payments (Mobile & Terminal Experiences)",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8103468"
+    },
+    "adyen:8167155": {
+      "active": true,
+      "category": "iOS & Android",
+      "company": "Adyen",
+      "external_id": "8167155",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Manager",
+      "locations": [
+        "Amsterdam"
+      ],
+      "posted": "2026-10-12",
+      "title": "Engineering Manager - Android / iOS",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8167155"
     },
     "affirm:7663434003": {
       "active": false,
@@ -130,7 +145,7 @@
       "company": "Affirm",
       "external_id": "7829427003",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote US"
@@ -145,7 +160,7 @@
       "company": "Affirm",
       "external_id": "7829429003",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote Canada"
@@ -177,7 +192,7 @@
       "company": "Airbnb",
       "external_id": "8189374",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Brazil"
@@ -224,7 +239,7 @@
       "company": "Airbnb",
       "external_id": "8250093",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote, USA"
@@ -239,7 +254,7 @@
       "company": "Airbnb",
       "external_id": "8257855",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Entry",
       "locations": [
         "S\u00e3o Paulo, Brazil"
@@ -254,7 +269,7 @@
       "company": "Airbnb",
       "external_id": "8262769",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "United States"
@@ -269,7 +284,7 @@
       "company": "Airbnb",
       "external_id": "8262812",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "United States"
@@ -284,7 +299,7 @@
       "company": "Amazon",
       "external_id": "10457833",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "North Reading, Massachusetts, USA"
@@ -299,7 +314,7 @@
       "company": "Amazon",
       "external_id": "10457834",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "North Reading, Massachusetts, USA"
@@ -314,7 +329,7 @@
       "company": "Amazon",
       "external_id": "10478336",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Bengaluru, Karnataka, IND"
@@ -329,7 +344,7 @@
       "company": "Amazon",
       "external_id": "10497967",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Texas, USA"
@@ -344,7 +359,7 @@
       "company": "Amazon",
       "external_id": "10501770",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Vancouver, British Columbia, CAN"
@@ -359,7 +374,7 @@
       "company": "Amazon",
       "external_id": "10502541",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Toronto, Ontario, CAN"
@@ -374,7 +389,7 @@
       "company": "Amazon",
       "external_id": "10504584",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Seattle, Washington, USA"
@@ -405,7 +420,7 @@
       "company": "Amazon",
       "external_id": "10505109",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Cambridge, Massachusetts, USA"
@@ -420,7 +435,7 @@
       "company": "Amazon",
       "external_id": "10505565",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Bellevue, Washington, USA"
@@ -435,7 +450,7 @@
       "company": "Amazon",
       "external_id": "10509690",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "USA"
@@ -450,7 +465,7 @@
       "company": "Amazon",
       "external_id": "10530757",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Bengaluru, Karnataka, IND"
@@ -465,7 +480,7 @@
       "company": "Amazon",
       "external_id": "10532122",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "San Francisco, California, USA"
@@ -480,7 +495,7 @@
       "company": "Amazon",
       "external_id": "10559348",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Austin, Texas, USA"
@@ -495,7 +510,7 @@
       "company": "Amazon",
       "external_id": "10567328",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Seattle, Washington, USA"
@@ -510,7 +525,7 @@
       "company": "Amazon",
       "external_id": "10568048",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Seattle, Washington, USA"
@@ -520,8 +535,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10568048/software-development-engineer-app-performance-mobile-app-foundations"
     },
     "amazon:10571004": {
-      "active": true,
+      "active": false,
       "category": "iOS & Android",
+      "closed": "2026-10-13",
       "company": "Amazon",
       "external_id": "10571004",
       "first_seen": "2026-10-06",
@@ -540,7 +556,7 @@
       "company": "Anthropic",
       "external_id": "4572744008",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Francisco, CA, New York City, NY, Seattle, WA"
@@ -555,7 +571,7 @@
       "company": "Anthropic",
       "external_id": "4899511008",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Francisco, CA | New York City, NY | Seattle, WA"
@@ -570,7 +586,7 @@
       "company": "Apple",
       "external_id": "200613850",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Austin"
@@ -601,7 +617,7 @@
       "company": "Apple",
       "external_id": "200629964",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -616,7 +632,7 @@
       "company": "Apple",
       "external_id": "200631336",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Sunnyvale"
@@ -631,7 +647,7 @@
       "company": "Apple",
       "external_id": "200651661",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -646,7 +662,7 @@
       "company": "Apple",
       "external_id": "200653312",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco"
@@ -661,7 +677,7 @@
       "company": "Apple",
       "external_id": "200654462",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -677,7 +693,7 @@
       "company": "Apple",
       "external_id": "200657297",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -692,10 +708,10 @@
       "company": "Apple",
       "external_id": "200658053",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
-        "Sunnyvale"
+        "San Diego"
       ],
       "posted": "2026-08-07",
       "title": "Senior Software Engineer, Swift - macOS",
@@ -707,7 +723,7 @@
       "company": "Apple",
       "external_id": "200659816",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -722,7 +738,7 @@
       "company": "Apple",
       "external_id": "200661354",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -737,7 +753,7 @@
       "company": "Apple",
       "external_id": "200662668",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Diego"
@@ -752,7 +768,7 @@
       "company": "Apple",
       "external_id": "200662757",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New York City Metro Area"
@@ -767,7 +783,7 @@
       "company": "Apple",
       "external_id": "200662761",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Diego"
@@ -798,7 +814,7 @@
       "company": "Apple",
       "external_id": "200664311",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Cupertino"
@@ -813,7 +829,7 @@
       "company": "Apple",
       "external_id": "200665196",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -844,7 +860,7 @@
       "company": "Apple",
       "external_id": "200667449",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco Bay Area"
@@ -859,7 +875,7 @@
       "company": "Apple",
       "external_id": "200668589",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Cork"
@@ -874,7 +890,7 @@
       "company": "Apple",
       "external_id": "200668592",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cork"
@@ -883,13 +899,28 @@
       "title": "Swift Software Engineer, Employee Engagement Engineering",
       "url": "https://jobs.apple.com/en-us/details/200668592/swift-software-engineer-employee-engagement-engineering"
     },
+    "apple:200669203": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200669203",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Mid",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-10-12",
+      "title": "Profiling Tools Engineer (Xcode Instruments) - Developer Experience",
+      "url": "https://jobs.apple.com/en-us/details/200669203/profiling-tools-engineer-xcode-instruments-developer-experience"
+    },
     "apple:200671390": {
       "active": true,
       "category": "iOS",
       "company": "Apple",
       "external_id": "200671390",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Austin"
@@ -904,7 +935,7 @@
       "company": "Apple",
       "external_id": "200671398",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Austin"
@@ -919,7 +950,7 @@
       "company": "Apple",
       "external_id": "200671616",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -934,7 +965,7 @@
       "company": "Apple",
       "external_id": "200672385",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -949,7 +980,7 @@
       "company": "Apple",
       "external_id": "200674165",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -964,7 +995,7 @@
       "company": "Apple",
       "external_id": "200674686",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -979,7 +1010,7 @@
       "company": "Apple",
       "external_id": "200674943",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -994,7 +1025,7 @@
       "company": "Apple",
       "external_id": "200675476",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -1009,7 +1040,7 @@
       "company": "Apple",
       "external_id": "200675591",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -1024,7 +1055,7 @@
       "company": "Apple",
       "external_id": "200676232",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Sunnyvale"
@@ -1039,7 +1070,7 @@
       "company": "Apple",
       "external_id": "200678174",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Pittsburgh"
@@ -1054,7 +1085,7 @@
       "company": "Apple",
       "external_id": "200678192",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cary"
@@ -1069,7 +1100,7 @@
       "company": "Apple",
       "external_id": "200678194",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Cupertino"
@@ -1084,7 +1115,7 @@
       "company": "Apple",
       "external_id": "200678744",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New York City"
@@ -1099,7 +1130,7 @@
       "company": "Apple",
       "external_id": "200678780",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Vancouver"
@@ -1114,7 +1145,7 @@
       "company": "Apple",
       "external_id": "200678787",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Vancouver"
@@ -1145,7 +1176,7 @@
       "company": "Apple",
       "external_id": "200680031",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Beijing"
@@ -1160,7 +1191,7 @@
       "company": "Apple",
       "external_id": "200680206",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Vancouver"
@@ -1223,7 +1254,7 @@
       "company": "Apple",
       "external_id": "200681110",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Sunnyvale"
@@ -1238,7 +1269,7 @@
       "company": "Apple",
       "external_id": "200682345",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Herzliya"
@@ -1253,7 +1284,7 @@
       "company": "Apple",
       "external_id": "200682975",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London"
@@ -1268,7 +1299,7 @@
       "company": "Apple",
       "external_id": "200682986",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Diego"
@@ -1283,7 +1314,7 @@
       "company": "Apple",
       "external_id": "200685106",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -1298,7 +1329,7 @@
       "company": "Apple",
       "external_id": "200685357",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Shanghai"
@@ -1313,7 +1344,7 @@
       "company": "Apple",
       "external_id": "200685888",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Berlin"
@@ -1328,7 +1359,7 @@
       "company": "Apple",
       "external_id": "200685890",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Zurich"
@@ -1343,7 +1374,7 @@
       "company": "Apple",
       "external_id": "200686243",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Cupertino"
@@ -1358,7 +1389,7 @@
       "company": "Apple",
       "external_id": "200686902",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Cupertino"
@@ -1373,7 +1404,7 @@
       "company": "Apple",
       "external_id": "200687104",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cupertino"
@@ -1404,7 +1435,7 @@
       "company": "Apple",
       "external_id": "200687574",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Austin"
@@ -1419,7 +1450,7 @@
       "company": "Block",
       "external_id": "5373636008",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Bay Area, CA, United States of America"
@@ -1434,7 +1465,7 @@
       "company": "Block",
       "external_id": "5423630008",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Bay Area, CA, United States of America"
@@ -1449,7 +1480,7 @@
       "company": "Bloomberg",
       "external_id": "21229",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Dublin, Ireland"
@@ -1480,7 +1511,7 @@
       "company": "Cisco",
       "external_id": "2021020",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Research Triangle Park, North Carolina, United States of America",
@@ -1496,7 +1527,7 @@
       "company": "Cisco",
       "external_id": "2023299",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Ann Arbor, Michigan, United States of America"
@@ -1511,7 +1542,7 @@
       "company": "Cisco",
       "external_id": "2023877",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Slovakia"
@@ -1526,7 +1557,7 @@
       "company": "Cloudflare",
       "external_id": "8248635",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Hybrid"
@@ -1541,7 +1572,7 @@
       "company": "Coinbase",
       "external_id": "8241716",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote - USA"
@@ -1556,7 +1587,7 @@
       "company": "Coinbase",
       "external_id": "8241720",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote - USA"
@@ -1571,7 +1602,7 @@
       "company": "Coinbase",
       "external_id": "8241724",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote - USA"
@@ -1586,7 +1617,7 @@
       "company": "Coinbase",
       "external_id": "8241748",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote - USA"
@@ -1601,7 +1632,7 @@
       "company": "Coinbase",
       "external_id": "8241752",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote - USA"
@@ -1648,7 +1679,7 @@
       "company": "Coupang",
       "external_id": "8146512",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Seoul, South Korea"
@@ -1663,7 +1694,7 @@
       "company": "Coupang",
       "external_id": "8194393",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Seoul, South Korea"
@@ -1678,7 +1709,7 @@
       "company": "Coupang",
       "external_id": "8203471",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Seoul, South Korea"
@@ -1693,7 +1724,7 @@
       "company": "Databricks",
       "external_id": "8692516002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Mountain View, California",
@@ -1709,7 +1740,7 @@
       "company": "Deliveroo",
       "external_id": "8202417",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, United Kingdom - Deliveroo"
@@ -1724,7 +1755,7 @@
       "company": "Deliveroo",
       "external_id": "8202448",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, United Kingdom - Deliveroo"
@@ -1739,7 +1770,7 @@
       "company": "Deliveroo",
       "external_id": "8202481",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London, United Kingdom - Deliveroo"
@@ -1754,7 +1785,7 @@
       "company": "Deliveroo",
       "external_id": "8206363",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, United Kingdom - Deliveroo"
@@ -1769,7 +1800,7 @@
       "company": "DoorDash",
       "external_id": "5516948",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco, CA",
@@ -1785,7 +1816,7 @@
       "company": "DoorDash",
       "external_id": "5630438",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco, CA",
@@ -1802,7 +1833,7 @@
       "company": "DoorDash",
       "external_id": "5630454",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New York, NY",
@@ -1820,7 +1851,7 @@
       "company": "DoorDash",
       "external_id": "8119303",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Los Angeles, CA",
@@ -1839,7 +1870,7 @@
       "company": "DoorDash",
       "external_id": "8197854",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Los Angeles, CA",
@@ -1874,7 +1905,7 @@
       "company": "Duolingo",
       "external_id": "8393272002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "New York, NY",
@@ -1890,7 +1921,7 @@
       "company": "Duolingo",
       "external_id": "8628658002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "New York, NY",
@@ -1922,7 +1953,7 @@
       "company": "Duolingo",
       "external_id": "8701378002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Beijing, China"
@@ -1937,7 +1968,7 @@
       "company": "Duolingo",
       "external_id": "8702391002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Beijing, China"
@@ -1968,7 +1999,7 @@
       "company": "Duolingo",
       "external_id": "8745752002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "New York, NY",
@@ -1984,7 +2015,7 @@
       "company": "Epic Games",
       "external_id": "6186137004",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Cary,North Carolina,United States"
@@ -1999,7 +2030,7 @@
       "company": "Epic Games",
       "external_id": "6186139004",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "BLANK,BLANK,Multiple Locations"
@@ -2014,7 +2045,7 @@
       "company": "Epic Games",
       "external_id": "6193433004",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Porto Alegre,Rio Grande do Sul,Brazil"
@@ -2029,7 +2060,7 @@
       "company": "Epic Games",
       "external_id": "6193455004",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Montreal,Quebec,Canada"
@@ -2060,7 +2091,7 @@
       "company": "Google",
       "external_id": "102388080295453382",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -2075,7 +2106,7 @@
       "company": "Google",
       "external_id": "102953408587014854",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Singapore"
@@ -2090,7 +2121,7 @@
       "company": "Google",
       "external_id": "103794099043082950",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2106,7 +2137,7 @@
       "company": "Google",
       "external_id": "105605735575888582",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, UK"
@@ -2153,7 +2184,7 @@
       "company": "Google",
       "external_id": "106584980603183814",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Sydney NSW, Australia"
@@ -2168,7 +2199,7 @@
       "company": "Google",
       "external_id": "106608848810189510",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2184,7 +2215,7 @@
       "company": "Google",
       "external_id": "108518356373381830",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Bruno, CA, USA"
@@ -2199,7 +2230,7 @@
       "company": "Google",
       "external_id": "108614349429318342",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA",
@@ -2215,7 +2246,7 @@
       "company": "Google",
       "external_id": "111474325202051782",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Singapore"
@@ -2230,7 +2261,7 @@
       "company": "Google",
       "external_id": "111864505801024198",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Jose, CA, USA",
@@ -2246,7 +2277,7 @@
       "company": "Google",
       "external_id": "112629819581047494",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Los Angeles, CA, USA",
@@ -2279,7 +2310,7 @@
       "company": "Google",
       "external_id": "115625507730399942",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Mountain View, CA, USA"
@@ -2294,7 +2325,7 @@
       "company": "Google",
       "external_id": "115977778800534214",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Waterloo, ON, Canada"
@@ -2309,7 +2340,7 @@
       "company": "Google",
       "external_id": "116324069564916422",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -2324,7 +2355,7 @@
       "company": "Google",
       "external_id": "116724632811119302",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA",
@@ -2357,7 +2388,7 @@
       "company": "Google",
       "external_id": "119152741032305350",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "San Bruno, CA, USA"
@@ -2372,7 +2403,7 @@
       "company": "Google",
       "external_id": "120619925482939078",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2388,7 +2419,7 @@
       "company": "Google",
       "external_id": "121107122950677190",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2422,7 +2453,7 @@
       "company": "Google",
       "external_id": "122481443765920454",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Singapore"
@@ -2453,7 +2484,7 @@
       "company": "Google",
       "external_id": "122782407156736710",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Mountain View, CA, USA"
@@ -2468,7 +2499,7 @@
       "company": "Google",
       "external_id": "122854521805120198",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2486,7 +2517,7 @@
       "company": "Google",
       "external_id": "123365080841495238",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Entry",
       "locations": [
         "Mexico City, CDMX, Mexico"
@@ -2501,7 +2532,7 @@
       "company": "Google",
       "external_id": "123706720626057926",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New Taipei, Banqiao District, New Taipei City, Taiwan"
@@ -2516,7 +2547,7 @@
       "company": "Google",
       "external_id": "125103774703198918",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2532,7 +2563,7 @@
       "company": "Google",
       "external_id": "125735636333142726",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -2579,7 +2610,7 @@
       "company": "Google",
       "external_id": "129286946147967686",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Warsaw, Poland"
@@ -2594,7 +2625,7 @@
       "company": "Google",
       "external_id": "129819530682606278",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Sydney NSW, Australia"
@@ -2609,7 +2640,7 @@
       "company": "Google",
       "external_id": "131242196723475142",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Kirkland, WA, USA",
@@ -2642,7 +2673,7 @@
       "company": "Google",
       "external_id": "133023244499198662",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Mountain View, CA, USA",
@@ -2659,7 +2690,7 @@
       "company": "Google",
       "external_id": "133666085139292870",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Bruno, CA, USA"
@@ -2674,7 +2705,7 @@
       "company": "Google",
       "external_id": "133963718856712902",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Bucharest, Romania"
@@ -2689,7 +2720,7 @@
       "company": "Google",
       "external_id": "134433573246509766",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Mountain View, CA, USA"
@@ -2722,7 +2753,7 @@
       "company": "Google",
       "external_id": "135718318223827654",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Bengaluru, Karnataka, India"
@@ -2737,7 +2768,7 @@
       "company": "Google",
       "external_id": "136707779904578246",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Kirkland, WA, USA"
@@ -2752,7 +2783,7 @@
       "company": "Google",
       "external_id": "137887970345525958",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London, UK"
@@ -2767,7 +2798,7 @@
       "company": "Google",
       "external_id": "139868253064176326",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Kirkland, WA, USA",
@@ -2783,7 +2814,7 @@
       "company": "Google",
       "external_id": "140783433285542598",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Jose, CA, USA",
@@ -2799,7 +2830,7 @@
       "company": "Google",
       "external_id": "142014254948459206",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA"
@@ -2814,7 +2845,7 @@
       "company": "Google",
       "external_id": "142151103343928006",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Mountain View, CA, USA"
@@ -2829,7 +2860,7 @@
       "company": "Google",
       "external_id": "142151738999087814",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Waterloo, ON, Canada"
@@ -2844,7 +2875,7 @@
       "company": "Google",
       "external_id": "142671238915859142",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Singapore"
@@ -2859,7 +2890,7 @@
       "company": "Google",
       "external_id": "143026505725682374",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA"
@@ -2874,7 +2905,7 @@
       "company": "Google",
       "external_id": "143710648918778566",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Durham, NC, USA",
@@ -2890,7 +2921,7 @@
       "company": "Google",
       "external_id": "72115599236309702",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Krak\u00f3w, Poland"
@@ -2905,7 +2936,7 @@
       "company": "Google",
       "external_id": "72841586148287174",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -2922,7 +2953,7 @@
       "company": "Google",
       "external_id": "73305472681026246",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Los Angeles, CA, USA",
@@ -2970,7 +3001,7 @@
       "company": "Google",
       "external_id": "74780514774328006",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA"
@@ -2985,7 +3016,7 @@
       "company": "Google",
       "external_id": "74811910985261766",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -3003,7 +3034,7 @@
       "company": "Google",
       "external_id": "75791736906883782",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -3019,7 +3050,7 @@
       "company": "Google",
       "external_id": "76007361445012166",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Krak\u00f3w, Poland"
@@ -3034,7 +3065,7 @@
       "company": "Google",
       "external_id": "76179974033154758",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Tel Aviv, Israel"
@@ -3049,7 +3080,7 @@
       "company": "Google",
       "external_id": "77224005420884678",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Sydney NSW, Australia"
@@ -3064,7 +3095,7 @@
       "company": "Google",
       "external_id": "77247651363332806",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Cambridge, MA, USA"
@@ -3096,7 +3127,7 @@
       "company": "Google",
       "external_id": "79055769244181190",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Jose, CA, USA"
@@ -3111,7 +3142,7 @@
       "company": "Google",
       "external_id": "79634996049912518",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -3174,7 +3205,7 @@
       "company": "Google",
       "external_id": "83164677483176646",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, UK"
@@ -3205,7 +3236,7 @@
       "company": "Google",
       "external_id": "83912025851208390",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Bruno, CA, USA"
@@ -3236,7 +3267,7 @@
       "company": "Google",
       "external_id": "84604442862592710",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Bengaluru, Karnataka, India"
@@ -3251,7 +3282,7 @@
       "company": "Google",
       "external_id": "85254755672040134",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Singapore"
@@ -3266,7 +3297,7 @@
       "company": "Google",
       "external_id": "85858506741031622",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA"
@@ -3281,7 +3312,7 @@
       "company": "Google",
       "external_id": "85891842129699526",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "New York, NY, USA"
@@ -3296,7 +3327,7 @@
       "company": "Google",
       "external_id": "87534245139882694",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -3311,7 +3342,7 @@
       "company": "Google",
       "external_id": "91878002190623430",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -3326,7 +3357,7 @@
       "company": "Google",
       "external_id": "92228656205570758",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Sydney NSW, Australia"
@@ -3341,7 +3372,7 @@
       "company": "Google",
       "external_id": "92290484407280326",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Krak\u00f3w, Poland"
@@ -3356,7 +3387,7 @@
       "company": "Google",
       "external_id": "94130379677409990",
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Jose, CA, USA",
@@ -3372,7 +3403,7 @@
       "company": "Google",
       "external_id": "96940497322287814",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Singapore"
@@ -3387,7 +3418,7 @@
       "company": "Google",
       "external_id": "97691463764058822",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA"
@@ -3402,7 +3433,7 @@
       "company": "Google",
       "external_id": "99276695390823110",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "London, UK"
@@ -3449,7 +3480,7 @@
       "company": "Instacart",
       "external_id": "8154479",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Israel - Hybrid (3 days/week in office required)"
@@ -3464,7 +3495,7 @@
       "company": "Instacart",
       "external_id": "8237985",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "United States - Remote"
@@ -3479,7 +3510,7 @@
       "company": "Instacart",
       "external_id": "8237987",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Canada - Remote (ON, AB, BC, or NS Only)"
@@ -3494,7 +3525,7 @@
       "company": "Lyft",
       "external_id": "8743513002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Montreal, Canada"
@@ -3509,7 +3540,7 @@
       "company": "Lyft",
       "external_id": "8743515002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Montreal, Canada"
@@ -3540,7 +3571,7 @@
       "company": "Lyft",
       "external_id": "8780012002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco, CA"
@@ -3555,7 +3586,7 @@
       "company": "Meta",
       "external_id": "1061795906099278",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -3573,10 +3604,11 @@
       "company": "Meta",
       "external_id": "1203016587809246",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Bellevue, WA",
+        "Boston, MA",
         "Menlo Park, CA",
         "New York, NY",
         "Remote, US",
@@ -3592,7 +3624,7 @@
       "company": "Meta",
       "external_id": "1394915781774041",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -3626,7 +3658,7 @@
       "company": "Meta",
       "external_id": "3374573439389340",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London, UK"
@@ -3641,7 +3673,7 @@
       "company": "Meta",
       "external_id": "699608119727078",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -3675,7 +3707,7 @@
       "company": "Monzo",
       "external_id": "7343996",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Barcelona"
@@ -3690,7 +3722,7 @@
       "company": "Mozilla",
       "external_id": "8109590",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote"
@@ -3705,7 +3737,7 @@
       "company": "Mozilla",
       "external_id": "8112211",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote US"
@@ -3720,7 +3752,7 @@
       "company": "Mozilla",
       "external_id": "8112219",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Remote Canada"
@@ -3735,7 +3767,7 @@
       "company": "N26",
       "external_id": "8163939",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Entry",
       "locations": [
         "Berlin"
@@ -3750,7 +3782,7 @@
       "company": "N26",
       "external_id": "8163941",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Entry",
       "locations": [
         "Berlin, Barcelona"
@@ -3765,7 +3797,7 @@
       "company": "Netflix",
       "external_id": "790317739137",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Remote, United States"
@@ -3780,7 +3812,7 @@
       "company": "Netflix",
       "external_id": "790318040862",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Remote, United States"
@@ -3795,7 +3827,7 @@
       "company": "Netflix",
       "external_id": "790318041034",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Remote, United States"
@@ -3826,7 +3858,7 @@
       "company": "NVIDIA",
       "external_id": "JR2024408",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Intern",
       "locations": [
         "Taiwan, Taipei"
@@ -3841,7 +3873,7 @@
       "company": "OpenAI",
       "external_id": "5a1a0c32-0b82-482a-8149-e6b096c3e732",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Seattle"
@@ -3856,7 +3888,7 @@
       "company": "OpenAI",
       "external_id": "6202038a-323b-43ce-ae10-534acba4145c",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3871,7 +3903,7 @@
       "company": "OpenAI",
       "external_id": "76c2a136-4e93-4e1a-bbdf-de4268498838",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "San Francisco"
@@ -3886,7 +3918,7 @@
       "company": "OpenAI",
       "external_id": "775240dd-6d36-401a-acca-128df0459610",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3901,7 +3933,7 @@
       "company": "OpenAI",
       "external_id": "7daff2af-1686-43fe-85c0-ca912c8747ac",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3916,7 +3948,7 @@
       "company": "OpenAI",
       "external_id": "b08126cc-8134-45f0-aeb3-4b00e96547de",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3931,7 +3963,7 @@
       "company": "OpenAI",
       "external_id": "b15442c5-8e3c-4370-9abf-4b9c63f56de0",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3946,7 +3978,7 @@
       "company": "OpenAI",
       "external_id": "e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco"
@@ -3961,7 +3993,7 @@
       "company": "PayPal",
       "external_id": "R0134248",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Austin, Texas, United States of America"
@@ -3976,7 +4008,7 @@
       "company": "PayPal",
       "external_id": "R0134362",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "2 Locations"
@@ -3991,7 +4023,7 @@
       "company": "PayPal",
       "external_id": "R0135097",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "2 Locations"
@@ -4006,12 +4038,12 @@
       "company": "PayPal",
       "external_id": "R0138333",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-08",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -4021,7 +4053,7 @@
       "company": "Pinterest",
       "external_id": "6922682",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Toronto, ON, CA"
@@ -4036,7 +4068,7 @@
       "company": "Pinterest",
       "external_id": "8015517",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Toronto, ON, CA"
@@ -4051,7 +4083,7 @@
       "company": "Pinterest",
       "external_id": "8015531",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Toronto, ON, CA"
@@ -4084,7 +4116,7 @@
       "company": "Proton",
       "external_id": "4548812101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Barcelona",
@@ -4116,7 +4148,7 @@
       "company": "Proton",
       "external_id": "4881699101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Geneva"
@@ -4131,7 +4163,7 @@
       "company": "Proton",
       "external_id": "4881705101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Barcelona"
@@ -4162,7 +4194,7 @@
       "company": "Proton",
       "external_id": "4932164101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London"
@@ -4177,7 +4209,7 @@
       "company": "Proton",
       "external_id": "4932176101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Barcelona"
@@ -4192,7 +4224,7 @@
       "company": "Proton",
       "external_id": "4932186101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Geneva"
@@ -4207,7 +4239,7 @@
       "company": "Proton",
       "external_id": "4932193101",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Paris"
@@ -4238,7 +4270,7 @@
       "company": "Reddit",
       "external_id": "7895156",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote - United States"
@@ -4269,7 +4301,7 @@
       "company": "Reddit",
       "external_id": "8127002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Remote - United States"
@@ -4284,7 +4316,7 @@
       "company": "Reddit",
       "external_id": "8211850",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco, CA"
@@ -4294,8 +4326,9 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8211850"
     },
     "reddit:8250125": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-13",
       "company": "Reddit",
       "external_id": "8250125",
       "first_seen": "2026-10-02",
@@ -4314,7 +4347,7 @@
       "company": "Reddit",
       "external_id": "8263374",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco, CA"
@@ -4329,7 +4362,7 @@
       "company": "Reddit",
       "external_id": "8263406",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco, CA"
@@ -4344,7 +4377,7 @@
       "company": "Reddit",
       "external_id": "8263407",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Francisco, CA"
@@ -4353,13 +4386,28 @@
       "title": "Senior Android Software Engineer, Consumer Engineering",
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407"
     },
+    "reddit:8275143": {
+      "active": true,
+      "category": "Android",
+      "company": "Reddit",
+      "external_id": "8275143",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Staff+",
+      "locations": [
+        "Remote - United States"
+      ],
+      "posted": "2026-10-12",
+      "title": "Staff Android Engineer, Android Platform",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143"
+    },
     "riot-games:8225544": {
       "active": true,
       "category": "Mobile",
       "company": "Riot Games",
       "external_id": "8225544",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Los Angeles, USA"
@@ -4374,7 +4422,7 @@
       "company": "Robinhood",
       "external_id": "6669758",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New York, NY"
@@ -4389,7 +4437,7 @@
       "company": "Robinhood",
       "external_id": "6674980",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "New York, NY"
@@ -4404,7 +4452,7 @@
       "company": "Robinhood",
       "external_id": "7350823",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA"
@@ -4419,7 +4467,7 @@
       "company": "Robinhood",
       "external_id": "7794027",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA"
@@ -4434,7 +4482,7 @@
       "company": "Robinhood",
       "external_id": "8027506",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "New York, NY"
@@ -4449,7 +4497,7 @@
       "company": "Robinhood",
       "external_id": "8049809",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Menlo Park, CA"
@@ -4464,7 +4512,7 @@
       "company": "Robinhood",
       "external_id": "8049885",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Menlo Park, CA",
@@ -4480,7 +4528,7 @@
       "company": "Robinhood",
       "external_id": "8100160",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Menlo Park, CA",
@@ -4496,7 +4544,7 @@
       "company": "Robinhood",
       "external_id": "8114730",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Menlo Park, CA"
@@ -4511,7 +4559,7 @@
       "company": "Robinhood",
       "external_id": "8142959",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Intern",
       "locations": [
         "Menlo Park, CA",
@@ -4527,7 +4575,7 @@
       "company": "Robinhood",
       "external_id": "8142961",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Intern",
       "locations": [
         "Menlo Park, CA",
@@ -4543,7 +4591,7 @@
       "company": "Robinhood",
       "external_id": "8199729",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Intern",
       "locations": [
         "Toronto, Canada"
@@ -4558,7 +4606,7 @@
       "company": "Robinhood",
       "external_id": "8202874",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -4574,7 +4622,7 @@
       "company": "Robinhood",
       "external_id": "8246088",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Toronto, Canada"
@@ -4589,7 +4637,7 @@
       "company": "Roblox",
       "external_id": "8140563",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "San Mateo, CA, United States"
@@ -4620,12 +4668,12 @@
       "company": "Salesforce",
       "external_id": "JR360079",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-10",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4635,12 +4683,12 @@
       "company": "Salesforce",
       "external_id": "JR360080",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-10",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -4650,12 +4698,12 @@
       "company": "Salesforce",
       "external_id": "JR360335",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-09-25",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -4665,12 +4713,12 @@
       "company": "Salesforce",
       "external_id": "JR362155",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-02",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -4680,12 +4728,12 @@
       "company": "Snap",
       "external_id": "Q426SWEA2",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-03",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -4695,12 +4743,12 @@
       "company": "Snap",
       "external_id": "Q426SWEA6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-03",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -4726,12 +4774,12 @@
       "company": "Snap",
       "external_id": "Q426SWEI6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-03",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -4773,12 +4821,12 @@
       "company": "Snap",
       "external_id": "R0047083",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -4788,7 +4836,7 @@
       "company": "Snowflake",
       "external_id": "afc18d2f-3f05-424d-8225-0845c624d948",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Menlo Park, California, United States"
@@ -4803,7 +4851,7 @@
       "company": "Spotify",
       "external_id": "android-engineer-experience",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London",
@@ -4819,7 +4867,7 @@
       "company": "Spotify",
       "external_id": "senior-c-ios-engineer-user-platform",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London",
@@ -4851,7 +4899,7 @@
       "company": "Stripe",
       "external_id": "7557403",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "San Francisco, Seattle"
@@ -4866,7 +4914,7 @@
       "company": "Stripe",
       "external_id": "7978915",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "United Kingdom"
@@ -4881,7 +4929,7 @@
       "company": "Stripe",
       "external_id": "8229361",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "US-Remote"
@@ -4897,7 +4945,7 @@
       "company": "Stripe",
       "external_id": "8239006",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Taipei, Taiwan"
@@ -4905,6 +4953,21 @@
       "posted": "2026-09-29",
       "title": "Android BSP Engineer",
       "url": "https://stripe.com/jobs/search?gh_jid=8239006"
+    },
+    "stripe:8274893": {
+      "active": true,
+      "category": "Android",
+      "company": "Stripe",
+      "external_id": "8274893",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Mid",
+      "locations": [
+        "Toronto, CA"
+      ],
+      "posted": "2026-10-12",
+      "title": "Android Engineer, Terminal - CA",
+      "url": "https://stripe.com/jobs/search?gh_jid=8274893"
     },
     "sumup:8003469002": {
       "active": false,
@@ -4928,7 +4991,7 @@
       "company": "SumUp",
       "external_id": "8348936002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
@@ -4943,7 +5006,7 @@
       "company": "SumUp",
       "external_id": "8348937002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, S\u00e3o Paulo, Brazil"
@@ -4958,7 +5021,7 @@
       "company": "SumUp",
       "external_id": "8426778002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Berlin, Germany"
@@ -4989,7 +5052,7 @@
       "company": "SumUp",
       "external_id": "8794602002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Berlin, Germany"
@@ -5020,7 +5083,7 @@
       "company": "Tripadvisor",
       "external_id": "6674775",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "London, United Kingdom"
@@ -5035,7 +5098,7 @@
       "company": "Tripadvisor",
       "external_id": "6674829",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "London, United Kingdom"
@@ -5050,7 +5113,7 @@
       "company": "Tripadvisor",
       "external_id": "7873820",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "United Kingdom"
@@ -5065,7 +5128,7 @@
       "company": "Tripadvisor",
       "external_id": "7920764",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Krakow, Poland"
@@ -5080,7 +5143,7 @@
       "company": "Tripadvisor",
       "external_id": "8020433",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Krak\u00f3w"
@@ -5095,7 +5158,7 @@
       "company": "Tripadvisor",
       "external_id": "8041610",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Split, Croatia"
@@ -5110,7 +5173,7 @@
       "company": "Tripadvisor",
       "external_id": "8108861",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Oxford, United Kingdom"
@@ -5125,7 +5188,7 @@
       "company": "Tripadvisor",
       "external_id": "8161471",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Krakow, Poland"
@@ -5140,7 +5203,7 @@
       "company": "Tripadvisor",
       "external_id": "8204382",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Mid",
       "locations": [
         "Split, Croatia"
@@ -5155,7 +5218,7 @@
       "company": "Twitch",
       "external_id": "8784410002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "San Francisco, CA"
@@ -5170,7 +5233,7 @@
       "company": "Twitch",
       "external_id": "8784759002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "Seattle, WA"
@@ -5185,7 +5248,7 @@
       "company": "Twitch",
       "external_id": "8784760002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Manager",
       "locations": [
         "New York City"
@@ -5200,7 +5263,7 @@
       "company": "Waymo",
       "external_id": "7382506",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
@@ -5216,7 +5279,7 @@
       "company": "Waymo",
       "external_id": "7438665",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, California, USA"
@@ -5231,7 +5294,7 @@
       "company": "Waymo",
       "external_id": "7484282",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Mountain View, CA, US",
@@ -5247,7 +5310,7 @@
       "company": "Waymo",
       "external_id": "7815237",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Mountain View, CA, USA",
@@ -5263,7 +5326,7 @@
       "company": "Waymo",
       "external_id": "8193298",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Mountain View, CA, US",
@@ -5279,7 +5342,7 @@
       "company": "Wolt",
       "external_id": "8074534",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Staff+",
       "locations": [
         "Berlin, Germany",
@@ -5295,7 +5358,7 @@
       "company": "Wolt",
       "external_id": "8200951",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-12",
+      "last_seen": "2026-10-13",
       "level": "Senior",
       "locations": [
         "Helsinki, Finland",
@@ -5307,5 +5370,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-12T16:11:16Z"
+  "updated_at": "2026-10-13T01:06:10Z"
 }
