@@ -490,8 +490,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10532122/sr-engineering-manager-android"
     },
     "amazon:10559348": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-13",
       "company": "Amazon",
       "external_id": "10559348",
       "first_seen": "2026-10-02",
@@ -1551,6 +1552,21 @@
       "title": "Senior Software Engineer - Mobile",
       "url": "https://careers.cisco.com/global/en/job/2023877"
     },
+    "cisco:2027664": {
+      "active": true,
+      "category": "Android",
+      "company": "Cisco",
+      "external_id": "2027664",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Senior",
+      "locations": [
+        "Galway, Ireland"
+      ],
+      "posted": "2026-10-13",
+      "title": "Senior Software Engineer \u2013 Android Platform",
+      "url": "https://careers.cisco.com/global/en/job/2027664"
+    },
     "cloudflare:8248635": {
       "active": true,
       "category": "Mobile",
@@ -1810,8 +1826,9 @@
       "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206363"
     },
     "doordash:5516948": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-13",
       "company": "DoorDash",
       "external_id": "5516948",
       "first_seen": "2026-10-02",
@@ -1826,8 +1843,9 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5516948"
     },
     "doordash:5630438": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-13",
       "company": "DoorDash",
       "external_id": "5630438",
       "first_seen": "2026-10-02",
@@ -1843,8 +1861,9 @@
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/5630438"
     },
     "doordash:5630454": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-13",
       "company": "DoorDash",
       "external_id": "5630454",
       "first_seen": "2026-10-02",
@@ -1878,6 +1897,58 @@
       "posted": "2026-08-10",
       "title": "Engineering Manager, Mobile Developer Experience",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8119303"
+    },
+    "doordash:8139094": {
+      "active": true,
+      "category": "iOS",
+      "company": "DoorDash",
+      "external_id": "8139094",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Senior",
+      "locations": [
+        "San Francisco, CA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-10-13",
+      "title": "Senior Software Engineer, iOS",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8139094"
+    },
+    "doordash:8141072": {
+      "active": true,
+      "category": "iOS",
+      "company": "DoorDash",
+      "external_id": "8141072",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Mid",
+      "locations": [
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-10-13",
+      "title": "Software Engineer, iOS",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141072"
+    },
+    "doordash:8161616": {
+      "active": true,
+      "category": "Android",
+      "company": "DoorDash",
+      "external_id": "8161616",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Mid",
+      "locations": [
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-10-13",
+      "title": "Software Engineering, Android (All Teams)",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8161616"
     },
     "doordash:8197854": {
       "active": true,
@@ -2556,6 +2627,21 @@
       "title": "Software Engineer, Android Laptops and Tablets Camera",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123706720626057926"
     },
+    "google:125088010025738950": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "125088010025738950",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "level": "Staff+",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-13",
+      "title": "Staff Software Engineer, Android Infrastructure, Google Home",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/125088010025738950"
+    },
     "google:125103774703198918": {
       "active": true,
       "category": "Android",
@@ -2715,8 +2801,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/133666085139292870"
     },
     "google:133963718856712902": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-13",
       "company": "Google",
       "external_id": "133963718856712902",
       "first_seen": "2026-10-09",
@@ -3626,6 +3713,7 @@
         "Boston, MA",
         "Menlo Park, CA",
         "New York, NY",
+        "Redmond, WA",
         "Remote, US",
         "San Francisco, CA"
       ],
@@ -5385,5 +5473,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-13T14:41:36Z"
+  "updated_at": "2026-10-13T23:14:41Z"
 }
