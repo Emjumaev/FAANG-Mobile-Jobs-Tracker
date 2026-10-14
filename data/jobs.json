@@ -249,8 +249,9 @@
       "url": "https://careers.airbnb.com/positions/8250093?gh_jid=8250093"
     },
     "airbnb:8257855": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-14",
       "company": "Airbnb",
       "external_id": "8257855",
       "first_seen": "2026-10-06",
@@ -519,6 +520,21 @@
       "posted": "2026-10-01",
       "title": "Software Development Engineer, Mobile App Foundations - Quality and Release",
       "url": "https://www.amazon.jobs/en/jobs/10567328/software-development-engineer-mobile-app-foundations-quality-and-release"
+    },
+    "amazon:10568011": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Amazon",
+      "external_id": "10568011",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "level": "Manager",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Development Manager, Mobile App Foundations",
+      "url": "https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations"
     },
     "amazon:10568048": {
       "active": true,
@@ -1445,6 +1461,21 @@
       "title": "Full stack/iOS Engineer (iOS + Backend) - iCloud Products",
       "url": "https://jobs.apple.com/en-us/details/200687574/full-stack-ios-engineer-ios-backend-icloud-products"
     },
+    "apple:200687778": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200687778",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "level": "Mid",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-10-14",
+      "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems"
+    },
     "block:5373636008": {
       "active": true,
       "category": "iOS",
@@ -1566,6 +1597,21 @@
       "posted": "2026-10-13",
       "title": "Senior Software Engineer \u2013 Android Platform",
       "url": "https://careers.cisco.com/global/en/job/2027664"
+    },
+    "cisco:2027716": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Cisco",
+      "external_id": "2027716",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "level": "Manager",
+      "locations": [
+        "San Jose, California, United States of America"
+      ],
+      "posted": "2026-10-14",
+      "title": "Director - Engineering (AI - Mobile Development)",
+      "url": "https://careers.cisco.com/global/en/job/2027716"
     },
     "cloudflare:8248635": {
       "active": true,
@@ -2866,8 +2912,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/135718318223827654"
     },
     "google:136707779904578246": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-14",
       "company": "Google",
       "external_id": "136707779904578246",
       "first_seen": "2026-10-02",
@@ -3396,8 +3443,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/84604442862592710"
     },
     "google:85254755672040134": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-14",
       "company": "Google",
       "external_id": "85254755672040134",
       "first_seen": "2026-10-02",
@@ -3728,11 +3776,13 @@
       "locations": [
         "Bellevue, WA",
         "Boston, MA",
+        "Burlingame, CA",
         "Menlo Park, CA",
         "New York, NY",
         "Redmond, WA",
         "Remote, US",
-        "San Francisco, CA"
+        "San Francisco, CA",
+        "Seattle, WA"
       ],
       "posted": null,
       "title": "Software Engineer, iOS",
@@ -4063,8 +4113,9 @@
       "url": "https://jobs.ashbyhq.com/openai/7daff2af-1686-43fe-85c0-ca912c8747ac"
     },
     "openai:b08126cc-8134-45f0-aeb3-4b00e96547de": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-14",
       "company": "OpenAI",
       "external_id": "b08126cc-8134-45f0-aeb3-4b00e96547de",
       "first_seen": "2026-10-02",
@@ -5494,5 +5545,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-14T17:43:44Z"
+  "updated_at": "2026-10-14T22:04:22Z"
 }
