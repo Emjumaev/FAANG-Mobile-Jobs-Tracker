@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-14 12:28:14 UTC** · 📌 **284** open mobile jobs
+> 🕐 Last updated: **2026-10-14 17:43:44 UTC** · 📌 **283** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **119** iOS · **115** Android · **2** iOS & Android · **48** Mobile
-> · By level: 1 Intern · 4 Entry · 104 Mid · 111 Senior · 44 Staff+ · 20 Manager
+> 📊 By platform: **119** iOS · **115** Android · **2** iOS & Android · **47** Mobile
+> · By level: 1 Intern · 4 Entry · 104 Mid · 111 Senior · 43 Staff+ · 20 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -39,7 +39,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 70 |
+| [Google](#google) | 69 |
 | [Instacart](#instacart) | 3 |
 | Intel | — |
 | [Lyft](#lyft) | 3 |
@@ -342,7 +342,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer, Android Pixel Photos](https://www.google.com/about/careers/applications/jobs/results/125103774703198918) | Android | Senior | Mountain View, CA, USA; Seattle, WA, USA | 2026-09-16 | 2026-10-02 |
 | [Software Engineer II, Mobile iOS](https://www.google.com/about/careers/applications/jobs/results/76179974033154758) | iOS | Mid | Tel Aviv, Israel | 2026-09-15 | 2026-10-02 |
 | [Senior iOS Developer, Search App](https://www.google.com/about/careers/applications/jobs/results/73305472681026246) 🆕 | iOS | Senior | Los Angeles, CA, USA; Mountain View, CA, USA | 2026-09-15 | 2026-10-09 |
-| [Senior Staff Software Engineer, Gemini Mobile App, DeepMind](https://www.google.com/about/careers/applications/jobs/results/133023244499198662) | Mobile | Staff+ | Mountain View, CA, USA; New York, NY, USA; San Francisco, CA, USA | 2026-09-14 | 2026-10-02 |
 | [Senior Software Engineer, Business Mobile App, Payments](https://www.google.com/about/careers/applications/jobs/results/85254755672040134) | Mobile | Senior | Singapore | 2026-09-14 | 2026-10-02 |
 | [Senior Security Engineer, Android Anti-Malware](https://www.google.com/about/careers/applications/jobs/results/136707779904578246) | Android | Senior | Kirkland, WA, USA | 2026-09-14 | 2026-10-02 |
 | [Senior Staff Software Engineering Architect, XR iOS](https://www.google.com/about/careers/applications/jobs/results/79055769244181190) | iOS | Staff+ | San Jose, CA, USA | 2026-09-09 | 2026-10-02 |

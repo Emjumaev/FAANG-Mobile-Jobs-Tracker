@@ -1,6 +1,7 @@
 {
   "failed": {
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)"
+    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
+    "Netflix": "request failed after 3 attempts: GET https://explore.jobs.netflix.net/api/apply/v2/jobs (HTTP 429)"
   },
   "succeeded": [
     "Adobe",
@@ -34,7 +35,6 @@
     "Mozilla",
     "N26",
     "NVIDIA",
-    "Netflix",
     "OpenAI",
     "Oracle",
     "PayPal",

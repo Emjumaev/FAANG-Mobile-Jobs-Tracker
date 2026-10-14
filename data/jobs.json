@@ -2769,8 +2769,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/132534755320046278"
     },
     "google:133023244499198662": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-14",
       "company": "Google",
       "external_id": "133023244499198662",
       "first_seen": "2026-10-02",
@@ -5493,5 +5494,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-14T12:28:14Z"
+  "updated_at": "2026-10-14T17:43:44Z"
 }
