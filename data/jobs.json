@@ -902,8 +902,9 @@
       "url": "https://jobs.apple.com/en-us/details/200668589/senior-swift-engineer-employee-engagement-engineering"
     },
     "apple:200668592": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-15",
       "company": "Apple",
       "external_id": "200668592",
       "first_seen": "2026-10-02",
@@ -1296,8 +1297,9 @@
       "url": "https://jobs.apple.com/en-us/details/200682345/ios-software-engineer-location-technologies"
     },
     "apple:200682975": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-15",
       "company": "Apple",
       "external_id": "200682975",
       "first_seen": "2026-10-02",
@@ -1642,6 +1644,21 @@
       "posted": "2026-10-14",
       "title": "Director - Engineering (AI - Mobile Development)",
       "url": "https://careers.cisco.com/global/en/job/2027716"
+    },
+    "cisco:2028670": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Cisco",
+      "external_id": "2028670",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "level": "Mid",
+      "locations": [
+        "Slovakia"
+      ],
+      "posted": "2026-10-15",
+      "title": "Software Engineer - Mobile",
+      "url": "https://careers.cisco.com/global/en/job/2028670"
     },
     "cloudflare:8248635": {
       "active": true,
@@ -2341,8 +2358,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/106411382320046790"
     },
     "google:106584980603183814": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-15",
       "company": "Google",
       "external_id": "106584980603183814",
       "first_seen": "2026-10-02",
@@ -2608,6 +2626,21 @@
       "posted": "2026-08-19",
       "title": "Software Engineer, Mobile (Android)",
       "url": "https://www.google.com/about/careers/applications/jobs/results/121355422526251718"
+    },
+    "google:122437791865807558": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "122437791865807558",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "level": "Manager",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-10-15",
+      "title": "Security Engineer Manager, Android Malware Analysis, Android Ecosystem",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/122437791865807558"
     },
     "google:122481443765920454": {
       "active": true,
@@ -3271,8 +3304,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/76007361445012166"
     },
     "google:76179974033154758": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-15",
       "company": "Google",
       "external_id": "76179974033154758",
       "first_seen": "2026-10-02",
@@ -4573,8 +4607,9 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8263374"
     },
     "reddit:8263406": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-15",
       "company": "Reddit",
       "external_id": "8263406",
       "first_seen": "2026-10-07",
@@ -4596,7 +4631,7 @@
       "last_seen": "2026-10-15",
       "level": "Senior",
       "locations": [
-        "San Francisco, CA"
+        "Remote - United States"
       ],
       "posted": "2026-10-08",
       "title": "Senior Android Software Engineer, Consumer Engineering",
@@ -5590,5 +5625,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-15T12:11:45Z"
+  "updated_at": "2026-10-15T17:27:42Z"
 }
