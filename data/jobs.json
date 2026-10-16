@@ -27,7 +27,7 @@
       "locations": [
         "Remote California"
       ],
-      "posted": "2026-09-19",
+      "posted": "2026-09-18",
       "title": "Senior Engineering Manager  | iOS Video Applications",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1"
     },
@@ -58,13 +58,14 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
     "adyen:8098671": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-16",
       "company": "Adyen",
       "external_id": "8098671",
       "first_seen": "2026-10-05",
@@ -355,8 +356,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10457834/sr-builder-mobile-sr-sde-ring"
     },
     "amazon:10478336": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-16",
       "company": "Amazon",
       "external_id": "10478336",
       "first_seen": "2026-10-02",
@@ -3007,6 +3009,21 @@
       "title": "Senior Software Engineer, Video Editing, Android/iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/135718318223827654"
     },
+    "google:136190139708646086": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "136190139708646086",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Senior",
+      "locations": [
+        "Sydney NSW, Australia"
+      ],
+      "posted": "2026-10-16",
+      "title": "Senior Software Engineer, iOS, Google Photos",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/136190139708646086"
+    },
     "google:136707779904578246": {
       "active": false,
       "category": "Android",
@@ -3878,6 +3895,21 @@
       "title": "Software Engineer - iOS (Technical Leadership)",
       "url": "https://www.metacareers.com/jobs/1061795906099278"
     },
+    "meta:1165549049490227": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "1165549049490227",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "S\u00e3o Paulo, Brazil"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer (Technical Leadership) - Android",
+      "url": "https://www.metacareers.com/jobs/1165549049490227"
+    },
     "meta:1203016587809246": {
       "active": true,
       "category": "iOS",
@@ -3921,6 +3953,21 @@
       "title": "Software Engineer, Android",
       "url": "https://www.metacareers.com/jobs/1394915781774041"
     },
+    "meta:1420264290310565": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "1420264290310565",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer - Android",
+      "url": "https://www.metacareers.com/jobs/1420264290310565"
+    },
     "meta:2189071041883117": {
       "active": false,
       "category": "Android",
@@ -3934,6 +3981,66 @@
       "posted": null,
       "title": "Software Engineer - Android, Standalone Apps Team",
       "url": "https://www.metacareers.com/jobs/2189071041883117"
+    },
+    "meta:2254341065493340": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "2254341065493340",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "S\u00e3o Paulo, Brazil"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer - Android",
+      "url": "https://www.metacareers.com/jobs/2254341065493340"
+    },
+    "meta:2356459388460242": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "2356459388460242",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "S\u00e3o Paulo, Brazil"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer (Technical Leadership) - iOS",
+      "url": "https://www.metacareers.com/jobs/2356459388460242"
+    },
+    "meta:2535581886910269": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "2535581886910269",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "S\u00e3o Paulo, Brazil"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer - iOS",
+      "url": "https://www.metacareers.com/jobs/2535581886910269"
+    },
+    "meta:3070271503308669": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "3070271503308669",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer - iOS",
+      "url": "https://www.metacareers.com/jobs/3070271503308669"
     },
     "meta:3374573439389340": {
       "active": true,
@@ -3967,6 +4074,21 @@
       "posted": null,
       "title": "Software Engineer - Android (Technical Leadership)",
       "url": "https://www.metacareers.com/jobs/699608119727078"
+    },
+    "meta:981723587621513": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "981723587621513",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Mid",
+      "locations": [
+        "Bangalore, India"
+      ],
+      "posted": null,
+      "title": "WhatsApp - Software Engineer (Technical Leadership) - Android",
+      "url": "https://www.metacareers.com/jobs/981723587621513"
     },
     "monzo:7115379": {
       "active": false,
@@ -4045,8 +4167,9 @@
       "url": "https://job-boards.greenhouse.io/mozilla/jobs/8112219"
     },
     "n26:8163939": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-16",
       "company": "N26",
       "external_id": "8163939",
       "first_seen": "2026-10-02",
@@ -4327,7 +4450,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -4961,7 +5084,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -4976,7 +5099,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -4991,7 +5114,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -5006,7 +5129,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -5021,7 +5144,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -5036,7 +5159,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -5067,7 +5190,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -5114,7 +5237,7 @@
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -5659,5 +5782,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-16T06:19:15Z"
+  "updated_at": "2026-10-16T11:59:34Z"
 }
