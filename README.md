@@ -8,13 +8,15 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-16 05:04:48 UTC** · 📌 **279** open mobile jobs
+> 🕐 Last updated: **2026-10-16 06:19:15 UTC** · 📌 **279** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **114** iOS · **114** Android · **2** iOS & Android · **49** Mobile
 > · By level: 1 Intern · 3 Entry · 101 Mid · 106 Senior · 44 Staff+ · 24 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
+
+📣 Get new jobs as they appear: **[follow the Telegram channel](https://t.me/faang_mobile_jobs)**
 
 | Company | Open mobile jobs |
 |---|---|
@@ -98,8 +100,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer II, Mobile (Card Acquisition)](https://job-boards.greenhouse.io/affirm/jobs/8032175003) 🆕 | Mobile | Mid | Remote Canada | 2026-10-15 | 2026-10-16 |
 | [Software Engineer II, Mobile (Card Acquisition)](https://job-boards.greenhouse.io/affirm/jobs/8032173003) 🆕 | Mobile | Mid | Remote US | 2026-10-15 | 2026-10-16 |
+| [Software Engineer II, Mobile (Card Acquisition)](https://job-boards.greenhouse.io/affirm/jobs/8032175003) 🆕 | Mobile | Mid | Remote Canada | 2026-10-15 | 2026-10-16 |
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829427003) | Mobile | Staff+ | Remote US | 2026-08-14 | 2026-10-02 |
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829429003) | Mobile | Staff+ | Remote Canada | 2026-08-14 | 2026-10-02 |
 
