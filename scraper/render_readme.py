@@ -24,7 +24,7 @@ tech companies, scraped directly from each company's careers API every
 {platforms}
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
-
+{telegram}
 """
 
 FOOTER = """
@@ -76,6 +76,14 @@ def _platform_line(jobs):
         " · ".join(parts) or "—", " · ".join(lparts) or "—")
 
 
+def _telegram_line():
+    from .telegram import channel_url
+    url = channel_url()
+    if not url:
+        return ""
+    return "\n📣 Get new jobs as they appear: **[follow the Telegram channel]({})**\n".format(url)
+
+
 def render(state):
     from .companies import COMPANIES, UNSUPPORTED
     tracked = [c["name"] for c in COMPANIES]
@@ -94,6 +102,7 @@ def render(state):
         n_open=len(jobs),
         new_days=NEW_BADGE_DAYS,
         platforms=_platform_line(jobs),
+        telegram=_telegram_line(),
     )]
 
     # summary table with anchors
