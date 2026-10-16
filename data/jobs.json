@@ -725,7 +725,7 @@
       "url": "https://jobs.apple.com/en-us/details/200653312/senior-ios-developer"
     },
     "apple:200654462": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-10-16",
       "company": "Apple",
@@ -1456,8 +1456,9 @@
       "url": "https://jobs.apple.com/en-us/details/200686902/engineering-manager-siri-app-ios-and-macos"
     },
     "apple:200687104": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-16",
       "company": "Apple",
       "external_id": "200687104",
       "first_seen": "2026-10-06",
@@ -2790,8 +2791,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/125088010025738950"
     },
     "google:125103774703198918": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-16",
       "company": "Google",
       "external_id": "125103774703198918",
       "first_seen": "2026-10-02",
@@ -3891,7 +3893,6 @@
       "locations": [
         "Menlo Park, CA",
         "New York, NY",
-        "Remote, US",
         "San Francisco, CA"
       ],
       "posted": null,
@@ -3928,7 +3929,6 @@
         "Menlo Park, CA",
         "New York, NY",
         "Redmond, WA",
-        "Remote, US",
         "San Francisco, CA",
         "Seattle, WA"
       ],
@@ -5045,6 +5045,23 @@
       "title": "iOS Developer, International",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8246088?t=gh_src=&gh_jid=8246088"
     },
+    "robinhood:8289388": {
+      "active": true,
+      "category": "iOS",
+      "company": "Robinhood",
+      "external_id": "8289388",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "level": "Senior",
+      "locations": [
+        "Menlo Park, CA",
+        "New York, NY",
+        "Toronto, Canada"
+      ],
+      "posted": "2026-10-16",
+      "title": "Senior iOS Engineer, Crypto Perpetuals",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388"
+    },
     "roblox:8140563": {
       "active": true,
       "category": "iOS",
@@ -5785,5 +5802,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-16T17:03:12Z"
+  "updated_at": "2026-10-16T21:47:35Z"
 }
