@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-16 11:59:34 UTC** · 📌 **284** open mobile jobs
+> 🕐 Last updated: **2026-10-16 17:03:12 UTC** · 📌 **281** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **116** iOS · **117** Android · **2** iOS & Android · **49** Mobile
-> · By level: 1 Intern · 2 Entry · 108 Mid · 106 Senior · 44 Staff+ · 23 Manager
+> 📊 By platform: **115** iOS · **117** Android · **2** iOS & Android · **47** Mobile
+> · By level: 1 Intern · 2 Entry · 105 Mid · 106 Senior · 44 Staff+ · 23 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -22,11 +22,11 @@ tech companies, scraped directly from each company's careers API every
 |---|---|
 | [Adobe](#adobe) | 2 |
 | [Adyen](#adyen) | 2 |
-| [Affirm](#affirm) | 4 |
+| [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 4 |
 | [Amazon](#amazon) | 13 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 47 |
+| [Apple](#apple) | 46 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 6 |
@@ -99,8 +99,6 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer II, Mobile (Card Acquisition)](https://job-boards.greenhouse.io/affirm/jobs/8032173003) 🆕 | Mobile | Mid | Remote US | 2026-10-15 | 2026-10-16 |
-| [Software Engineer II, Mobile (Card Acquisition)](https://job-boards.greenhouse.io/affirm/jobs/8032175003) 🆕 | Mobile | Mid | Remote Canada | 2026-10-15 | 2026-10-16 |
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829427003) | Mobile | Staff+ | Remote US | 2026-08-14 | 2026-10-02 |
 | [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829429003) | Mobile | Staff+ | Remote Canada | 2026-08-14 | 2026-10-02 |
 
@@ -185,7 +183,6 @@ tech companies, scraped directly from each company's careers API every
 | [iOS Engineer - Wallet](https://jobs.apple.com/en-us/details/200662757/ios-engineer-wallet) | iOS | Mid | New York City Metro Area | 2026-05-12 | 2026-10-02 |
 | [iOS Engineer - Wallet](https://jobs.apple.com/en-us/details/200662761/ios-engineer-wallet) | iOS | Mid | San Diego | 2026-05-12 | 2026-10-02 |
 | [Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience](https://jobs.apple.com/en-us/details/200659816/software-engineer-ios-engineer-springboard-multitasking-system-experience) | iOS | Mid | Cupertino | 2026-04-23 | 2026-10-02 |
-| [Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience](https://jobs.apple.com/en-us/details/200654462/software-engineer-ios-engineer-springboard-multitasking-system-experience) | iOS | Mid | Cupertino | 2026-04-16 | 2026-10-02 |
 | [iOS/macOS Software Engineer](https://jobs.apple.com/en-us/details/200651661/ios-macos-software-engineer) | iOS | Mid | Cupertino | 2026-03-13 | 2026-10-02 |
 | [iOS Software Engineer, Customer Systems](https://jobs.apple.com/en-us/details/200631336/ios-software-engineer-customer-systems) | iOS | Mid | Sunnyvale | 2026-02-25 | 2026-10-02 |
 | [Software Quality Engineer, Mobile Apps - Retail Engineering](https://jobs.apple.com/en-us/details/200613850/software-quality-engineer-mobile-apps-retail-engineering) | Mobile | Mid | Austin | 2026-02-18 | 2026-10-02 |
@@ -377,11 +374,11 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [WhatsApp - Software Engineer - iOS](https://www.metacareers.com/jobs/2535581886910269) 🆕 | iOS | Mid | São Paulo, Brazil | — | 2026-10-16 |
 | [WhatsApp - Software Engineer - iOS](https://www.metacareers.com/jobs/3070271503308669) 🆕 | iOS | Mid | Bangalore, India | — | 2026-10-16 |
-| [WhatsApp - Software Engineer - Android](https://www.metacareers.com/jobs/2254341065493340) 🆕 | Android | Mid | São Paulo, Brazil | — | 2026-10-16 |
 | [WhatsApp - Software Engineer - Android](https://www.metacareers.com/jobs/1420264290310565) 🆕 | Android | Mid | Bangalore, India | — | 2026-10-16 |
+| [WhatsApp - Software Engineer - Android](https://www.metacareers.com/jobs/2254341065493340) 🆕 | Android | Mid | São Paulo, Brazil | — | 2026-10-16 |
 | [WhatsApp - Software Engineer (Technical Leadership) - iOS](https://www.metacareers.com/jobs/2356459388460242) 🆕 | iOS | Mid | São Paulo, Brazil | — | 2026-10-16 |
-| [WhatsApp - Software Engineer (Technical Leadership) - Android](https://www.metacareers.com/jobs/981723587621513) 🆕 | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [WhatsApp - Software Engineer (Technical Leadership) - Android](https://www.metacareers.com/jobs/1165549049490227) 🆕 | Android | Mid | São Paulo, Brazil | — | 2026-10-16 |
+| [WhatsApp - Software Engineer (Technical Leadership) - Android](https://www.metacareers.com/jobs/981723587621513) 🆕 | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Boston, MA; Burlingame, CA *(+6 more)* | — | 2026-10-02 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/3374573439389340) | iOS | Mid | London, UK | — | 2026-10-02 |
 | [Software Engineer, Android](https://www.metacareers.com/jobs/1394915781774041) | Android | Mid | Burlingame, CA; Menlo Park, CA; New York, NY *(+3 more)* | — | 2026-10-02 |
