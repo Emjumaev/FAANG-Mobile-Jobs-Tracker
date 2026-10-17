@@ -1,6 +1,7 @@
 {
   "failed": {
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)"
+    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
+    "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (Expecting value: line 1 column 1 (char 0))"
   },
   "succeeded": [
     "Adobe",
@@ -44,7 +45,6 @@
     "Riot Games",
     "Robinhood",
     "Roblox",
-    "Salesforce",
     "Scale AI",
     "Snap",
     "Snowflake",
