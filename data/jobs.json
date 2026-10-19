@@ -389,8 +389,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10497967/security-engineering-manager-stores-org-mobile-security"
     },
     "amazon:10501770": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-19",
       "company": "Amazon",
       "external_id": "10501770",
       "first_seen": "2026-10-02",
@@ -601,6 +602,21 @@
       "posted": "2026-10-06",
       "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
       "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
+    },
+    "amazon:10575843": {
+      "active": true,
+      "category": "iOS",
+      "company": "Amazon",
+      "external_id": "10575843",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "level": "Mid",
+      "locations": [
+        "Newark, New Jersey, USA"
+      ],
+      "posted": "2026-10-14",
+      "title": "Software Development Engineer, iOS",
+      "url": "https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios"
     },
     "anthropic:4572744008": {
       "active": true,
@@ -1031,8 +1047,9 @@
       "url": "https://jobs.apple.com/en-us/details/200672385/ui-frameworks-engineer-macos"
     },
     "apple:200674165": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-19",
       "company": "Apple",
       "external_id": "200674165",
       "first_seen": "2026-10-02",
@@ -1121,8 +1138,9 @@
       "url": "https://jobs.apple.com/en-us/details/200676232/software-architect-ios-devices"
     },
     "apple:200678174": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-19",
       "company": "Apple",
       "external_id": "200678174",
       "first_seen": "2026-10-02",
@@ -1715,6 +1733,21 @@
       "title": "Software Engineer, Mobile SDK",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635"
     },
+    "coinbase:8165015": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Coinbase",
+      "external_id": "8165015",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "level": "Senior",
+      "locations": [
+        "Remote - USA"
+      ],
+      "posted": "2026-08-28",
+      "title": "Senior Software Engineer, Mobile (Platform - Identity)",
+      "url": "https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015"
+    },
     "coinbase:8241716": {
       "active": true,
       "category": "Mobile",
@@ -2213,8 +2246,9 @@
       "url": "https://careers.duolingo.com/jobs/8745736002?gh_jid=8745736002"
     },
     "duolingo:8745752002": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-19",
       "company": "Duolingo",
       "external_id": "8745752002",
       "first_seen": "2026-10-02",
@@ -2633,6 +2667,23 @@
       "posted": "2026-10-12",
       "title": "Senior Software Engineer, Mobile (Android), Android Ecosystem",
       "url": "https://www.google.com/about/careers/applications/jobs/results/120619925482939078"
+    },
+    "google:120710278709945030": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "120710278709945030",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "level": "Staff+",
+      "locations": [
+        "Mountain View, CA, USA",
+        "New York, NY, USA",
+        "Seattle, WA, USA"
+      ],
+      "posted": "2026-10-19",
+      "title": "Staff Interaction Designer, Android Developer Experience",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/120710278709945030"
     },
     "google:121107122950677190": {
       "active": true,
@@ -5807,5 +5858,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-19T14:01:17Z"
+  "updated_at": "2026-10-19T22:45:07Z"
 }
