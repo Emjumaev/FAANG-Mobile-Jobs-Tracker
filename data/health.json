@@ -1,5 +1,6 @@
 {
   "failed": {
+    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
     "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)"
   },
   "succeeded": [
@@ -29,7 +30,6 @@
     "Intel",
     "Lyft",
     "Meta",
-    "Microsoft",
     "MongoDB",
     "Monzo",
     "Mozilla",
