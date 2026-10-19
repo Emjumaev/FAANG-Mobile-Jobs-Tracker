@@ -1,5 +1,7 @@
 {
-  "failed": {},
+  "failed": {
+    "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)"
+  },
   "succeeded": [
     "Adobe",
     "Adyen",
@@ -43,7 +45,6 @@
     "Riot Games",
     "Robinhood",
     "Roblox",
-    "Salesforce",
     "Scale AI",
     "Snap",
     "Snowflake",
