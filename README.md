@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-20 12:13:08 UTC** · 📌 **271** open mobile jobs
+> 🕐 Last updated: **2026-10-20 17:38:00 UTC** · 📌 **272** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **114** iOS · **113** Android · **2** iOS & Android · **42** Mobile
-> · By level: 1 Intern · 1 Entry · 98 Mid · 104 Senior · 45 Staff+ · 22 Manager
+> 📊 By platform: **114** iOS · **114** Android · **2** iOS & Android · **42** Mobile
+> · By level: 1 Intern · 1 Entry · 99 Mid · 103 Senior · 46 Staff+ · 22 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 64 |
+| [Google](#google) | 65 |
 | [Instacart](#instacart) | 3 |
 | Intel | — |
 | [Lyft](#lyft) | 3 |
@@ -139,6 +139,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [iOS Software Engineer (Security)](https://jobs.apple.com/en-us/details/200682975/ios-software-engineer-security) | iOS | Mid | London | 2026-10-20 | 2026-10-02 |
 | [Senior Swift Software Engineer, Employee Engagement Engineering](https://jobs.apple.com/en-us/details/200668788/senior-swift-software-engineer-employee-engagement-engineering) 🆕 | iOS | Senior | Cork | 2026-10-20 | 2026-10-20 |
 | [iOS Telephony Software Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems) 🆕 | iOS | Mid | Cupertino | 2026-10-14 | 2026-10-14 |
 | [iOS Software Engineer, Shortcuts Actions - Proactive](https://jobs.apple.com/en-us/details/200689259/ios-software-engineer-shortcuts-actions-proactive) 🆕 | iOS | Mid | Seattle | 2026-10-14 | 2026-10-15 |
@@ -166,7 +167,6 @@ tech companies, scraped directly from each company's careers API every
 | [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678780/sr-ios-software-engineer-creative-apps) | iOS | Senior | Vancouver | 2026-08-20 | 2026-10-02 |
 | [iOS Engineer - Apple Sports](https://jobs.apple.com/en-us/details/200678744/ios-engineer-apple-sports) | iOS | Mid | New York City | 2026-08-19 | 2026-10-02 |
 | [Xcode Intelligence Foundation Engineer](https://jobs.apple.com/en-us/details/200675476/xcode-intelligence-foundation-engineer) | iOS | Mid | Cupertino | 2026-08-07 | 2026-10-02 |
-| [Senior Software Engineer, Swift - macOS](https://jobs.apple.com/en-us/details/200658053/senior-software-engineer-swift-macos) | iOS | Senior | San Diego | 2026-08-07 | 2026-10-02 |
 | [Software Architect - iOS Devices](https://jobs.apple.com/en-us/details/200676232/software-architect-ios-devices) | iOS | Staff+ | Sunnyvale | 2026-08-06 | 2026-10-02 |
 | [iOS Developer Tools Engineer – Car Experience, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200675591/ios-developer-tools-engineer-car-experience-wireless-technologies-ecosystems) | iOS | Mid | Cupertino | 2026-08-05 | 2026-10-02 |
 | [Sr Software Engineer (Swift UI),  Employee Experience & Productivity](https://jobs.apple.com/en-us/details/200671390/sr-software-engineer-swift-ui-employee-experience-productivity) | iOS | Senior | Austin | 2026-07-31 | 2026-10-02 |
@@ -277,6 +277,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Staff Software Engineer, Android Automotive OS](https://www.google.com/about/careers/applications/jobs/results/104709412408435398) 🆕 | Android | Staff+ | Kraków, Poland; Munich, Germany | 2026-10-20 | 2026-10-20 |
 | [Staff Interaction Designer, Android Developer Experience](https://www.google.com/about/careers/applications/jobs/results/120710278709945030) 🆕 | Android | Staff+ | Mountain View, CA, USA; New York, NY, USA; Seattle, WA, USA | 2026-10-19 | 2026-10-19 |
 | [Senior Software Engineer, iOS, Google Photos](https://www.google.com/about/careers/applications/jobs/results/136190139708646086) 🆕 | iOS | Senior | Sydney NSW, Australia | 2026-10-16 | 2026-10-16 |
 | [Staff Software Engineer, Android Kernel and Systems](https://www.google.com/about/careers/applications/jobs/results/143200643027215046) 🆕 | Android | Staff+ | Mountain View, CA, USA | 2026-10-15 | 2026-10-15 |

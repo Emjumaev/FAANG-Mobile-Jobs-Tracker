@@ -775,8 +775,9 @@
       "url": "https://jobs.apple.com/en-us/details/200657297/ios-home-application-engineer-wireless-technologies-ecosystems"
     },
     "apple:200658053": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-20",
       "company": "Apple",
       "external_id": "200658053",
       "first_seen": "2026-10-02",
@@ -1371,18 +1372,18 @@
       "url": "https://jobs.apple.com/en-us/details/200682345/ios-software-engineer-location-technologies"
     },
     "apple:200682975": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-10-15",
       "company": "Apple",
       "external_id": "200682975",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-20",
       "level": "Mid",
       "locations": [
         "London"
       ],
-      "posted": "2026-09-30",
+      "posted": "2026-10-20",
       "title": "iOS Software Engineer (Security)",
       "url": "https://jobs.apple.com/en-us/details/200682975/ios-software-engineer-security"
     },
@@ -2403,6 +2404,22 @@
       "posted": "2026-10-12",
       "title": "Software Engineer III, Mobile (Android), XR",
       "url": "https://www.google.com/about/careers/applications/jobs/results/103794099043082950"
+    },
+    "google:104709412408435398": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "104709412408435398",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "level": "Staff+",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Munich, Germany"
+      ],
+      "posted": "2026-10-20",
+      "title": "Senior Staff Software Engineer, Android Automotive OS",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/104709412408435398"
     },
     "google:105605735575888582": {
       "active": true,
@@ -5877,5 +5894,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-20T12:13:08Z"
+  "updated_at": "2026-10-20T17:38:00Z"
 }
