@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-20 17:38:00 UTC** · 📌 **272** open mobile jobs
+> 🕐 Last updated: **2026-10-20 21:58:09 UTC** · 📌 **274** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **114** iOS · **114** Android · **2** iOS & Android · **42** Mobile
-> · By level: 1 Intern · 1 Entry · 99 Mid · 103 Senior · 46 Staff+ · 22 Manager
+> 📊 By platform: **116** iOS · **114** Android · **2** iOS & Android · **42** Mobile
+> · By level: 1 Intern · 1 Entry · 99 Mid · 103 Senior · 48 Staff+ · 22 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 65 |
+| [Google](#google) | 66 |
 | [Instacart](#instacart) | 3 |
 | Intel | — |
 | [Lyft](#lyft) | 3 |
@@ -60,7 +60,7 @@ tech companies, scraped directly from each company's careers API every
 | [Proton](#proton) | 7 |
 | [Reddit](#reddit) | 6 |
 | [Riot Games](#riot-games) | 1 |
-| [Robinhood](#robinhood) | 12 |
+| [Robinhood](#robinhood) | 13 |
 | [Roblox](#roblox) | 1 |
 | [Salesforce](#salesforce) | 4 |
 | Scale AI | — |
@@ -277,6 +277,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Staff Software Developer, iOS Glasses System Experience, XR](https://www.google.com/about/careers/applications/jobs/results/140123857305379526) 🆕 | iOS | Staff+ | San Francisco, CA, USA; San Jose, CA, USA | 2026-10-20 | 2026-10-20 |
 | [Senior Staff Software Engineer, Android Automotive OS](https://www.google.com/about/careers/applications/jobs/results/104709412408435398) 🆕 | Android | Staff+ | Kraków, Poland; Munich, Germany | 2026-10-20 | 2026-10-20 |
 | [Staff Interaction Designer, Android Developer Experience](https://www.google.com/about/careers/applications/jobs/results/120710278709945030) 🆕 | Android | Staff+ | Mountain View, CA, USA; New York, NY, USA; Seattle, WA, USA | 2026-10-19 | 2026-10-19 |
 | [Senior Software Engineer, iOS, Google Photos](https://www.google.com/about/careers/applications/jobs/results/136190139708646086) 🆕 | iOS | Senior | Sydney NSW, Australia | 2026-10-16 | 2026-10-16 |
@@ -370,7 +371,7 @@ tech companies, scraped directly from each company's careers API every
 | [WhatsApp - Software Engineer (Technical Leadership) - iOS](https://www.metacareers.com/jobs/2356459388460242) 🆕 | iOS | Mid | São Paulo, Brazil | — | 2026-10-16 |
 | [WhatsApp - Software Engineer (Technical Leadership) - Android](https://www.metacareers.com/jobs/1165549049490227) 🆕 | Android | Mid | São Paulo, Brazil | — | 2026-10-16 |
 | [WhatsApp - Software Engineer (Technical Leadership) - Android](https://www.metacareers.com/jobs/981723587621513) 🆕 | Android | Mid | Bangalore, India | — | 2026-10-16 |
-| [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Boston, MA; Burlingame, CA *(+5 more)* | — | 2026-10-02 |
+| [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Boston, MA; Burlingame, CA *(+6 more)* | — | 2026-10-02 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/3374573439389340) | iOS | Mid | London, UK | — | 2026-10-02 |
 | [Software Engineer, Android](https://www.metacareers.com/jobs/1394915781774041) | Android | Mid | Burlingame, CA; Menlo Park, CA; New York, NY *(+3 more)* | — | 2026-10-02 |
 | [Software Engineer - iOS (Technical Leadership)](https://www.metacareers.com/jobs/1061795906099278) | iOS | Mid | Menlo Park, CA; New York, NY; San Francisco, CA | — | 2026-10-02 |
@@ -466,6 +467,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Staff iOS Engineer, Trading Tools](https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220) 🆕 | iOS | Staff+ | New York, NY | 2026-10-20 | 2026-10-20 |
 | [Senior iOS Engineer, Crypto Perpetuals](https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388) 🆕 | iOS | Senior | Menlo Park, CA; New York, NY; Toronto, Canada | 2026-10-16 | 2026-10-16 |
 | [iOS Developer, International](https://boards.greenhouse.io/robinhood/jobs/8246088?t=gh_src=&gh_jid=8246088) | iOS | Mid | Toronto, Canada | 2026-10-02 | 2026-10-02 |
 | [Android Engineer, Social](https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874) | Android | Mid | Menlo Park, CA; New York, NY | 2026-09-14 | 2026-10-02 |

@@ -3165,6 +3165,22 @@
       "title": "Senior Staff Software Engineer, Android Connectivity",
       "url": "https://www.google.com/about/careers/applications/jobs/results/139868253064176326"
     },
+    "google:140123857305379526": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "140123857305379526",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "level": "Staff+",
+      "locations": [
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA"
+      ],
+      "posted": "2026-10-20",
+      "title": "Staff Software Developer, iOS Glasses System Experience, XR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/140123857305379526"
+    },
     "google:140783433285542598": {
       "active": true,
       "category": "iOS",
@@ -4020,6 +4036,7 @@
         "Menlo Park, CA",
         "New York, NY",
         "Redmond, WA",
+        "Remote, US",
         "San Francisco, CA",
         "Seattle, WA"
       ],
@@ -5154,6 +5171,21 @@
       "title": "Senior iOS Engineer, Crypto Perpetuals",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388"
     },
+    "robinhood:8302220": {
+      "active": true,
+      "category": "iOS",
+      "company": "Robinhood",
+      "external_id": "8302220",
+      "first_seen": "2026-10-20",
+      "last_seen": "2026-10-20",
+      "level": "Staff+",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted": "2026-10-20",
+      "title": "Staff iOS Engineer, Trading Tools",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8302220?t=gh_src=&gh_jid=8302220"
+    },
     "roblox:8140563": {
       "active": true,
       "category": "iOS",
@@ -5894,5 +5926,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-20T17:38:00Z"
+  "updated_at": "2026-10-20T21:58:09Z"
 }
