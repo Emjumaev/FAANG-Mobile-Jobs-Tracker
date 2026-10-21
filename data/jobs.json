@@ -898,8 +898,9 @@
       "url": "https://jobs.apple.com/en-us/details/200664311/senior-ios-engineer-apple-games"
     },
     "apple:200665196": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-21",
       "company": "Apple",
       "external_id": "200665196",
       "first_seen": "2026-10-02",
@@ -3165,6 +3166,21 @@
       "title": "Software Engineer, Android Digital Wellbeing",
       "url": "https://www.google.com/about/careers/applications/jobs/results/137887970345525958"
     },
+    "google:139747893048156870": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "139747893048156870",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "level": "Mid",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-10-21",
+      "title": "Mobile Software Engineer, Google Pay, Client Infrastructure",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/139747893048156870"
+    },
     "google:139868253064176326": {
       "active": true,
       "category": "Android",
@@ -3214,8 +3230,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/140783433285542598"
     },
     "google:142014254948459206": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Google",
       "external_id": "142014254948459206",
       "first_seen": "2026-10-02",
@@ -4238,6 +4255,7 @@
       "last_seen": "2026-10-21",
       "level": "Mid",
       "locations": [
+        "Burlingame, CA",
         "Menlo Park, CA",
         "New York, NY",
         "Remote, US",
@@ -4691,8 +4709,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4382894101"
     },
     "proton:4548812101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4548812101",
       "first_seen": "2026-10-02",
@@ -4723,8 +4742,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4881689101"
     },
     "proton:4881699101": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4881699101",
       "first_seen": "2026-10-02",
@@ -4738,8 +4758,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4881699101"
     },
     "proton:4881705101": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4881705101",
       "first_seen": "2026-10-02",
@@ -4769,8 +4790,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4881716101"
     },
     "proton:4932164101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4932164101",
       "first_seen": "2026-10-02",
@@ -4784,8 +4806,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4932164101"
     },
     "proton:4932176101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4932176101",
       "first_seen": "2026-10-02",
@@ -4799,8 +4822,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4932176101"
     },
     "proton:4932186101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4932186101",
       "first_seen": "2026-10-02",
@@ -4814,8 +4838,9 @@
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4932186101"
     },
     "proton:4932193101": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-21",
       "company": "Proton",
       "external_id": "4932193101",
       "first_seen": "2026-10-02",
@@ -5398,6 +5423,21 @@
       "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
+    },
+    "snap:Q426SWEI9": {
+      "active": true,
+      "category": "iOS",
+      "company": "Snap",
+      "external_id": "Q426SWEI9",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "level": "Staff+",
+      "locations": [
+        "4 Locations"
+      ],
+      "posted": "2026-10-21",
+      "title": "Staff Software Engineer, iOS, Level 6",
+      "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Staff-Software-Engineer--iOS--Level-6_Q426SWEI9"
     },
     "snap:R0046266": {
       "active": false,
@@ -5987,5 +6027,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-21T12:27:07Z"
+  "updated_at": "2026-10-21T17:45:49Z"
 }
