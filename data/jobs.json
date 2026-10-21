@@ -1280,8 +1280,9 @@
       "url": "https://jobs.apple.com/en-us/details/200680031/ios-full-stack-software-engineer"
     },
     "apple:200680206": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-21",
       "company": "Apple",
       "external_id": "200680206",
       "first_seen": "2026-10-02",
@@ -3855,8 +3856,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/94130379677409990"
     },
     "google:96940497322287814": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-21",
       "company": "Google",
       "external_id": "96940497322287814",
       "first_seen": "2026-10-02",
@@ -6027,5 +6029,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-21T17:45:49Z"
+  "updated_at": "2026-10-21T22:06:28Z"
 }
