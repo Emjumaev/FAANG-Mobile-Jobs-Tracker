@@ -95,7 +95,7 @@
     },
     "adyen:8167155": {
       "active": true,
-      "category": "iOS & Android",
+      "category": "Android",
       "company": "Adyen",
       "external_id": "8167155",
       "first_seen": "2026-10-13",
@@ -105,7 +105,7 @@
         "Amsterdam"
       ],
       "posted": "2026-10-12",
-      "title": "Engineering Manager - Android / iOS",
+      "title": "Engineering Manager - Android",
       "url": "https://job-boards.greenhouse.io/adyen/jobs/8167155"
     },
     "affirm:7663434003": {
@@ -1557,6 +1557,21 @@
       "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
       "url": "https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems"
     },
+    "apple:200689059": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200689059",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "level": "Mid",
+      "locations": [
+        "Cork"
+      ],
+      "posted": "2026-10-22",
+      "title": "Swift Engineer, Radar Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689059/swift-engineer-radar-engineering"
+    },
     "apple:200689259": {
       "active": true,
       "category": "iOS",
@@ -2376,6 +2391,21 @@
       "title": "Senior Engineering Manager, Android Application Safety",
       "url": "https://www.google.com/about/careers/applications/jobs/results/100512124479906502"
     },
+    "google:100577550790468294": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "100577550790468294",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "level": "Mid",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-10-22",
+      "title": "Software Engineer, Google Pay Mobile Development",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100577550790468294"
+    },
     "google:102388080295453382": {
       "active": true,
       "category": "Android",
@@ -2535,8 +2565,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/108518356373381830"
     },
     "google:108614349429318342": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-22",
       "company": "Google",
       "external_id": "108614349429318342",
       "first_seen": "2026-10-06",
@@ -3343,8 +3374,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/142671238915859142"
     },
     "google:143026505725682374": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-22",
       "company": "Google",
       "external_id": "143026505725682374",
       "first_seen": "2026-10-02",
@@ -4332,6 +4364,21 @@
       "posted": null,
       "title": "WhatsApp - Software Engineer (Technical Leadership) - Android",
       "url": "https://www.metacareers.com/jobs/981723587621513"
+    },
+    "monzo:6674220": {
+      "active": true,
+      "category": "iOS",
+      "company": "Monzo",
+      "external_id": "6674220",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "level": "Senior",
+      "locations": [
+        "Barcelona"
+      ],
+      "posted": "2025-03-06",
+      "title": "Senior iOS Engineer",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6674220"
     },
     "monzo:7115379": {
       "active": false,
@@ -5592,7 +5639,7 @@
       "company": "Spotify",
       "external_id": "senior-c-ios-engineer-user-platform",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "level": "Senior",
       "locations": [
         "London",
@@ -6062,8 +6109,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193298"
     },
     "wolt:8074534": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-22",
       "company": "Wolt",
       "external_id": "8074534",
       "first_seen": "2026-10-02",
@@ -6095,5 +6143,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-22T12:29:00Z"
+  "updated_at": "2026-10-22T17:44:36Z"
 }
