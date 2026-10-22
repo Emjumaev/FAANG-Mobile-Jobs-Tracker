@@ -744,9 +744,9 @@
       "url": "https://jobs.apple.com/en-us/details/200653312/senior-ios-developer"
     },
     "apple:200654462": {
-      "active": true,
+      "active": false,
       "category": "iOS",
-      "closed": "2026-10-20",
+      "closed": "2026-10-22",
       "company": "Apple",
       "external_id": "200654462",
       "first_seen": "2026-10-02",
@@ -3421,8 +3421,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/143710648918778566"
     },
     "google:72115599236309702": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-22",
       "company": "Google",
       "external_id": "72115599236309702",
       "first_seen": "2026-10-02",
@@ -4017,8 +4018,9 @@
       "url": "https://instacart.careers/job/?gh_jid=8147300"
     },
     "instacart:8154479": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-22",
       "company": "Instacart",
       "external_id": "8154479",
       "first_seen": "2026-10-02",
@@ -4178,7 +4180,6 @@
       "last_seen": "2026-10-22",
       "level": "Mid",
       "locations": [
-        "Bellevue, WA",
         "Boston, MA",
         "Burlingame, CA",
         "Menlo Park, CA",
@@ -6143,5 +6144,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-22T17:44:36Z"
+  "updated_at": "2026-10-22T22:02:32Z"
 }
