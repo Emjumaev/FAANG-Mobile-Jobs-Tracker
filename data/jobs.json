@@ -792,8 +792,9 @@
       "url": "https://jobs.apple.com/en-us/details/200658053/senior-software-engineer-swift-macos"
     },
     "apple:200659816": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-23",
       "company": "Apple",
       "external_id": "200659816",
       "first_seen": "2026-10-02",
@@ -1114,8 +1115,9 @@
       "url": "https://jobs.apple.com/en-us/details/200674943/ios-frameworks-engineer-services-special-project"
     },
     "apple:200675476": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-23",
       "company": "Apple",
       "external_id": "200675476",
       "first_seen": "2026-10-02",
@@ -1601,6 +1603,21 @@
       "posted": "2026-10-14",
       "title": "Tech Lead Manager, iOS Shortcuts Actions - Proactive",
       "url": "https://jobs.apple.com/en-us/details/200689271/tech-lead-manager-ios-shortcuts-actions-proactive"
+    },
+    "apple:200691192": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200691192",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "level": "Staff+",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "posted": "2026-10-23",
+      "title": "Software Architect - iOS Devices",
+      "url": "https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices"
     },
     "block:5373636008": {
       "active": true,
@@ -3455,8 +3472,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/72115599236309702"
     },
     "google:72841586148287174": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "72841586148287174",
       "first_seen": "2026-10-02",
@@ -3536,8 +3554,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/74780514774328006"
     },
     "google:74811910985261766": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "74811910985261766",
       "first_seen": "2026-10-02",
@@ -3958,8 +3977,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/92290484407280326"
     },
     "google:94130379677409990": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "94130379677409990",
       "first_seen": "2026-10-05",
@@ -6178,5 +6198,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-23T17:32:37Z"
+  "updated_at": "2026-10-23T21:45:50Z"
 }
