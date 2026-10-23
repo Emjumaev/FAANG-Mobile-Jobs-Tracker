@@ -651,9 +651,9 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008"
     },
     "apple:200613850": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
-      "closed": "2026-10-20",
+      "closed": "2026-10-23",
       "company": "Apple",
       "external_id": "200613850",
       "first_seen": "2026-10-02",
@@ -1968,6 +1968,21 @@
       "title": "Senior Android Engineer",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275812"
     },
+    "coupang:8318669": {
+      "active": true,
+      "category": "iOS",
+      "company": "Coupang",
+      "external_id": "8318669",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "level": "Manager",
+      "locations": [
+        "Seoul, South Korea"
+      ],
+      "posted": "2026-10-23",
+      "title": "Manager iOS Engineer (CoupangEats)",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8318669"
+    },
     "databricks:8692516002": {
       "active": true,
       "category": "Mobile",
@@ -2707,8 +2722,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/115977778800534214"
     },
     "google:116324069564916422": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "116324069564916422",
       "first_seen": "2026-10-02",
@@ -2804,8 +2820,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/120710278709945030"
     },
     "google:121107122950677190": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "121107122950677190",
       "first_seen": "2026-10-02",
@@ -2899,8 +2916,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/122782407156736710"
     },
     "google:122854521805120198": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-23",
       "company": "Google",
       "external_id": "122854521805120198",
       "first_seen": "2026-10-02",
@@ -5420,18 +5438,18 @@
       "url": "https://careers.roblox.com/jobs/8140563?gh_jid=8140563"
     },
     "salesforce:JR356609": {
-      "active": false,
+      "active": true,
       "category": "Mobile",
       "closed": "2026-10-07",
       "company": "Salesforce",
       "external_id": "JR356609",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-23",
       "level": "Manager",
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-09-16",
+      "posted": "2026-10-23",
       "title": "Senior Manager, Software Engineering - Slack Core Mobile",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Software-Engineering_JR356609-2"
     },
@@ -6160,5 +6178,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-23T12:10:26Z"
+  "updated_at": "2026-10-23T17:32:37Z"
 }

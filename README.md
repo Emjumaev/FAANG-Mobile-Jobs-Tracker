@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-23 12:10:26 UTC** · 📌 **270** open mobile jobs
+> 🕐 Last updated: **2026-10-23 17:32:37 UTC** · 📌 **268** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **115** iOS · **112** Android · **1** iOS & Android · **42** Mobile
-> · By level: 1 Intern · 1 Entry · 98 Mid · 98 Senior · 50 Staff+ · 22 Manager
+> 📊 By platform: **114** iOS · **111** Android · **1** iOS & Android · **42** Mobile
+> · By level: 1 Intern · 1 Entry · 97 Mid · 95 Senior · 50 Staff+ · 24 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -26,13 +26,13 @@ tech companies, scraped directly from each company's careers API every
 | [Airbnb](#airbnb) | 2 |
 | [Amazon](#amazon) | 12 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 42 |
+| [Apple](#apple) | 41 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 5 |
 | [Cloudflare](#cloudflare) | 1 |
 | [Coinbase](#coinbase) | 6 |
-| [Coupang](#coupang) | 4 |
+| [Coupang](#coupang) | 5 |
 | [Databricks](#databricks) | 1 |
 | [Deliveroo](#deliveroo) | 4 |
 | [DoorDash](#doordash) | 5 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 63 |
+| [Google](#google) | 60 |
 | [Instacart](#instacart) | 2 |
 | Intel | — |
 | [Lyft](#lyft) | 4 |
@@ -62,7 +62,7 @@ tech companies, scraped directly from each company's careers API every
 | [Riot Games](#riot-games) | 1 |
 | [Robinhood](#robinhood) | 13 |
 | [Roblox](#roblox) | 1 |
-| [Salesforce](#salesforce) | 4 |
+| [Salesforce](#salesforce) | 5 |
 | Scale AI | — |
 | [Snap](#snap) | 5 |
 | [Snowflake](#snowflake) | 1 |
@@ -179,7 +179,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience](https://jobs.apple.com/en-us/details/200659816/software-engineer-ios-engineer-springboard-multitasking-system-experience) | iOS | Mid | Cupertino | 2026-04-23 | 2026-10-02 |
 | [iOS/macOS Software Engineer](https://jobs.apple.com/en-us/details/200651661/ios-macos-software-engineer) | iOS | Mid | Cupertino | 2026-03-13 | 2026-10-02 |
 | [iOS Software Engineer, Customer Systems](https://jobs.apple.com/en-us/details/200631336/ios-software-engineer-customer-systems) | iOS | Mid | Sunnyvale | 2026-02-25 | 2026-10-02 |
-| [Software Quality Engineer, Mobile Apps - Retail Engineering](https://jobs.apple.com/en-us/details/200613850/software-quality-engineer-mobile-apps-retail-engineering) | Mobile | Mid | Austin | 2026-02-18 | 2026-10-02 |
 
 ## Block
 
@@ -225,6 +224,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Manager iOS Engineer (CoupangEats)](https://www.coupang.jobs/en/jobs/?gh_jid=8318669) 🆕 | iOS | Manager | Seoul, South Korea | 2026-10-23 | 2026-10-23 |
 | [Senior Android Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8275812) | Android | Senior | Bengaluru | 2026-10-13 | 2026-10-13 |
 | [Senior Staff Security Engineer, Mobile Security (Digital Trust)](https://www.coupang.jobs/en/jobs/?gh_jid=8203471) | Mobile | Staff+ | Seoul, South Korea | 2026-09-18 | 2026-10-02 |
 | [[Coupang Pay Tech] Staff Mobile Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8194393) | Mobile | Staff+ | Seoul, South Korea | 2026-09-16 | 2026-10-02 |
@@ -323,8 +323,6 @@ tech companies, scraped directly from each company's careers API every
 | [Staff Software Engineer, Android, Maps Navigation](https://www.google.com/about/careers/applications/jobs/results/92228656205570758) | Android | Staff+ | Sydney NSW, Australia | 2026-09-24 | 2026-10-02 |
 | [Senior Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/122481443765920454) | iOS | Senior | Singapore | 2026-09-24 | 2026-10-02 |
 | [Tech Lead Manager, Mobile, iOS, Google Ads](https://www.google.com/about/careers/applications/jobs/results/115625507730399942) | iOS | Manager | Mountain View, CA, USA | 2026-09-23 | 2026-10-02 |
-| [Software Engineer III, Mobile, iOS](https://www.google.com/about/careers/applications/jobs/results/121107122950677190) | iOS | Senior | Mountain View, CA, USA; Palo Alto, CA, USA; San Bruno, CA, USA *(+1 more)* | 2026-09-23 | 2026-10-02 |
-| [Software Engineer III, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/122854521805120198) | Android | Senior | Mountain View, CA, USA; Palo Alto, CA, USA; San Bruno, CA, USA *(+1 more)* | 2026-09-23 | 2026-10-02 |
 | [Senior Software Engineer, Mobile, iOS](https://www.google.com/about/careers/applications/jobs/results/74811910985261766) | iOS | Senior | Mountain View, CA, USA; Palo Alto, CA, USA; San Bruno, CA, USA *(+1 more)* | 2026-09-23 | 2026-10-02 |
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/72841586148287174) | Android | Senior | Mountain View, CA, USA; San Bruno, CA, USA; Sunnyvale, CA, USA | 2026-09-23 | 2026-10-02 |
 | [Senior Software Engineer Manager, YouTube Main App, Mobile](https://www.google.com/about/careers/applications/jobs/results/119152741032305350) | Mobile | Manager | San Bruno, CA, USA | 2026-09-23 | 2026-10-02 |
@@ -337,7 +335,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer, iOS Graphics, YouTube](https://www.google.com/about/careers/applications/jobs/results/125735636333142726) | iOS | Senior | Mountain View, CA, USA | 2026-08-18 | 2026-10-02 |
 | [Senior Software Engineer, Embedded Systems, Firmware, Android XR](https://www.google.com/about/careers/applications/jobs/results/131242196723475142) | Android | Senior | Kirkland, WA, USA; San Jose, CA, USA | 2026-08-18 | 2026-10-02 |
 | [Senior Software Engineer, Mobile (iOS), YouTube](https://www.google.com/about/careers/applications/jobs/results/108518356373381830) | iOS | Senior | San Bruno, CA, USA | 2026-07-28 | 2026-10-02 |
-| [Software Engineer III, Mobile (iOS), YouTube](https://www.google.com/about/careers/applications/jobs/results/116324069564916422) | iOS | Senior | Mountain View, CA, USA | 2026-05-29 | 2026-10-02 |
 | [Software Engineer III, Mobile (Android), YouTube](https://www.google.com/about/careers/applications/jobs/results/83912025851208390) | Android | Senior | San Bruno, CA, USA | 2026-05-19 | 2026-10-02 |
 | [Mobile Software Engineer, Multiplatform, Early Careers](https://www.google.com/about/careers/applications/jobs/results/123365080841495238) | Mobile | Entry | Mexico City, CDMX, Mexico | 2025-12-17 | 2026-10-02 |
 
@@ -479,6 +476,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Manager, Software Engineering - Slack Core Mobile](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Software-Engineering_JR356609-2) | Mobile | Manager | 3 Locations | 2026-10-23 | 2026-10-02 |
 | [Staff Prototyping Engineer, Android](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1) | Android | Staff+ | 5 Locations | 2026-10-09 | 2026-10-02 |
 | [Senior Staff Prototyping Engineer, iOS](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1) | iOS | Staff+ | 5 Locations | 2026-10-09 | 2026-10-02 |
 | [Staff iOS Developer Experience Engineer - Slack](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1) | iOS | Staff+ | 3 Locations | 2026-10-01 | 2026-10-02 |
