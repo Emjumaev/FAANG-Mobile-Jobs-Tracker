@@ -869,18 +869,18 @@
       "url": "https://jobs.apple.com/en-us/details/200662761/ios-engineer-wallet"
     },
     "apple:200662789": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-10-06",
       "company": "Apple",
       "external_id": "200662789",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-05",
+      "last_seen": "2026-10-26",
       "level": "Mid",
       "locations": [
         "Boulder"
       ],
-      "posted": "2026-09-04",
+      "posted": "2026-10-26",
       "title": "iOS Analytics Software Engineer - Video Applications",
       "url": "https://jobs.apple.com/en-us/details/200662789/ios-analytics-software-engineer-video-applications"
     },
@@ -2599,8 +2599,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/106829872927515334"
     },
     "google:108518356373381830": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "108518356373381830",
       "first_seen": "2026-10-02",
@@ -2924,8 +2925,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/122437791865807558"
     },
     "google:122481443765920454": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "122481443765920454",
       "first_seen": "2026-10-02",
@@ -3818,8 +3820,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/82869459684860614"
     },
     "google:83164677483176646": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "83164677483176646",
       "first_seen": "2026-10-02",
@@ -5434,8 +5437,9 @@
       "url": "https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874"
     },
     "robinhood:8246088": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Robinhood",
       "external_id": "8246088",
       "first_seen": "2026-10-02",
@@ -5773,8 +5777,9 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7543559"
     },
     "stripe:7557403": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-26",
       "company": "Stripe",
       "external_id": "7557403",
       "first_seen": "2026-10-02",
@@ -5848,6 +5853,40 @@
       "title": "Android Engineer, Terminal - CA",
       "url": "https://stripe.com/jobs/search?gh_jid=8274893"
     },
+    "stripe:8311069": {
+      "active": true,
+      "category": "Android",
+      "company": "Stripe",
+      "external_id": "8311069",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "level": "Mid",
+      "locations": [
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ],
+      "posted": "2026-10-26",
+      "title": "Android Engineer, Identity Product",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311069"
+    },
+    "stripe:8311082": {
+      "active": true,
+      "category": "iOS",
+      "company": "Stripe",
+      "external_id": "8311082",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "level": "Mid",
+      "locations": [
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
+      ],
+      "posted": "2026-10-26",
+      "title": "iOS Engineer, Identity Product",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311082"
+    },
     "sumup:8003469002": {
       "active": true,
       "category": "Android",
@@ -5865,8 +5904,9 @@
       "url": "https://sumup.com/careers/positions/8003469002?gh_jid=8003469002"
     },
     "sumup:8348936002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "SumUp",
       "external_id": "8348936002",
       "first_seen": "2026-10-02",
@@ -6250,5 +6290,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-26T13:38:23Z"
+  "updated_at": "2026-10-26T22:59:24Z"
 }
