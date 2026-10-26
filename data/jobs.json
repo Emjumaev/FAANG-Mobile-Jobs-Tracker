@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
@@ -2581,6 +2581,23 @@
       "title": "Senior Software Engineer, Mobile (Android), XR",
       "url": "https://www.google.com/about/careers/applications/jobs/results/106608848810189510"
     },
+    "google:106829872927515334": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "106829872927515334",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA",
+        "San Francisco, CA, USA",
+        "Seattle, WA, USA"
+      ],
+      "posted": "2026-10-26",
+      "title": "Senior Software Engineer, Android System and Frameworks, Beam",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/106829872927515334"
+    },
     "google:108518356373381830": {
       "active": true,
       "category": "iOS",
@@ -2645,8 +2662,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/111864505801024198"
     },
     "google:112629819581047494": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "112629819581047494",
       "first_seen": "2026-10-09",
@@ -2676,6 +2694,25 @@
       "posted": "2026-09-18",
       "title": "Senior Software Engineer, Gemini Enterprise Mobile (iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/112803830181044934"
+    },
+    "google:113334240120054470": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "113334240120054470",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "level": "Senior",
+      "locations": [
+        "Kirkland, WA, USA",
+        "Mountain View, CA, USA",
+        "San Francisco, CA, USA",
+        "San Jose, CA, USA",
+        "Seattle, WA, USA"
+      ],
+      "posted": "2026-10-26",
+      "title": "Senior Software Engineer, Android Internals, Platforms and Devices",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113334240120054470"
     },
     "google:113522891458257606": {
       "active": true,
@@ -3298,8 +3335,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/139747893048156870"
     },
     "google:139868253064176326": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "139868253064176326",
       "first_seen": "2026-10-02",
@@ -3701,8 +3739,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/78657275467571910"
     },
     "google:79055769244181190": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-26",
       "company": "Google",
       "external_id": "79055769244181190",
       "first_seen": "2026-10-02",
@@ -4234,7 +4273,6 @@
       "last_seen": "2026-10-26",
       "level": "Mid",
       "locations": [
-        "Boston, MA",
         "Burlingame, CA",
         "Menlo Park, CA",
         "New York, NY",
@@ -4796,7 +4834,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -5483,7 +5521,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-24",
+      "posted": "2026-10-23",
       "title": "Senior Manager, Software Engineering - Slack Core Mobile",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Software-Engineering_JR356609-2"
     },
@@ -5498,7 +5536,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -5513,7 +5551,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -5543,7 +5581,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-02",
+      "posted": "2026-10-01",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -5558,7 +5596,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -5573,7 +5611,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -5604,7 +5642,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -5619,7 +5657,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "title": "Staff Software Engineer, iOS, Level 6",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Staff-Software-Engineer--iOS--Level-6_Q426SWEI9"
     },
@@ -5666,7 +5704,7 @@
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -6212,5 +6250,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-26T05:22:38Z"
+  "updated_at": "2026-10-26T13:38:23Z"
 }
