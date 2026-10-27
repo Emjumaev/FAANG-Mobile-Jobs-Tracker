@@ -62,6 +62,21 @@
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
     },
+    "adobe:R173239": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Adobe",
+      "external_id": "R173239",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Manager",
+      "locations": [
+        "San Jose"
+      ],
+      "posted": "2026-10-27",
+      "title": "Mobile Engineering Manager - Adobe Scan",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
+    },
     "adyen:8098671": {
       "active": true,
       "category": "Android",
@@ -327,6 +342,36 @@
       "posted": "2026-10-09",
       "title": "Senior Software Engineer, iOS Platform",
       "url": "https://careers.airbnb.com/positions/8262812?gh_jid=8262812"
+    },
+    "airbnb:8325813": {
+      "active": true,
+      "category": "iOS",
+      "company": "Airbnb",
+      "external_id": "8325813",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Senior",
+      "locations": [
+        "United States"
+      ],
+      "posted": "2026-10-27",
+      "title": "Senior Software Engineer, UI Tooling (Full Stack iOS)",
+      "url": "https://careers.airbnb.com/positions/8325813?gh_jid=8325813"
+    },
+    "airbnb:8327822": {
+      "active": true,
+      "category": "iOS",
+      "company": "Airbnb",
+      "external_id": "8327822",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Senior",
+      "locations": [
+        "Remote, USA"
+      ],
+      "posted": "2026-10-27",
+      "title": "Senior iOS Engineer, Guest & Host",
+      "url": "https://careers.airbnb.com/positions/8327822?gh_jid=8327822"
     },
     "amazon:10457833": {
       "active": true,
@@ -3771,6 +3816,21 @@
       "title": "Senior Software Engineer, Mobile, GeminiApp, DeepMind",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79634996049912518"
     },
+    "google:79824458600063686": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "79824458600063686",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Senior",
+      "locations": [
+        "Hyderabad, Telangana, India"
+      ],
+      "posted": "2026-10-27",
+      "title": "Senior Software Engineer, Mobile, Looker",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/79824458600063686"
+    },
     "google:80509850823336646": {
       "active": false,
       "category": "Android",
@@ -5651,8 +5711,9 @@
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
     "snap:Q426SWEI9": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-27",
       "company": "Snap",
       "external_id": "Q426SWEI9",
       "first_seen": "2026-10-21",
@@ -6286,5 +6347,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-27T12:46:22Z"
+  "updated_at": "2026-10-27T18:23:22Z"
 }

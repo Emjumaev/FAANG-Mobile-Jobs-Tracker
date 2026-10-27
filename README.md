@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-27 12:46:22 UTC** · 📌 **261** open mobile jobs
+> 🕐 Last updated: **2026-10-27 18:23:22 UTC** · 📌 **264** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **108** iOS · **110** Android · **1** iOS & Android · **42** Mobile
-> · By level: 1 Intern · 1 Entry · 95 Mid · 92 Senior · 48 Staff+ · 24 Manager
+> 📊 By platform: **109** iOS · **110** Android · **1** iOS & Android · **44** Mobile
+> · By level: 1 Intern · 1 Entry · 95 Mid · 95 Senior · 47 Staff+ · 25 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -20,10 +20,10 @@ tech companies, scraped directly from each company's careers API every
 
 | Company | Open mobile jobs |
 |---|---|
-| [Adobe](#adobe) | 2 |
+| [Adobe](#adobe) | 3 |
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
-| [Airbnb](#airbnb) | 2 |
+| [Airbnb](#airbnb) | 4 |
 | [Amazon](#amazon) | 12 |
 | [Anthropic](#anthropic) | 2 |
 | [Apple](#apple) | 41 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 53 |
+| [Google](#google) | 54 |
 | [Instacart](#instacart) | 2 |
 | Intel | — |
 | [Lyft](#lyft) | 4 |
@@ -64,7 +64,7 @@ tech companies, scraped directly from each company's careers API every
 | [Roblox](#roblox) | 1 |
 | [Salesforce](#salesforce) | 5 |
 | Scale AI | — |
-| [Snap](#snap) | 5 |
+| [Snap](#snap) | 4 |
 | [Snowflake](#snowflake) | 1 |
 | [Spotify](#spotify) | 1 |
 | [Stripe](#stripe) | 6 |
@@ -85,6 +85,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Mobile Engineering Manager - Adobe Scan](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239) 🆕 | Mobile | Manager | San Jose | 2026-10-27 | 2026-10-27 |
 | [Sr. iOS Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605) | iOS | Senior | 4 Locations | 2026-10-14 | 2026-10-02 |
 | [Senior Engineering Manager  \| iOS Video Applications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1) | iOS | Manager | Remote California | 2026-09-19 | 2026-10-02 |
 
@@ -107,6 +108,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior iOS Engineer, Guest & Host](https://careers.airbnb.com/positions/8327822?gh_jid=8327822) 🆕 | iOS | Senior | Remote, USA | 2026-10-27 | 2026-10-27 |
+| [Senior Software Engineer, UI Tooling (Full Stack iOS)](https://careers.airbnb.com/positions/8325813?gh_jid=8325813) 🆕 | iOS | Senior | United States | 2026-10-27 | 2026-10-27 |
 | [Staff Software Engineer, iOS Platform](https://careers.airbnb.com/positions/8262769?gh_jid=8262769) | iOS | Staff+ | United States | 2026-10-09 | 2026-10-09 |
 | [Senior Software Engineer, iOS Platform](https://careers.airbnb.com/positions/8262812?gh_jid=8262812) | iOS | Senior | United States | 2026-10-09 | 2026-10-09 |
 
@@ -277,6 +280,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Software Engineer, Mobile, Looker](https://www.google.com/about/careers/applications/jobs/results/79824458600063686) 🆕 | Mobile | Senior | Hyderabad, Telangana, India | 2026-10-27 | 2026-10-27 |
 | [Senior Software Engineer, Android System and Frameworks, Beam](https://www.google.com/about/careers/applications/jobs/results/106829872927515334) 🆕 | Android | Senior | Mountain View, CA, USA; San Francisco, CA, USA; Seattle, WA, USA | 2026-10-26 | 2026-10-26 |
 | [Senior Software Engineer, Android Internals, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/113334240120054470) 🆕 | Android | Senior | Kirkland, WA, USA; Mountain View, CA, USA; San Francisco, CA, USA *(+2 more)* | 2026-10-26 | 2026-10-26 |
 | [Senior iOS Developer, Search](https://www.google.com/about/careers/applications/jobs/results/78657275467571910) 🆕 | iOS | Senior | Los Angeles, CA, USA; Mountain View, CA, USA | 2026-10-23 | 2026-10-23 |
@@ -479,7 +483,6 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Staff Software Engineer, iOS, Level 6](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Staff-Software-Engineer--iOS--Level-6_Q426SWEI9) 🆕 | iOS | Staff+ | 4 Locations | 2026-10-21 | 2026-10-21 |
 | [Software Engineer, Android, Level 4](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1) | Android | Mid | Toronto, Canada | 2026-10-06 | 2026-10-06 |
 | [Software Engineer, iOS, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2) | iOS | Mid | 5 Locations | 2026-10-02 | 2026-10-02 |
 | [Software Engineer, Android, Level 5](https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1) | Android | Mid | 5 Locations | 2026-10-02 | 2026-10-02 |
