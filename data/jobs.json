@@ -497,8 +497,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10505107/software-development-engineer-ios"
     },
     "amazon:10505109": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-27",
       "company": "Amazon",
       "external_id": "10505109",
       "first_seen": "2026-10-02",
@@ -1663,6 +1664,21 @@
       "posted": "2026-10-23",
       "title": "Software Architect - iOS Devices",
       "url": "https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices"
+    },
+    "apple:200692096": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200692096",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Mid",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "posted": "2026-10-27",
+      "title": "iOS Application Developer - Health Software",
+      "url": "https://jobs.apple.com/en-us/details/200692096/ios-application-developer-health-software"
     },
     "block:5373636008": {
       "active": true,
@@ -4033,6 +4049,21 @@
       "title": "Software Engineer III, Mobile, Android",
       "url": "https://www.google.com/about/careers/applications/jobs/results/87534245139882694"
     },
+    "google:91806317844275910": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "91806317844275910",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "level": "Mid",
+      "locations": [
+        "Shanghai, China"
+      ],
+      "posted": "2026-10-27",
+      "title": "Software Engineer, Android, Pixel Onboarding",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91806317844275910"
+    },
     "google:91878002190623430": {
       "active": true,
       "category": "Android",
@@ -4190,8 +4221,9 @@
       "url": "https://instacart.careers/job/?gh_jid=8154479"
     },
     "instacart:8237985": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-27",
       "company": "Instacart",
       "external_id": "8237985",
       "first_seen": "2026-10-02",
@@ -4205,8 +4237,9 @@
       "url": "https://instacart.careers/job/?gh_jid=8237985"
     },
     "instacart:8237987": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-27",
       "company": "Instacart",
       "external_id": "8237987",
       "first_seen": "2026-10-02",
@@ -6347,5 +6380,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-27T18:23:22Z"
+  "updated_at": "2026-10-27T22:42:55Z"
 }

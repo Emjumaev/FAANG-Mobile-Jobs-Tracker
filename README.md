@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-10-27 18:23:22 UTC** · 📌 **264** open mobile jobs
+> 🕐 Last updated: **2026-10-27 22:42:55 UTC** · 📌 **263** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **109** iOS · **110** Android · **1** iOS & Android · **44** Mobile
-> · By level: 1 Intern · 1 Entry · 95 Mid · 95 Senior · 47 Staff+ · 25 Manager
+> 📊 By platform: **110** iOS · **108** Android · **1** iOS & Android · **44** Mobile
+> · By level: 1 Intern · 1 Entry · 97 Mid · 95 Senior · 45 Staff+ · 24 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -24,9 +24,9 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 4 |
-| [Amazon](#amazon) | 12 |
+| [Amazon](#amazon) | 11 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 41 |
+| [Apple](#apple) | 42 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 5 |
@@ -41,8 +41,8 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 54 |
-| [Instacart](#instacart) | 2 |
+| [Google](#google) | 55 |
+| Instacart | — |
 | Intel | — |
 | [Lyft](#lyft) | 4 |
 | [Meta](#meta) | 13 |
@@ -121,7 +121,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Development Manager, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations) | Mobile | Manager | Seattle, Washington, USA | 2026-10-02 | 2026-10-14 |
 | [Sr. Engineering Manager, Android](https://www.amazon.jobs/en/jobs/10532122/sr-engineering-manager-android) | Android | Manager | San Francisco, California, USA | 2026-09-08 | 2026-10-02 |
 | [Principal Software Engineer, Fulfillment by Amazon - IOS](https://www.amazon.jobs/en/jobs/10530757/principal-software-engineer-fulfillment-by-amazon-ios) | iOS | Staff+ | Bengaluru, Karnataka, IND | 2026-09-06 | 2026-10-02 |
-| [Software Development Manager, Android](https://www.amazon.jobs/en/jobs/10505109/software-development-manager-android) | Android | Manager | Cambridge, Massachusetts, USA | 2026-08-24 | 2026-10-02 |
 | [Mobile Security Engineer, Application Security](https://www.amazon.jobs/en/jobs/10509690/mobile-security-engineer-application-security) | Mobile | Mid | USA | 2026-08-20 | 2026-10-02 |
 | [Sr. Front-End Mobile Engineer, Aza & PXT AI](https://www.amazon.jobs/en/jobs/10505565/sr-front-end-mobile-engineer-aza-pxt-ai) | Mobile | Senior | Bellevue, Washington, USA | 2026-08-18 | 2026-10-08 |
 | [Software Development Manager, Prime Video Mobile Android](https://www.amazon.jobs/en/jobs/10504584/software-development-manager-prime-video-mobile-android) | Android | Manager | Seattle, Washington, USA | 2026-08-18 | 2026-10-02 |
@@ -141,6 +140,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [iOS Application Developer - Health Software](https://jobs.apple.com/en-us/details/200692096/ios-application-developer-health-software) 🆕 | iOS | Mid | Sunnyvale | 2026-10-27 | 2026-10-27 |
 | [iOS Analytics Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200662789/ios-analytics-software-engineer-video-applications) | iOS | Mid | Boulder | 2026-10-26 | 2026-10-02 |
 | [Software Architect - iOS Devices](https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices) 🆕 | iOS | Staff+ | Sunnyvale | 2026-10-23 | 2026-10-23 |
 | [Swift Engineer, Radar Engineering](https://jobs.apple.com/en-us/details/200689059/swift-engineer-radar-engineering) 🆕 | iOS | Mid | Cork | 2026-10-22 | 2026-10-22 |
@@ -280,6 +280,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer, Android, Pixel Onboarding](https://www.google.com/about/careers/applications/jobs/results/91806317844275910) 🆕 | Android | Mid | Shanghai, China | 2026-10-27 | 2026-10-27 |
 | [Senior Software Engineer, Mobile, Looker](https://www.google.com/about/careers/applications/jobs/results/79824458600063686) 🆕 | Mobile | Senior | Hyderabad, Telangana, India | 2026-10-27 | 2026-10-27 |
 | [Senior Software Engineer, Android System and Frameworks, Beam](https://www.google.com/about/careers/applications/jobs/results/106829872927515334) 🆕 | Android | Senior | Mountain View, CA, USA; San Francisco, CA, USA; Seattle, WA, USA | 2026-10-26 | 2026-10-26 |
 | [Senior Software Engineer, Android Internals, Platforms and Devices](https://www.google.com/about/careers/applications/jobs/results/113334240120054470) 🆕 | Android | Senior | Kirkland, WA, USA; Mountain View, CA, USA; San Francisco, CA, USA *(+2 more)* | 2026-10-26 | 2026-10-26 |
@@ -334,13 +335,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer, Embedded Systems, Firmware, Android XR](https://www.google.com/about/careers/applications/jobs/results/131242196723475142) | Android | Senior | Kirkland, WA, USA; San Jose, CA, USA | 2026-08-18 | 2026-10-02 |
 | [Software Engineer III, Mobile (Android), YouTube](https://www.google.com/about/careers/applications/jobs/results/83912025851208390) | Android | Senior | San Bruno, CA, USA | 2026-05-19 | 2026-10-02 |
 | [Mobile Software Engineer, Multiplatform, Early Careers](https://www.google.com/about/careers/applications/jobs/results/123365080841495238) | Mobile | Entry | Mexico City, CDMX, Mexico | 2025-12-17 | 2026-10-02 |
-
-## Instacart
-
-| Role | Platform | Level | Location | Posted | First seen |
-|---|---|---|---|---|---|
-| [Staff Android Engineer, Pick & Deliver](https://instacart.careers/job/?gh_jid=8237985) | Android | Staff+ | United States - Remote | 2026-09-29 | 2026-10-02 |
-| [Staff Android Engineer, Pick & Deliver](https://instacart.careers/job/?gh_jid=8237987) | Android | Staff+ | Canada - Remote (ON, AB, BC, or NS Only) | 2026-09-29 | 2026-10-02 |
 
 ## Lyft
 
