@@ -58,9 +58,9 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-28",
       "title": "Sr. iOS Engineer",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-iOS-Engineer_R170605"
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-iOS-Engineer_R170605"
     },
     "adobe:R173239": {
       "active": true,
@@ -961,6 +961,21 @@
       "posted": "2026-05-26",
       "title": "Software Development Engineer in Test, Swift Platform Experience",
       "url": "https://jobs.apple.com/en-us/details/200665196/software-development-engineer-in-test-swift-platform-experience"
+    },
+    "apple:200665679": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200665679",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "level": "Senior",
+      "locations": [
+        "Herzliya"
+      ],
+      "posted": "2026-05-28",
+      "title": "Senior iOS Applications Engineer - Q",
+      "url": "https://jobs.apple.com/en-us/details/200665679/senior-ios-applications-engineer-q"
     },
     "apple:200666853": {
       "active": false,
@@ -3085,8 +3100,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238"
     },
     "google:123706720626057926": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-28",
       "company": "Google",
       "external_id": "123706720626057926",
       "first_seen": "2026-10-02",
@@ -3658,8 +3674,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/74065227699626694"
     },
     "google:74780514774328006": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-28",
       "company": "Google",
       "external_id": "74780514774328006",
       "first_seen": "2026-10-02",
@@ -4023,8 +4040,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/85254755672040134"
     },
     "google:85858506741031622": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-28",
       "company": "Google",
       "external_id": "85858506741031622",
       "first_seen": "2026-10-02",
@@ -4068,8 +4086,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/87534245139882694"
     },
     "google:91806317844275910": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-28",
       "company": "Google",
       "external_id": "91806317844275910",
       "first_seen": "2026-10-27",
@@ -5697,7 +5716,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -5967,32 +5986,36 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8274893"
     },
     "stripe:8311069": {
-      "active": false,
+      "active": true,
       "category": "Android",
       "closed": "2026-10-28",
       "company": "Stripe",
       "external_id": "8311069",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "level": "Mid",
       "locations": [
-        "San Francisco, CA"
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
       ],
       "posted": "2026-10-26",
       "title": "Android Engineer, Identity",
       "url": "https://stripe.com/jobs/search?gh_jid=8311069"
     },
     "stripe:8311082": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-10-28",
       "company": "Stripe",
       "external_id": "8311082",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "level": "Mid",
       "locations": [
-        "San Francisco, CA"
+        "New York City, NY",
+        "San Francisco, CA",
+        "Seattle, WA"
       ],
       "posted": "2026-10-26",
       "title": "iOS Engineer, Identity",
@@ -6401,5 +6424,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-28T13:36:56Z"
+  "updated_at": "2026-10-28T22:57:46Z"
 }
