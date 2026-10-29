@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-iOS-Engineer_R170605"
     },
@@ -73,7 +73,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "title": "Mobile Engineering Manager - Adobe Scan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
     },
@@ -667,6 +667,21 @@
       "title": "Software Development Engineer, iOS",
       "url": "https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios"
     },
+    "amazon:10591189": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Amazon",
+      "external_id": "10591189",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Mid",
+      "locations": [
+        "Hyderabad, Telangana, IND"
+      ],
+      "posted": "2026-10-29",
+      "title": "SDE II, AB Mobile",
+      "url": "https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile"
+    },
     "anthropic:4572744008": {
       "active": true,
       "category": "iOS",
@@ -698,13 +713,13 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008"
     },
     "apple:200613850": {
-      "active": false,
+      "active": true,
       "category": "Mobile",
       "closed": "2026-10-23",
       "company": "Apple",
       "external_id": "200613850",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-23",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Austin"
@@ -2095,6 +2110,21 @@
       "title": "Manager iOS Engineer (CoupangEats)",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8318669"
     },
+    "coupang:8333651": {
+      "active": true,
+      "category": "iOS",
+      "company": "Coupang",
+      "external_id": "8333651",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Manager",
+      "locations": [
+        "Seoul, South Korea"
+      ],
+      "posted": "2026-10-29",
+      "title": "Manager, iOS Engineer (CoupangEats)",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333651"
+    },
     "databricks:8692516002": {
       "active": true,
       "category": "Mobile",
@@ -2534,8 +2564,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/100577550790468294"
     },
     "google:102388080295453382": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-29",
       "company": "Google",
       "external_id": "102388080295453382",
       "first_seen": "2026-10-02",
@@ -2726,6 +2757,23 @@
       "title": "Senior Software Developer, Mobile (iOS), Platforms and Devices",
       "url": "https://www.google.com/about/careers/applications/jobs/results/108614349429318342"
     },
+    "google:109692820817617606": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "109692820817617606",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA",
+        "San Bruno, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Senior Software Engineer, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109692820817617606"
+    },
     "google:111474325202051782": {
       "active": true,
       "category": "Android",
@@ -2824,6 +2872,21 @@
       "posted": "2026-10-21",
       "title": "Developer Relations Engineer, Android and Play, Games",
       "url": "https://www.google.com/about/careers/applications/jobs/results/113522891458257606"
+    },
+    "google:114752395371520710": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "114752395371520710",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Mid",
+      "locations": [
+        "Kirkland, WA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Software Engineer, Pixel Mobile Wireless, Metrics Analysis Infrastructure",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/114752395371520710"
     },
     "google:115460677622997702": {
       "active": true,
@@ -3520,12 +3583,12 @@
       "external_id": "142151738999087814",
       "first_seen": "2026-10-02",
       "last_seen": "2026-10-29",
-      "level": "Mid",
+      "level": "Senior",
       "locations": [
         "Waterloo, ON, Canada"
       ],
       "posted": "2026-10-01",
-      "title": "Android Infrastructure Software Developer",
+      "title": "Senior Android Infrastructure Software Developer",
       "url": "https://www.google.com/about/careers/applications/jobs/results/142151738999087814"
     },
     "google:142671238915859142": {
@@ -3869,8 +3932,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/79634996049912518"
     },
     "google:79824458600063686": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-10-29",
       "company": "Google",
       "external_id": "79824458600063686",
       "first_seen": "2026-10-27",
@@ -4211,6 +4275,21 @@
       "title": "Technical Lead Manager, Digital Wellbeing, Android",
       "url": "https://www.google.com/about/careers/applications/jobs/results/99276695390823110"
     },
+    "google:99617068059370182": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "99617068059370182",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "New York, NY, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Senior Software Engineer, Mobile (iOS)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/99617068059370182"
+    },
     "instacart:8147298": {
       "active": false,
       "category": "Android",
@@ -4373,11 +4452,12 @@
       "company": "Meta",
       "external_id": "1061795906099278",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
         "New York, NY",
+        "Remote, US",
         "San Francisco, CA"
       ],
       "posted": null,
@@ -4390,7 +4470,7 @@
       "company": "Meta",
       "external_id": "1165549049490227",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, Brazil"
@@ -4405,7 +4485,7 @@
       "company": "Meta",
       "external_id": "1203016587809246",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -4426,7 +4506,7 @@
       "company": "Meta",
       "external_id": "1394915781774041",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -4446,7 +4526,7 @@
       "company": "Meta",
       "external_id": "1420264290310565",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -4475,7 +4555,7 @@
       "company": "Meta",
       "external_id": "2254341065493340",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, Brazil"
@@ -4490,7 +4570,7 @@
       "company": "Meta",
       "external_id": "2356459388460242",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, Brazil"
@@ -4505,7 +4585,7 @@
       "company": "Meta",
       "external_id": "2535581886910269",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "S\u00e3o Paulo, Brazil"
@@ -4520,7 +4600,7 @@
       "company": "Meta",
       "external_id": "3017015768637502",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -4535,7 +4615,7 @@
       "company": "Meta",
       "external_id": "3070271503308669",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -4550,7 +4630,7 @@
       "company": "Meta",
       "external_id": "3374573439389340",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "London, UK"
@@ -4565,7 +4645,7 @@
       "company": "Meta",
       "external_id": "699608119727078",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -4584,7 +4664,7 @@
       "company": "Meta",
       "external_id": "981723587621513",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -4607,6 +4687,21 @@
       "posted": "2025-03-06",
       "title": "Senior iOS Engineer",
       "url": "https://job-boards.greenhouse.io/monzo/jobs/6674220"
+    },
+    "monzo:6674282": {
+      "active": true,
+      "category": "Android",
+      "company": "Monzo",
+      "external_id": "6674282",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Barcelona"
+      ],
+      "posted": "2025-03-06",
+      "title": "Senior Android Engineer",
+      "url": "https://job-boards.greenhouse.io/monzo/jobs/6674282"
     },
     "monzo:7115379": {
       "active": false,
@@ -4969,7 +5064,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -5657,7 +5752,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-24",
+      "posted": "2026-10-23",
       "title": "Senior Manager, Software Engineering - Slack Core Mobile",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Software-Engineering_JR356609-2"
     },
@@ -5672,7 +5767,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -5687,7 +5782,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -5702,7 +5797,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -5717,7 +5812,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -5732,7 +5827,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-4_Q426SWEA2-2"
     },
@@ -5747,7 +5842,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, Android, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--Android--Level-5_Q426SWEA6-1"
     },
@@ -5778,7 +5873,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-03",
+      "posted": "2026-10-02",
       "title": "Software Engineer, iOS, Level 5",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Software-Engineer--iOS--Level-5_Q426SWEI6-2"
     },
@@ -5841,7 +5936,7 @@
       "locations": [
         "Toronto, Canada"
       ],
-      "posted": "2026-10-07",
+      "posted": "2026-10-06",
       "title": "Software Engineer, Android, Level 4",
       "url": "https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Toronto-Canada/Software-Engineer--Android--Level-4_R0047083-1"
     },
@@ -6085,9 +6180,9 @@
       "url": "https://sumup.com/careers/positions/8426778002?gh_jid=8426778002"
     },
     "sumup:8773681002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
-      "closed": "2026-10-12",
+      "closed": "2026-10-29",
       "company": "SumUp",
       "external_id": "8773681002",
       "first_seen": "2026-10-02",
@@ -6116,9 +6211,9 @@
       "url": "https://sumup.com/careers/positions/8794602002?gh_jid=8794602002"
     },
     "sumup:8862799002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
-      "closed": "2026-10-12",
+      "closed": "2026-10-29",
       "company": "SumUp",
       "external_id": "8862799002",
       "first_seen": "2026-10-02",
@@ -6425,5 +6520,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-29T06:32:28Z"
+  "updated_at": "2026-10-29T13:48:03Z"
 }
