@@ -682,6 +682,21 @@
       "title": "SDE II, AB Mobile",
       "url": "https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile"
     },
+    "amazon:10593119": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Amazon",
+      "external_id": "10593119",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Mid",
+      "locations": [
+        "Seattle, Washington, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Software Development Engineer, Mobile App Foundations, BuilderWorks",
+      "url": "https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks"
+    },
     "anthropic:4572744008": {
       "active": true,
       "category": "iOS",
@@ -713,9 +728,9 @@
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4899511008"
     },
     "apple:200613850": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
-      "closed": "2026-10-23",
+      "closed": "2026-10-29",
       "company": "Apple",
       "external_id": "200613850",
       "first_seen": "2026-10-02",
@@ -909,7 +924,7 @@
       "last_seen": "2026-10-29",
       "level": "Mid",
       "locations": [
-        "New York City Metro Area"
+        "San Diego"
       ],
       "posted": "2026-05-12",
       "title": "iOS Engineer - Wallet",
@@ -989,8 +1004,8 @@
         "Herzliya"
       ],
       "posted": "2026-05-28",
-      "title": "Senior iOS Applications Engineer - Q",
-      "url": "https://jobs.apple.com/en-us/details/200665679/senior-ios-applications-engineer-q"
+      "title": "Q - Senior iOS Applications Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665679/q-senior-ios-applications-engineer"
     },
     "apple:200666853": {
       "active": false,
@@ -2839,6 +2854,24 @@
       "title": "Senior Software Engineer, Gemini Enterprise Mobile (iOS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/112803830181044934"
     },
+    "google:113305266270675654": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "113305266270675654",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Palo Alto, CA, USA",
+        "San Bruno, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Software Engineer III, Mobile, iOS",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/113305266270675654"
+    },
     "google:113334240120054470": {
       "active": true,
       "category": "Android",
@@ -3163,6 +3196,24 @@
       "title": "Mobile Software Engineer, Multiplatform, Early Careers",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238"
     },
+    "google:123634078502003398": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "123634078502003398",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Palo Alto, CA, USA",
+        "San Bruno, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Software Engineer III, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123634078502003398"
+    },
     "google:123706720626057926": {
       "active": false,
       "category": "Android",
@@ -3479,6 +3530,21 @@
       "posted": "2026-10-01",
       "title": "Software Engineer, Android Digital Wellbeing",
       "url": "https://www.google.com/about/careers/applications/jobs/results/137887970345525958"
+    },
+    "google:138815997619380934": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "138815997619380934",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Senior Software Engineer, Computational Photography and HDR+, Pixel and XR Camera, Mobile (Android)",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/138815997619380934"
     },
     "google:139747893048156870": {
       "active": true,
@@ -4150,6 +4216,21 @@
       "title": "Software Engineer III, Mobile, Android",
       "url": "https://www.google.com/about/careers/applications/jobs/results/87534245139882694"
     },
+    "google:89540421947925190": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "89540421947925190",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Mid",
+      "locations": [
+        "New Taipei, Banqiao District, New Taipei City, Taiwan"
+      ],
+      "posted": "2026-10-29",
+      "title": "Software Engineer, Android Laptops and Tablets Camera",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/89540421947925190"
+    },
     "google:91806317844275910": {
       "active": false,
       "category": "Android",
@@ -4180,6 +4261,24 @@
       "posted": "2026-09-21",
       "title": "Senior Software Engineer, Mobile (Android), Google Photos, Platforms and Devices",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91878002190623430"
+    },
+    "google:91932959249965766": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "91932959249965766",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "Mountain View, CA, USA",
+        "Palo Alto, CA, USA",
+        "San Bruno, CA, USA",
+        "Sunnyvale, CA, USA"
+      ],
+      "posted": "2026-10-29",
+      "title": "Senior Software Engineer, Mobile, iOS",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91932959249965766"
     },
     "google:92228656205570758": {
       "active": true,
@@ -4812,8 +4911,9 @@
       "url": "https://n26.com/en-eu/careers/positions/8163941?gh_jid=8163941"
     },
     "netflix:790317739137": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-29",
       "company": "Netflix",
       "external_id": "790317739137",
       "first_seen": "2026-10-02",
@@ -5520,9 +5620,25 @@
       "title": "iOS Engineer, Money Experience",
       "url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027"
     },
-    "robinhood:8027506": {
+    "robinhood:7982640": {
       "active": true,
+      "category": "Android",
+      "company": "Robinhood",
+      "external_id": "7982640",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted": "2026-06-04",
+      "title": "Senior Android Engineer, Government Products",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7982640?t=gh_src=&gh_jid=7982640"
+    },
+    "robinhood:8027506": {
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-29",
       "company": "Robinhood",
       "external_id": "8027506",
       "first_seen": "2026-10-02",
@@ -5536,8 +5652,9 @@
       "url": "https://boards.greenhouse.io/robinhood/jobs/8027506?t=gh_src=&gh_jid=8027506"
     },
     "robinhood:8049809": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-29",
       "company": "Robinhood",
       "external_id": "8049809",
       "first_seen": "2026-10-02",
@@ -5724,6 +5841,21 @@
       "posted": "2026-10-23",
       "title": "Senior iOS Engineer, Crypto Perpetuals",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701"
+    },
+    "robinhood:8335168": {
+      "active": true,
+      "category": "Android",
+      "company": "Robinhood",
+      "external_id": "8335168",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Senior",
+      "locations": [
+        "New York, NY"
+      ],
+      "posted": "2026-10-29",
+      "title": "Senior Android Engineer, Event Contracts",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
     },
     "roblox:8140563": {
       "active": true,
@@ -6469,6 +6601,21 @@
       "title": "Staff iOS Engineer, Growth",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7815237"
     },
+    "waymo:7932205": {
+      "active": true,
+      "category": "Android",
+      "company": "Waymo",
+      "external_id": "7932205",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "level": "Staff+",
+      "locations": [
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-05-18",
+      "title": "Senior Staff Android Engineer, In-Car Experience",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7932205"
+    },
     "waymo:8193298": {
       "active": true,
       "category": "Android",
@@ -6520,5 +6667,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-29T13:48:03Z"
+  "updated_at": "2026-10-29T23:05:20Z"
 }
