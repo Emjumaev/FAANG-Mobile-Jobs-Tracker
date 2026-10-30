@@ -1,7 +1,5 @@
 {
-  "failed": {
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)"
-  },
+  "failed": {},
   "succeeded": [
     "Adobe",
     "Adyen",
@@ -29,6 +27,7 @@
     "Intel",
     "Lyft",
     "Meta",
+    "Microsoft",
     "MongoDB",
     "Monzo",
     "Mozilla",

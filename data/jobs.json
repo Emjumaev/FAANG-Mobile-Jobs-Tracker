@@ -969,15 +969,16 @@
       "last_seen": "2026-10-30",
       "level": "Mid",
       "locations": [
-        "New York City Metro Area"
+        "San Diego"
       ],
       "posted": "2026-05-12",
       "title": "iOS Engineer - Wallet",
       "url": "https://jobs.apple.com/en-us/details/200662757/ios-engineer-wallet"
     },
     "apple:200662761": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-30",
       "company": "Apple",
       "external_id": "200662761",
       "first_seen": "2026-10-02",
@@ -1788,6 +1789,21 @@
       "posted": "2026-10-28",
       "title": "iOS Software Engineer",
       "url": "https://jobs.apple.com/en-us/details/200692106/ios-software-engineer"
+    },
+    "apple:200692697": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200692697",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "level": "Mid",
+      "locations": [
+        "Vancouver"
+      ],
+      "posted": "2026-10-30",
+      "title": "Software Engineer, Xcode Cloud",
+      "url": "https://jobs.apple.com/en-us/details/200692697/software-engineer-xcode-cloud"
     },
     "block:5373636008": {
       "active": true,
@@ -2937,8 +2953,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/113334240120054470"
     },
     "google:113522891458257606": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-30",
       "company": "Google",
       "external_id": "113522891458257606",
       "first_seen": "2026-10-21",
@@ -3029,8 +3046,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/116324069564916422"
     },
     "google:116724632811119302": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-30",
       "company": "Google",
       "external_id": "116724632811119302",
       "first_seen": "2026-10-02",
@@ -3949,8 +3967,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/76179974033154758"
     },
     "google:77224005420884678": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-10-30",
       "company": "Google",
       "external_id": "77224005420884678",
       "first_seen": "2026-10-08",
@@ -5232,6 +5251,36 @@
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
+    "paypal:R0138411": {
+      "active": true,
+      "category": "iOS",
+      "company": "PayPal",
+      "external_id": "R0138411",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "level": "Senior",
+      "locations": [
+        "Bangalore, Karnataka, India"
+      ],
+      "posted": "2026-10-30",
+      "title": "Sr Software Engineer, iOS",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411"
+    },
+    "paypal:R0138550": {
+      "active": true,
+      "category": "iOS",
+      "company": "PayPal",
+      "external_id": "R0138550",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "level": "Mid",
+      "locations": [
+        "2 Locations"
+      ],
+      "posted": "2026-10-30",
+      "title": "Software Engineer - iOS",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---iOS_R0138550-1"
+    },
     "pinterest:6922682": {
       "active": true,
       "category": "iOS",
@@ -5248,8 +5297,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682"
     },
     "pinterest:8015517": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-10-30",
       "company": "Pinterest",
       "external_id": "8015517",
       "first_seen": "2026-10-02",
@@ -6732,5 +6782,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-10-30T13:37:25Z"
+  "updated_at": "2026-10-30T22:45:33Z"
 }
