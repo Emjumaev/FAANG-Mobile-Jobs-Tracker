@@ -8,7 +8,7 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-01 18:12:29 UTC** · 📌 **262** open mobile jobs
+> 🕐 Last updated: **2026-11-01 22:29:36 UTC** · 📌 **262** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **109** iOS · **103** Android · **1** iOS & Android · **49** Mobile
