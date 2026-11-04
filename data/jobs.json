@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-iOS-Engineer_R170605"
     },
@@ -73,7 +73,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "title": "Mobile Engineering Manager - Adobe Scan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
     },
@@ -976,8 +976,9 @@
       "url": "https://jobs.apple.com/en-us/details/200662668/senior-ios-frameworks-engineer-healthkit"
     },
     "apple:200662757": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-04",
       "company": "Apple",
       "external_id": "200662757",
       "first_seen": "2026-10-02",
@@ -2097,8 +2098,9 @@
       "url": "https://careers.cisco.com/global/en/job/2028670"
     },
     "cloudflare:8248635": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-04",
       "company": "Cloudflare",
       "external_id": "8248635",
       "first_seen": "2026-10-02",
@@ -2415,8 +2417,9 @@
       "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202481"
     },
     "deliveroo:8206363": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-04",
       "company": "Deliveroo",
       "external_id": "8206363",
       "first_seen": "2026-10-02",
@@ -2572,6 +2575,25 @@
       "posted": "2026-09-11",
       "title": "Software Engineer - Developer Experience, Android",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854"
+    },
+    "doordash:8350965": {
+      "active": true,
+      "category": "Android",
+      "company": "DoorDash",
+      "external_id": "8350965",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "level": "Senior",
+      "locations": [
+        "Los Angeles, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Seattle, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": "2026-11-04",
+      "title": "Senior Software Engineer - Developer Experience, Android",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8350965"
     },
     "duolingo:8318257002": {
       "active": false,
@@ -2951,6 +2973,21 @@
       "posted": "2026-10-26",
       "title": "Senior Software Engineer, Android System and Frameworks, Beam",
       "url": "https://www.google.com/about/careers/applications/jobs/results/106829872927515334"
+    },
+    "google:107833473640604358": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "107833473640604358",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "level": "Senior",
+      "locations": [
+        "Waterloo, ON, Canada"
+      ],
+      "posted": "2026-11-04",
+      "title": "Senior Android Infrastructure Software Developer",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107833473640604358"
     },
     "google:108518356373381830": {
       "active": false,
@@ -4462,6 +4499,21 @@
       "title": "Software Engineer III, Mobile, Android, Applied AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/85891842129699526"
     },
+    "google:86748053255398086": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "86748053255398086",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "level": "Senior",
+      "locations": [
+        "Bengaluru, Karnataka, India"
+      ],
+      "posted": "2026-11-04",
+      "title": "Senior Software Engineer, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/86748053255398086"
+    },
     "google:87534245139882694": {
       "active": false,
       "category": "Android",
@@ -5162,6 +5214,36 @@
       "title": "Senior Mobile Engineer, iOS",
       "url": "https://job-boards.greenhouse.io/mozilla/jobs/8112219"
     },
+    "mozilla:8302305": {
+      "active": true,
+      "category": "iOS",
+      "company": "Mozilla",
+      "external_id": "8302305",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "level": "Mid",
+      "locations": [
+        "Remote Canada"
+      ],
+      "posted": "2026-11-04",
+      "title": "iOS Software Engineer",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/8302305"
+    },
+    "mozilla:8353272": {
+      "active": true,
+      "category": "iOS",
+      "company": "Mozilla",
+      "external_id": "8353272",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "level": "Mid",
+      "locations": [
+        "Remote Germany"
+      ],
+      "posted": "2026-11-04",
+      "title": "iOS Software Engineer",
+      "url": "https://job-boards.greenhouse.io/mozilla/jobs/8353272"
+    },
     "n26:8163939": {
       "active": false,
       "category": "iOS",
@@ -5464,7 +5546,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -5479,13 +5561,14 @@
       "locations": [
         "Bangalore, Karnataka, India"
       ],
-      "posted": "2026-10-31",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer, iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411"
     },
     "paypal:R0138414": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-04",
       "company": "PayPal",
       "external_id": "R0138414",
       "first_seen": "2026-11-02",
@@ -6246,7 +6329,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -6261,7 +6344,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -6276,7 +6359,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -6291,7 +6374,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -7025,5 +7108,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-04T07:04:30Z"
+  "updated_at": "2026-11-04T20:08:22Z"
 }
