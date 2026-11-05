@@ -58,7 +58,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Sr-iOS-Engineer_R170605"
     },
@@ -73,7 +73,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "title": "Mobile Engineering Manager - Adobe Scan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
     },
@@ -1540,13 +1540,13 @@
       "external_id": "200681110",
       "first_seen": "2026-10-02",
       "last_seen": "2026-11-05",
-      "level": "Mid",
+      "level": "Senior",
       "locations": [
         "Sunnyvale"
       ],
       "posted": "2026-09-02",
-      "title": "iOS Software Engineer, Customer Systems",
-      "url": "https://jobs.apple.com/en-us/details/200681110/ios-software-engineer-customer-systems"
+      "title": "Senior  iOS Software Engineer, Customer Systems",
+      "url": "https://jobs.apple.com/en-us/details/200681110/senior-ios-software-engineer-customer-systems"
     },
     "apple:200682345": {
       "active": true,
@@ -4901,7 +4901,7 @@
       "company": "Meta",
       "external_id": "1061795906099278",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
@@ -4914,8 +4914,9 @@
       "url": "https://www.metacareers.com/jobs/1061795906099278"
     },
     "meta:1165549049490227": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-05",
       "company": "Meta",
       "external_id": "1165549049490227",
       "first_seen": "2026-10-16",
@@ -4934,7 +4935,7 @@
       "company": "Meta",
       "external_id": "1203016587809246",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -4955,7 +4956,7 @@
       "company": "Meta",
       "external_id": "1394915781774041",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Burlingame, CA",
@@ -4975,7 +4976,7 @@
       "company": "Meta",
       "external_id": "1420264290310565",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -4999,8 +5000,9 @@
       "url": "https://www.metacareers.com/jobs/2189071041883117"
     },
     "meta:2254341065493340": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-05",
       "company": "Meta",
       "external_id": "2254341065493340",
       "first_seen": "2026-10-16",
@@ -5014,8 +5016,9 @@
       "url": "https://www.metacareers.com/jobs/2254341065493340"
     },
     "meta:2356459388460242": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-05",
       "company": "Meta",
       "external_id": "2356459388460242",
       "first_seen": "2026-10-16",
@@ -5029,8 +5032,9 @@
       "url": "https://www.metacareers.com/jobs/2356459388460242"
     },
     "meta:2535581886910269": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-05",
       "company": "Meta",
       "external_id": "2535581886910269",
       "first_seen": "2026-10-16",
@@ -5049,7 +5053,7 @@
       "company": "Meta",
       "external_id": "3017015768637502",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -5064,7 +5068,7 @@
       "company": "Meta",
       "external_id": "3070271503308669",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -5073,13 +5077,28 @@
       "title": "WhatsApp - Software Engineer - iOS",
       "url": "https://www.metacareers.com/jobs/3070271503308669"
     },
+    "meta:3277714732426155": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "3277714732426155",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "level": "Mid",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Software Engineer - Android (Technical Leadership)",
+      "url": "https://www.metacareers.com/jobs/3277714732426155"
+    },
     "meta:3374573439389340": {
       "active": true,
       "category": "iOS",
       "company": "Meta",
       "external_id": "3374573439389340",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "London, UK"
@@ -5094,11 +5113,12 @@
       "company": "Meta",
       "external_id": "699608119727078",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Menlo Park, CA",
         "New York, NY",
+        "Redmond, WA",
         "Remote, US",
         "San Francisco, CA"
       ],
@@ -5112,7 +5132,7 @@
       "company": "Meta",
       "external_id": "981723587621513",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-05",
       "level": "Mid",
       "locations": [
         "Bangalore, India"
@@ -5246,8 +5266,9 @@
       "url": "https://job-boards.greenhouse.io/mozilla/jobs/8302305"
     },
     "mozilla:8303784": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-05",
       "company": "Mozilla",
       "external_id": "8303784",
       "first_seen": "2026-11-05",
@@ -5579,7 +5600,7 @@
       "locations": [
         "2 Locations"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Android_R0138333"
     },
@@ -5594,7 +5615,7 @@
       "locations": [
         "Bangalore, Karnataka, India"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer, iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411"
     },
@@ -5625,7 +5646,7 @@
       "locations": [
         "Austin, Texas, United States of America"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0138520"
     },
@@ -5644,6 +5665,21 @@
       "posted": "2026-10-31",
       "title": "Software Engineer - iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer---iOS_R0138550-1"
+    },
+    "paypal:R0138583": {
+      "active": true,
+      "category": "Mobile",
+      "company": "PayPal",
+      "external_id": "R0138583",
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05",
+      "level": "Intern",
+      "locations": [
+        "5 Locations"
+      ],
+      "posted": "2026-11-05",
+      "title": "Mobile Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583"
     },
     "pinterest:6922682": {
       "active": true,
@@ -6377,7 +6413,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -6392,7 +6428,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -6407,7 +6443,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -6422,7 +6458,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -7156,5 +7192,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-05T07:28:45Z"
+  "updated_at": "2026-11-05T20:23:25Z"
 }
