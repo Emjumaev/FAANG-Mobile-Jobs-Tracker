@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-08 13:58:20 UTC** · 📌 **238** open mobile jobs
+> 🕐 Last updated: **2026-11-08 22:34:18 UTC** · 📌 **235** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **107** iOS · **84** Android · **2** iOS & Android · **45** Mobile
-> · By level: 2 Intern · 1 Entry · 87 Mid · 89 Senior · 38 Staff+ · 21 Manager
+> 📊 By platform: **105** iOS · **84** Android · **2** iOS & Android · **44** Mobile
+> · By level: 2 Intern · 1 Entry · 86 Mid · 87 Senior · 38 Staff+ · 21 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -26,10 +26,10 @@ tech companies, scraped directly from each company's careers API every
 | [Airbnb](#airbnb) | 3 |
 | [Amazon](#amazon) | 16 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 44 |
+| [Apple](#apple) | 42 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
-| [Cisco](#cisco) | 6 |
+| [Cisco](#cisco) | 5 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 9 |
 | [Coupang](#coupang) | 7 |
@@ -157,7 +157,6 @@ tech companies, scraped directly from each company's careers API every
 | [Swift Engineer, Radar Engineering](https://jobs.apple.com/en-us/details/200689059/swift-engineer-radar-engineering) | iOS | Mid | Cork | 2026-10-22 | 2026-10-22 |
 | [iOS Software Engineer (Security)](https://jobs.apple.com/en-us/details/200682975/ios-software-engineer-security) | iOS | Mid | London | 2026-10-20 | 2026-10-02 |
 | [Senior Swift Software Engineer, Employee Engagement Engineering](https://jobs.apple.com/en-us/details/200668788/senior-swift-software-engineer-employee-engagement-engineering) | iOS | Senior | Cork | 2026-10-20 | 2026-10-20 |
-| [iOS Telephony Software Engineer, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems) | iOS | Mid | Cupertino | 2026-10-14 | 2026-10-14 |
 | [iOS Software Engineer, Shortcuts Actions - Proactive](https://jobs.apple.com/en-us/details/200689259/ios-software-engineer-shortcuts-actions-proactive) | iOS | Mid | Seattle | 2026-10-14 | 2026-10-15 |
 | [Profiling Tools Engineer (Xcode Instruments) - Developer Experience](https://jobs.apple.com/en-us/details/200669203/profiling-tools-engineer-xcode-instruments-developer-experience) | iOS | Mid | Cupertino | 2026-10-12 | 2026-10-13 |
 | [UI and iOS Platform Software Engineer, Safari](https://jobs.apple.com/en-us/details/200671616/ui-and-ios-platform-software-engineer-safari) | iOS | Mid | Cupertino | 2026-10-09 | 2026-10-02 |
@@ -174,7 +173,6 @@ tech companies, scraped directly from each company's careers API every
 | [iOS Full-Stack Software Engineer](https://jobs.apple.com/en-us/details/200680031/ios-full-stack-software-engineer) | iOS | Mid | Beijing | 2026-09-09 | 2026-10-02 |
 | [iOS Software Engineer- Location Technologies](https://jobs.apple.com/en-us/details/200682345/ios-software-engineer-location-technologies) | iOS | Mid | Herzliya | 2026-09-08 | 2026-10-02 |
 | [iOS Frameworks Engineer - Services Special Project](https://jobs.apple.com/en-us/details/200674943/ios-frameworks-engineer-services-special-project) | iOS | Mid | Cupertino | 2026-09-08 | 2026-10-02 |
-| [Senior  iOS Software Engineer, Customer Systems](https://jobs.apple.com/en-us/details/200681110/senior-ios-software-engineer-customer-systems) | iOS | Senior | Sunnyvale | 2026-09-02 | 2026-10-02 |
 | [iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678192/ios-software-engineer-creative-apps) | iOS | Mid | Cary | 2026-08-20 | 2026-10-02 |
 | [iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678787/ios-software-engineer-creative-apps) | iOS | Mid | Vancouver | 2026-08-20 | 2026-10-02 |
 | [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678194/sr-ios-software-engineer-creative-apps) | iOS | Senior | Cupertino | 2026-08-20 | 2026-10-02 |
@@ -184,7 +182,7 @@ tech companies, scraped directly from each company's careers API every
 | [UI Frameworks Engineer, macOS](https://jobs.apple.com/en-us/details/200672385/ui-frameworks-engineer-macos) | iOS | Mid | Cupertino | 2026-07-14 | 2026-10-02 |
 | [Software Engineer (Swift UI),  Employee Experience & Productivity](https://jobs.apple.com/en-us/details/200671398/software-engineer-swift-ui-employee-experience-productivity) | iOS | Mid | Austin | 2026-07-08 | 2026-10-02 |
 | [Senior Machine Learning iOS Platform Engineer  — Responsible AI and Safety](https://jobs.apple.com/en-us/details/200667449/senior-machine-learning-ios-platform-engineer-responsible-ai-and-safety) | iOS | Senior | San Francisco Bay Area | 2026-06-09 | 2026-10-02 |
-| [Q - Senior iOS Applications Engineer](https://jobs.apple.com/en-us/details/200665679/q-senior-ios-applications-engineer) | iOS | Senior | Herzliya | 2026-05-28 | 2026-10-28 |
+| [Senior iOS Applications Engineer - Q](https://jobs.apple.com/en-us/details/200665679/senior-ios-applications-engineer-q) | iOS | Senior | Herzliya | 2026-05-28 | 2026-10-28 |
 | [Senior iOS Frameworks Engineer - HealthKit](https://jobs.apple.com/en-us/details/200662668/senior-ios-frameworks-engineer-healthkit) | iOS | Senior | San Diego | 2026-05-15 | 2026-10-02 |
 | [iOS/macOS Software Engineer](https://jobs.apple.com/en-us/details/200651661/ios-macos-software-engineer) | iOS | Mid | Cupertino | 2026-03-13 | 2026-10-02 |
 | [iOS Software Engineer, Customer Systems](https://jobs.apple.com/en-us/details/200631336/ios-software-engineer-customer-systems) | iOS | Mid | Sunnyvale | 2026-02-25 | 2026-10-02 |
@@ -210,7 +208,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer - Mobile](https://careers.cisco.com/global/en/job/2028669) | Mobile | Mid | Slovakia | 2026-10-22 | 2026-10-22 |
 | [Senior Software Engineer – Android Platform](https://careers.cisco.com/global/en/job/2027664) | Android | Senior | Galway, Ireland | 2026-10-13 | 2026-10-13 |
 | [UI Desktop macOS and IOS Engineer Hybird](https://careers.cisco.com/global/en/job/2021020) | iOS | Mid | Research Triangle Park, North Carolina, United States of America; San Jose, California, United States of America | 2026-10-05 | 2026-10-06 |
-| [Senior Software Engineer - Mobile](https://careers.cisco.com/global/en/job/2023877) | Mobile | Senior | Slovakia | 2026-09-02 | 2026-10-02 |
 | [Senior IOS Engineer (Duo)](https://careers.cisco.com/global/en/job/2023299) | iOS | Senior | Ann Arbor, Michigan, United States of America | 2026-08-28 | 2026-10-02 |
 
 ## Coinbase

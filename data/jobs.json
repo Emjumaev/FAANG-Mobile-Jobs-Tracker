@@ -1100,8 +1100,8 @@
         "Herzliya"
       ],
       "posted": "2026-05-28",
-      "title": "Q - Senior iOS Applications Engineer",
-      "url": "https://jobs.apple.com/en-us/details/200665679/q-senior-ios-applications-engineer"
+      "title": "Senior iOS Applications Engineer - Q",
+      "url": "https://jobs.apple.com/en-us/details/200665679/senior-ios-applications-engineer-q"
     },
     "apple:200666853": {
       "active": false,
@@ -1552,8 +1552,9 @@
       "url": "https://jobs.apple.com/en-us/details/200681044/ios-engineer-appletv-tvos"
     },
     "apple:200681110": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-08",
       "company": "Apple",
       "external_id": "200681110",
       "first_seen": "2026-10-02",
@@ -1750,8 +1751,9 @@
       "url": "https://jobs.apple.com/en-us/details/200687574/full-stack-ios-engineer-ios-backend-icloud-products"
     },
     "apple:200687778": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-08",
       "company": "Apple",
       "external_id": "200687778",
       "first_seen": "2026-10-14",
@@ -2039,8 +2041,9 @@
       "url": "https://careers.cisco.com/global/en/job/2023299"
     },
     "cisco:2023877": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-08",
       "company": "Cisco",
       "external_id": "2023877",
       "first_seen": "2026-10-02",
@@ -7289,5 +7292,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-08T13:58:20Z"
+  "updated_at": "2026-11-08T22:34:18Z"
 }
