@@ -58,7 +58,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Washington/Sr-iOS-Engineer_R170605"
     },
@@ -73,7 +73,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "title": "Mobile Engineering Manager - Adobe Scan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
     },
@@ -993,13 +993,13 @@
       "url": "https://jobs.apple.com/en-us/details/200661354/ui-frameworks-engineer-swift-platform-experience"
     },
     "apple:200662668": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-11-06",
       "company": "Apple",
       "external_id": "200662668",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-08",
       "level": "Senior",
       "locations": [
         "San Diego"
@@ -5710,7 +5710,7 @@
       "locations": [
         "Bangalore, Karnataka, India"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer, iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411"
     },
@@ -5741,7 +5741,7 @@
       "locations": [
         "Austin, Texas, United States of America"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0138520"
     },
@@ -5772,7 +5772,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Mobile Engineer Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583"
     },
@@ -6510,7 +6510,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
@@ -6525,7 +6525,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -6540,7 +6540,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -6555,7 +6555,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -7289,5 +7289,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-08T06:46:47Z"
+  "updated_at": "2026-11-08T13:58:20Z"
 }
