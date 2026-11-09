@@ -58,7 +58,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "title": "Sr. iOS Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Washington/Sr-iOS-Engineer_R170605"
     },
@@ -73,7 +73,7 @@
       "locations": [
         "San Jose"
       ],
-      "posted": "2026-10-28",
+      "posted": "2026-10-27",
       "title": "Mobile Engineering Manager - Adobe Scan",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239"
     },
@@ -1009,13 +1009,13 @@
       "url": "https://jobs.apple.com/en-us/details/200662668/senior-ios-frameworks-engineer-healthkit"
     },
     "apple:200662757": {
-      "active": false,
+      "active": true,
       "category": "iOS",
       "closed": "2026-11-04",
       "company": "Apple",
       "external_id": "200662757",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-09",
       "level": "Mid",
       "locations": [
         "New York City Metro Area"
@@ -1303,8 +1303,9 @@
       "url": "https://jobs.apple.com/en-us/details/200674686/ios-springboard-engineer-graphic-wallpapers-screensavers"
     },
     "apple:200674943": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Apple",
       "external_id": "200674943",
       "first_seen": "2026-10-02",
@@ -1381,8 +1382,9 @@
       "url": "https://jobs.apple.com/en-us/details/200678174/ios-engineer-creator-studio"
     },
     "apple:200678192": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Apple",
       "external_id": "200678192",
       "first_seen": "2026-10-02",
@@ -1442,8 +1444,9 @@
       "url": "https://jobs.apple.com/en-us/details/200678780/sr-ios-software-engineer-creative-apps"
     },
     "apple:200678787": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Apple",
       "external_id": "200678787",
       "first_seen": "2026-10-02",
@@ -1859,8 +1862,9 @@
       "url": "https://jobs.apple.com/en-us/details/200692106/ios-software-engineer"
     },
     "apple:200692697": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Apple",
       "external_id": "200692697",
       "first_seen": "2026-10-30",
@@ -1925,13 +1929,13 @@
       "external_id": "200693049",
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-09",
-      "level": "Senior",
+      "level": "Mid",
       "locations": [
         "Seattle"
       ],
       "posted": "2026-11-03",
-      "title": "Sr. iOS Engineer - Apple, Inc.",
-      "url": "https://jobs.apple.com/en-us/details/200693049/sr-ios-engineer-apple-inc"
+      "title": "iOS Engineer - Apple, Inc.",
+      "url": "https://jobs.apple.com/en-us/details/200693049/ios-engineer-apple-inc"
     },
     "apple:200693053": {
       "active": true,
@@ -3191,8 +3195,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/113305266270675654"
     },
     "google:113334240120054470": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-09",
       "company": "Google",
       "external_id": "113334240120054470",
       "first_seen": "2026-10-26",
@@ -3258,8 +3263,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/115460677622997702"
     },
     "google:115625507730399942": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Google",
       "external_id": "115625507730399942",
       "first_seen": "2026-10-02",
@@ -3339,8 +3345,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/118582644253303494"
     },
     "google:119152741032305350": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-09",
       "company": "Google",
       "external_id": "119152741032305350",
       "first_seen": "2026-10-02",
@@ -3712,6 +3719,22 @@
       "title": "Senior Software Engineer, Embedded Systems, Firmware, Android XR",
       "url": "https://www.google.com/about/careers/applications/jobs/results/131242196723475142"
     },
+    "google:132332995741655750": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "132332995741655750",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "level": "Senior",
+      "locations": [
+        "Durham, NC, USA",
+        "Raleigh, NC, USA"
+      ],
+      "posted": "2026-11-09",
+      "title": "Senior Software Engineer, Mobile, Android",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/132332995741655750"
+    },
     "google:132534755320046278": {
       "active": false,
       "category": "Android",
@@ -4052,8 +4075,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/143200643027215046"
     },
     "google:143710648918778566": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-09",
       "company": "Google",
       "external_id": "143710648918778566",
       "first_seen": "2026-10-08",
@@ -5713,7 +5737,7 @@
       "locations": [
         "Bangalore, Karnataka, India"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer, iOS",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer--iOS_R0138411"
     },
@@ -5744,7 +5768,7 @@
       "locations": [
         "Austin, Texas, United States of America"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Sr Software Engineer - Android",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0138520"
     },
@@ -5775,7 +5799,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Mobile Engineer Intern - Summer 2027",
       "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Mobile-Engineer-Intern---Summer-2027_R0138583"
     },
@@ -6052,8 +6076,9 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002"
     },
     "reddit:8211850": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Reddit",
       "external_id": "8211850",
       "first_seen": "2026-10-02",
@@ -6513,13 +6538,14 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff Prototyping Engineer, Android",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Staff-Prototyping-Engineer--Android_JR360079-1"
     },
     "salesforce:JR360080": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-09",
       "company": "Salesforce",
       "external_id": "JR360080",
       "first_seen": "2026-10-02",
@@ -6543,7 +6569,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -6558,7 +6584,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -7292,5 +7318,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-09T07:15:14Z"
+  "updated_at": "2026-11-09T22:48:44Z"
 }
