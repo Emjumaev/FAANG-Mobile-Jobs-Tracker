@@ -1,5 +1,7 @@
 {
-  "failed": {},
+  "failed": {
+    "Meta": "meta graphql response missing all_jobs (doc_id likely rotated): {'errors': [{'message': 'A server error missing_required_variable_value occured. Check server logs for details.', 'severity': 'CRITICAL', 'mids': ['5dd0881ecb3d703975bbf8a467d8d257'], 'debug_link': 'h"
+  },
   "succeeded": [
     "Adobe",
     "Adyen",
@@ -26,7 +28,6 @@
     "Instacart",
     "Intel",
     "Lyft",
-    "Meta",
     "Microsoft",
     "MongoDB",
     "Monzo",
