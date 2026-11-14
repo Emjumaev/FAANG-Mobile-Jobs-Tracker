@@ -1,7 +1,5 @@
 {
-  "failed": {
-    "Intel": "request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (Expecting value: line 1 column 1 (char 0))"
-  },
+  "failed": {},
   "succeeded": [
     "Adobe",
     "Adyen",
@@ -26,6 +24,7 @@
     "GitHub",
     "Google",
     "Instacart",
+    "Intel",
     "Lyft",
     "Meta",
     "Microsoft",
