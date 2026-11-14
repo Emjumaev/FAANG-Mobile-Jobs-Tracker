@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-14 07:03:54 UTC** · 📌 **236** open mobile jobs
+> 🕐 Last updated: **2026-11-14 18:34:49 UTC** · 📌 **234** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **106** iOS · **81** Android · **2** iOS & Android · **47** Mobile
-> · By level: 2 Intern · 1 Entry · 91 Mid · 81 Senior · 41 Staff+ · 20 Manager
+> 📊 By platform: **104** iOS · **81** Android · **2** iOS & Android · **47** Mobile
+> · By level: 2 Intern · 1 Entry · 89 Mid · 81 Senior · 41 Staff+ · 20 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -45,7 +45,7 @@ tech companies, scraped directly from each company's careers API every
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 4 |
-| [Meta](#meta) | 10 |
+| [Meta](#meta) | 8 |
 | Microsoft | — |
 | MongoDB | — |
 | [Monzo](#monzo) | 2 |
@@ -340,8 +340,6 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer - Android (Technical Leadership)](https://www.metacareers.com/jobs/964439272759912) | Android | Mid | London, UK | — | 2026-11-06 |
-| [iOS Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/3017015768637502) | iOS | Mid | — | — | 2026-10-21 |
-| [iOS Engineer, WhatsApp](https://www.metacareers.com/jobs/3070271503308669) | iOS | Mid | — | — | 2026-10-16 |
 | [WhatsApp - Software Engineer - Android](https://www.metacareers.com/jobs/1420264290310565) | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [Android Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/981723587621513) | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+5 more)* | — | 2026-10-02 |
@@ -451,9 +449,9 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Senior Staff Prototyping Engineer, iOS](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1) | iOS | Staff+ | 5 Locations | 2026-11-13 | 2026-10-02 |
-| [Staff iOS Developer Experience Engineer - Slack](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1) | iOS | Staff+ | 3 Locations | 2026-10-29 | 2026-10-02 |
-| [Senior Software Engineer, Android Accessibility](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335) | Android | Senior | 4 Locations | 2026-10-29 | 2026-10-02 |
+| [Senior Staff Prototyping Engineer, iOS](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1) | iOS | Staff+ | 5 Locations | 2026-11-12 | 2026-10-02 |
+| [Staff iOS Developer Experience Engineer - Slack](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1) | iOS | Staff+ | 3 Locations | 2026-10-28 | 2026-10-02 |
+| [Senior Software Engineer, Android Accessibility](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335) | Android | Senior | 4 Locations | 2026-10-28 | 2026-10-02 |
 
 ## Snap
 

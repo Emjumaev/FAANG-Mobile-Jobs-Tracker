@@ -22,7 +22,7 @@
       "company": "Adobe",
       "external_id": "R170167",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Manager",
       "locations": [
         "Remote California"
@@ -53,7 +53,7 @@
       "company": "Adobe",
       "external_id": "R170605",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Senior",
       "locations": [
         "5 Locations"
@@ -68,7 +68,7 @@
       "company": "Adobe",
       "external_id": "R173239",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Manager",
       "locations": [
         "San Jose"
@@ -5408,8 +5408,9 @@
       "url": "https://www.metacareers.com/jobs/2535581886910269"
     },
     "meta:3017015768637502": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-14",
       "company": "Meta",
       "external_id": "3017015768637502",
       "first_seen": "2026-10-21",
@@ -5421,8 +5422,9 @@
       "url": "https://www.metacareers.com/jobs/3017015768637502"
     },
     "meta:3070271503308669": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-14",
       "company": "Meta",
       "external_id": "3070271503308669",
       "first_seen": "2026-10-16",
@@ -5816,7 +5818,7 @@
       "company": "NVIDIA",
       "external_id": "JR2024408",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Intern",
       "locations": [
         "Taiwan, Taipei"
@@ -5969,7 +5971,7 @@
       "company": "PayPal",
       "external_id": "R0134248",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Staff+",
       "locations": [
         "Austin, Texas, United States of America"
@@ -6000,7 +6002,7 @@
       "company": "PayPal",
       "external_id": "R0135097",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Staff+",
       "locations": [
         "2 Locations"
@@ -6015,7 +6017,7 @@
       "company": "PayPal",
       "external_id": "R0138333",
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Mid",
       "locations": [
         "2 Locations"
@@ -6062,7 +6064,7 @@
       "company": "PayPal",
       "external_id": "R0138520",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Senior",
       "locations": [
         "Austin, Texas, United States of America"
@@ -6093,7 +6095,7 @@
       "company": "PayPal",
       "external_id": "R0138583",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Intern",
       "locations": [
         "5 Locations"
@@ -6854,7 +6856,7 @@
       "locations": [
         "5 Locations"
       ],
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "title": "Senior Staff Prototyping Engineer, iOS",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco-Metro---Remote/Senior-Staff-Prototyping-Engineer--iOS_JR360080-1"
     },
@@ -6869,7 +6871,7 @@
       "locations": [
         "4 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Senior Software Engineer, Android Accessibility",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Software-Engineer--Android-Accessibility_JR360335"
     },
@@ -6884,7 +6886,7 @@
       "locations": [
         "3 Locations"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Staff iOS Developer Experience Engineer - Slack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Staff-iOS-Developer-Experience-Engineer---Slack_JR362155-1"
     },
@@ -6894,7 +6896,7 @@
       "company": "Snap",
       "external_id": "Q426SWEA2",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -6909,7 +6911,7 @@
       "company": "Snap",
       "external_id": "Q426SWEA6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -6940,7 +6942,7 @@
       "company": "Snap",
       "external_id": "Q426SWEI6",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Mid",
       "locations": [
         "5 Locations"
@@ -7004,7 +7006,7 @@
       "company": "Snap",
       "external_id": "R0047083",
       "first_seen": "2026-10-06",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "level": "Mid",
       "locations": [
         "Toronto, Canada"
@@ -7648,5 +7650,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-14T07:03:54Z"
+  "updated_at": "2026-11-14T18:34:49Z"
 }
