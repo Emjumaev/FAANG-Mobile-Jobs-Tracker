@@ -684,8 +684,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios"
     },
     "amazon:10591189": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-16",
       "company": "Amazon",
       "external_id": "10591189",
       "first_seen": "2026-10-29",
@@ -1414,8 +1415,9 @@
       "url": "https://jobs.apple.com/en-us/details/200678192/ios-software-engineer-creative-apps"
     },
     "apple:200678194": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "Apple",
       "external_id": "200678194",
       "first_seen": "2026-10-02",
@@ -2030,8 +2032,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard"
     },
     "apple:200694384": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "Apple",
       "external_id": "200694384",
       "first_seen": "2026-11-11",
@@ -2058,6 +2061,36 @@
       "posted": "2026-11-13",
       "title": "AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software",
       "url": "https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software"
+    },
+    "apple:200695213": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200695213",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "level": "Mid",
+      "locations": [
+        "Vancouver"
+      ],
+      "posted": "2026-11-16",
+      "title": "iOS Software Engineer - Video Applications",
+      "url": "https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications"
+    },
+    "apple:200695246": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200695246",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "level": "Senior",
+      "locations": [
+        "Cupertino"
+      ],
+      "posted": "2026-11-16",
+      "title": "Sr. Swift Standard Libraries Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer"
     },
     "block:5373636008": {
       "active": true,
@@ -2592,6 +2625,21 @@
       "title": "[\ucfe0\ud321\uc774\uce20] Staff, Mobile Engineer (Mobile Delivery and Merchant)",
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8384906"
     },
+    "coupang:8392212": {
+      "active": true,
+      "category": "Android",
+      "company": "Coupang",
+      "external_id": "8392212",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "level": "Senior",
+      "locations": [
+        "Seoul, South Korea"
+      ],
+      "posted": "2026-11-16",
+      "title": "[\ucfe0\ud321\uc774\uce20] Senior, Android Engineer (Customer Android)",
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8392212"
+    },
     "databricks:8692516002": {
       "active": true,
       "category": "Mobile",
@@ -2877,7 +2925,7 @@
         "Pittsburgh, PA"
       ],
       "posted": "2026-07-10",
-      "title": "Senior/Software Engineer II, Android",
+      "title": "Senior Software Engineer, Android",
       "url": "https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002"
     },
     "duolingo:8628670002": {
@@ -3207,7 +3255,6 @@
       "level": "Senior",
       "locations": [
         "Mountain View, CA, USA",
-        "San Francisco, CA, USA",
         "Seattle, WA, USA"
       ],
       "posted": "2026-10-26",
@@ -3975,8 +4022,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/133023244499198662"
     },
     "google:133666085139292870": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-16",
       "company": "Google",
       "external_id": "133666085139292870",
       "first_seen": "2026-10-02",
@@ -4828,8 +4876,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/85858506741031622"
     },
     "google:85891842129699526": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-16",
       "company": "Google",
       "external_id": "85891842129699526",
       "first_seen": "2026-10-06",
@@ -6134,6 +6183,21 @@
       "title": "Software Engineer, iOS",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682"
     },
+    "pinterest:8011547": {
+      "active": true,
+      "category": "iOS",
+      "company": "Pinterest",
+      "external_id": "8011547",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "level": "Senior",
+      "locations": [
+        "Toronto, ON, CA"
+      ],
+      "posted": "2026-06-22",
+      "title": "Sr. Software Engineer, iOS",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8011547"
+    },
     "pinterest:8015517": {
       "active": false,
       "category": "iOS",
@@ -7126,8 +7190,9 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7978915"
     },
     "stripe:8229361": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-16",
       "company": "Stripe",
       "external_id": "8229361",
       "first_seen": "2026-10-06",
@@ -7255,8 +7320,9 @@
       "url": "https://sumup.com/careers/positions/8348937002?gh_jid=8348937002"
     },
     "sumup:8426778002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "SumUp",
       "external_id": "8426778002",
       "first_seen": "2026-10-02",
@@ -7317,8 +7383,9 @@
       "url": "https://sumup.com/careers/positions/8862799002?gh_jid=8862799002"
     },
     "sumup:8937739002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "SumUp",
       "external_id": "8937739002",
       "first_seen": "2026-11-11",
@@ -7332,8 +7399,9 @@
       "url": "https://sumup.com/careers/positions/8937739002?gh_jid=8937739002"
     },
     "sumup:8937745002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "SumUp",
       "external_id": "8937745002",
       "first_seen": "2026-11-11",
@@ -7583,8 +7651,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7484282"
     },
     "waymo:7815237": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-16",
       "company": "Waymo",
       "external_id": "7815237",
       "first_seen": "2026-10-02",
@@ -7665,5 +7734,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-16T07:18:33Z"
+  "updated_at": "2026-11-16T22:33:38Z"
 }

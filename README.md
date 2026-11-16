@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-16 07:18:33 UTC** · 📌 **235** open mobile jobs
+> 🕐 Last updated: **2026-11-16 22:33:38 UTC** · 📌 **229** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **104** iOS · **82** Android · **2** iOS & Android · **47** Mobile
-> · By level: 2 Intern · 1 Entry · 89 Mid · 82 Senior · 41 Staff+ · 20 Manager
+> 📊 By platform: **101** iOS · **81** Android · **2** iOS & Android · **45** Mobile
+> · By level: 2 Intern · 1 Entry · 86 Mid · 83 Senior · 39 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -24,7 +24,7 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 4 |
-| [Amazon](#amazon) | 15 |
+| [Amazon](#amazon) | 14 |
 | [Anthropic](#anthropic) | 2 |
 | [Apple](#apple) | 43 |
 | [Block](#block) | 2 |
@@ -32,7 +32,7 @@ tech companies, scraped directly from each company's careers API every
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 10 |
-| [Coupang](#coupang) | 10 |
+| [Coupang](#coupang) | 11 |
 | [Databricks](#databricks) | 1 |
 | [Deliveroo](#deliveroo) | 3 |
 | [DoorDash](#doordash) | 6 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 32 |
+| [Google](#google) | 30 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 4 |
@@ -56,7 +56,7 @@ tech companies, scraped directly from each company's careers API every
 | [OpenAI](#openai) | 6 |
 | Oracle | — |
 | [PayPal](#paypal) | 5 |
-| [Pinterest](#pinterest) | 2 |
+| [Pinterest](#pinterest) | 3 |
 | Proton | — |
 | [Reddit](#reddit) | 5 |
 | [Riot Games](#riot-games) | 1 |
@@ -67,11 +67,11 @@ tech companies, scraped directly from each company's careers API every
 | [Snap](#snap) | 4 |
 | [Snowflake](#snowflake) | 1 |
 | [Spotify](#spotify) | 1 |
-| [Stripe](#stripe) | 6 |
-| [SumUp](#sumup) | 6 |
+| [Stripe](#stripe) | 5 |
+| [SumUp](#sumup) | 3 |
 | Tripadvisor | — |
 | [Twitch](#twitch) | 3 |
-| [Waymo](#waymo) | 6 |
+| [Waymo](#waymo) | 5 |
 | Wolt | — |
 | ByteDance / TikTok | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -121,7 +121,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Development Engineer - App Performance, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10594512/software-development-engineer-app-performance-mobile-app-foundations) | Mobile | Mid | Seattle, Washington, USA | 2026-11-02 | 2026-11-02 |
 | [SDE-II, AB Mobile](https://www.amazon.jobs/en/jobs/10591199/sde-ii-ab-mobile) | Mobile | Mid | Hyderabad, Telangana, IND | 2026-10-30 | 2026-10-30 |
 | [Software Development Engineer, Mobile App Foundations, BuilderWorks](https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks) | Mobile | Mid | Seattle, Washington, USA | 2026-10-29 | 2026-10-29 |
-| [SDE II, AB Mobile](https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile) | Mobile | Mid | Hyderabad, Telangana, IND | 2026-10-29 | 2026-10-29 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-10-14 | 2026-10-19 |
 | [Software Development Manager, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations) | Mobile | Manager | Seattle, Washington, USA | 2026-10-02 | 2026-10-14 |
 | [Sr. Engineering Manager, Android](https://www.amazon.jobs/en/jobs/10532122/sr-engineering-manager-android) | Android | Manager | San Francisco, California, USA | 2026-09-08 | 2026-10-02 |
@@ -144,13 +143,14 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [iOS Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications) 🆕 | iOS | Mid | Vancouver | 2026-11-16 | 2026-11-16 |
+| [Sr. Swift Standard Libraries Engineer](https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer) 🆕 | iOS | Senior | Cupertino | 2026-11-16 | 2026-11-16 |
 | [UI Frameworks Engineer, Swift Platform Experience](https://jobs.apple.com/en-us/details/200694101/ui-frameworks-engineer-swift-platform-experience) 🆕 | iOS | Mid | Cupertino | 2026-11-13 | 2026-11-10 |
 | [AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software](https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software) 🆕 | iOS | Mid | Sunnyvale | 2026-11-13 | 2026-11-14 |
 | [Build Automation & iOS Engineer - Services Special Project](https://jobs.apple.com/en-us/details/200694227/build-automation-ios-engineer-services-special-project) 🆕 | iOS | Mid | Cupertino | 2026-11-12 | 2026-11-13 |
 | [iOS/macOS Accessibility Engineer (Native Accessibility SME)](https://jobs.apple.com/en-us/details/200677257/ios-macos-accessibility-engineer-native-accessibility-sme) 🆕 | iOS | Mid | London | 2026-11-11 | 2026-11-11 |
 | [Sr iOS Software Engineer, Creativity Apps](https://jobs.apple.com/en-us/details/200694335/sr-ios-software-engineer-creativity-apps) 🆕 | iOS | Senior | Cupertino | 2026-11-11 | 2026-11-11 |
 | [Software Development Engineer - iOS for Keyboard](https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard) 🆕 | iOS | Mid | Cupertino | 2026-11-10 | 2026-11-11 |
-| [IOS SOFTWARE MANAGER - SpringBoard Home Screen](https://jobs.apple.com/en-us/details/200694384/ios-software-manager-springboard-home-screen) 🆕 | iOS | Manager | Cupertino | 2026-11-10 | 2026-11-11 |
 | [Engineering Manager, Siri App (iOS and macOS)](https://jobs.apple.com/en-us/details/200686902/engineering-manager-siri-app-ios-and-macos) | iOS | Manager | Cupertino | 2026-11-10 | 2026-10-07 |
 | [iOS Engineer - Apple, Inc.](https://jobs.apple.com/en-us/details/200693049/ios-engineer-apple-inc) | iOS | Mid | Seattle | 2026-11-03 | 2026-11-04 |
 | [iOS Application Developer - Health Software](https://jobs.apple.com/en-us/details/200693053/ios-application-developer-health-software) | iOS | Mid | Sunnyvale | 2026-11-03 | 2026-11-03 |
@@ -177,7 +177,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior iOS Software Engineer — CloudKit](https://jobs.apple.com/en-us/details/200682986/senior-ios-software-engineer-cloudkit) | iOS | Senior | San Diego | 2026-09-14 | 2026-10-02 |
 | [iOS Full-Stack Software Engineer](https://jobs.apple.com/en-us/details/200680031/ios-full-stack-software-engineer) | iOS | Mid | Beijing | 2026-09-09 | 2026-10-02 |
 | [iOS Software Engineer- Location Technologies](https://jobs.apple.com/en-us/details/200682345/ios-software-engineer-location-technologies) | iOS | Mid | Herzliya | 2026-09-08 | 2026-10-02 |
-| [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678194/sr-ios-software-engineer-creative-apps) | iOS | Senior | Cupertino | 2026-08-20 | 2026-10-02 |
 | [Sr iOS Software Engineer - Creative Apps](https://jobs.apple.com/en-us/details/200678780/sr-ios-software-engineer-creative-apps) | iOS | Senior | Vancouver | 2026-08-20 | 2026-10-02 |
 | [iOS Developer Tools Engineer – Car Experience, Wireless Technologies & Ecosystems](https://jobs.apple.com/en-us/details/200675591/ios-developer-tools-engineer-car-experience-wireless-technologies-ecosystems) | iOS | Mid | Cupertino | 2026-08-05 | 2026-10-02 |
 | [Sr Software Engineer (Swift UI),  Employee Experience & Productivity](https://jobs.apple.com/en-us/details/200671390/sr-software-engineer-swift-ui-employee-experience-productivity) | iOS | Senior | Austin | 2026-07-31 | 2026-10-02 |
@@ -230,6 +229,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [[쿠팡이츠] Senior, Android Engineer (Customer Android)](https://www.coupang.jobs/en/jobs/?gh_jid=8392212) 🆕 | Android | Senior | Seoul, South Korea | 2026-11-16 | 2026-11-16 |
 | [[쿠팡이츠] Staff, Mobile Engineer (Mobile Delivery and Merchant)](https://www.coupang.jobs/en/jobs/?gh_jid=8384906) 🆕 | Mobile | Staff+ | Seoul, South Korea | 2026-11-12 | 2026-11-13 |
 | [Staff, Mobile Engineer (CoupangEats)](https://www.coupang.jobs/en/jobs/?gh_jid=8384903) 🆕 | Mobile | Staff+ | Seoul, South Korea | 2026-11-12 | 2026-11-13 |
 | [[쿠팡페이] Staff iOS Engineer (Core Payment)](https://www.coupang.jobs/en/jobs/?gh_jid=8345064) | iOS | Staff+ | Seoul, South Korea | 2026-11-02 | 2026-11-03 |
@@ -272,7 +272,7 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [Senior Software Engineer, iOS, Monetization](https://careers.duolingo.com/jobs/8701378002?gh_jid=8701378002) | iOS | Senior | Beijing, China | 2026-08-12 | 2026-10-02 |
 | [Senior Software Engineer, Android, Monetization](https://careers.duolingo.com/jobs/8702391002?gh_jid=8702391002) | Android | Senior | Beijing, China | 2026-08-12 | 2026-10-02 |
-| [Senior/Software Engineer II, Android](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002) | Android | Senior | New York, NY; Pittsburgh, PA | 2026-07-10 | 2026-10-02 |
+| [Senior Software Engineer, Android](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002) | Android | Senior | New York, NY; Pittsburgh, PA | 2026-07-10 | 2026-10-02 |
 | [Senior iOS Engineer](https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002) | iOS | Senior | New York, NY; Pittsburgh, PA | 2026-01-27 | 2026-10-02 |
 
 ## Epic Games
@@ -306,17 +306,15 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/109692820817617606) | Android | Senior | Mountain View, CA, USA; San Bruno, CA, USA; Sunnyvale, CA, USA | 2026-10-29 | 2026-10-29 |
 | [Senior Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/99617068059370182) | iOS | Senior | New York, NY, USA | 2026-10-29 | 2026-10-29 |
 | [Senior Software Engineer, Computational Photography and HDR+, Pixel and XR Camera, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/138815997619380934) | Android | Senior | Mountain View, CA, USA | 2026-10-29 | 2026-10-29 |
-| [Senior Software Engineer, Android System and Frameworks, Beam](https://www.google.com/about/careers/applications/jobs/results/106829872927515334) | Android | Senior | Mountain View, CA, USA; San Francisco, CA, USA; Seattle, WA, USA | 2026-10-26 | 2026-10-26 |
+| [Senior Software Engineer, Android System and Frameworks, Beam](https://www.google.com/about/careers/applications/jobs/results/106829872927515334) | Android | Senior | Mountain View, CA, USA; Seattle, WA, USA | 2026-10-26 | 2026-10-26 |
 | [Senior iOS Developer, Search](https://www.google.com/about/careers/applications/jobs/results/78657275467571910) | iOS | Senior | Los Angeles, CA, USA; Mountain View, CA, USA | 2026-10-23 | 2026-10-23 |
 | [Engineering Manager, Classroom Mobile Platform Team](https://www.google.com/about/careers/applications/jobs/results/126687241098404550) | Mobile | Manager | New York, NY, USA | 2026-10-22 | 2026-10-22 |
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/83802267525751494) | Android | Senior | San Diego, CA, USA | 2026-10-21 | 2026-10-21 |
 | [Mobile Software Engineer, Google Pay, Client Infrastructure](https://www.google.com/about/careers/applications/jobs/results/139747893048156870) | Mobile | Mid | Singapore | 2026-10-21 | 2026-10-21 |
 | [Senior Staff Software Engineer, Android Automotive OS](https://www.google.com/about/careers/applications/jobs/results/104709412408435398) | Android | Staff+ | Kraków, Poland; Munich, Germany | 2026-10-20 | 2026-10-20 |
 | [Senior Software Engineer, iOS, Google Photos](https://www.google.com/about/careers/applications/jobs/results/136190139708646086) | iOS | Senior | Sydney NSW, Australia | 2026-10-16 | 2026-10-16 |
-| [Software Engineer III, Mobile, Android, Applied AI](https://www.google.com/about/careers/applications/jobs/results/85891842129699526) | Android | Senior | New York, NY, USA | 2026-10-06 | 2026-10-06 |
 | [Senior Software Engineer, iOS, CarPlay, Google Maps](https://www.google.com/about/careers/applications/jobs/results/129819530682606278) | iOS | Senior | Sydney NSW, Australia | 2026-10-06 | 2026-10-06 |
 | [Senior Software Engineer, Mobile, GeminiApp, DeepMind](https://www.google.com/about/careers/applications/jobs/results/79634996049912518) | Mobile | Senior | Mountain View, CA, USA | 2026-09-28 | 2026-10-02 |
-| [Staff Software Engineer, Mobile (Android), YouTube](https://www.google.com/about/careers/applications/jobs/results/133666085139292870) | Android | Staff+ | San Bruno, CA, USA | 2026-08-27 | 2026-10-02 |
 | [Senior Software Engineer, iOS Graphics, YouTube](https://www.google.com/about/careers/applications/jobs/results/125735636333142726) | iOS | Senior | Mountain View, CA, USA | 2026-08-18 | 2026-10-02 |
 | [Software Engineer III, Mobile (Android), YouTube](https://www.google.com/about/careers/applications/jobs/results/83912025851208390) | Android | Senior | San Bruno, CA, USA | 2026-05-19 | 2026-10-02 |
 | [Mobile Software Engineer, Multiplatform, Early Careers](https://www.google.com/about/careers/applications/jobs/results/123365080841495238) | Mobile | Entry | Mexico City, CDMX, Mexico | 2025-12-17 | 2026-10-02 |
@@ -405,6 +403,7 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Engineering Manager II, Android Modernization](https://www.pinterestcareers.com/jobs/?gh_jid=8015531) | Android | Manager | Toronto, ON, CA | 2026-09-14 | 2026-10-02 |
+| [Sr. Software Engineer, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=8011547) 🆕 | iOS | Senior | Toronto, ON, CA | 2026-06-22 | 2026-11-16 |
 | [Software Engineer, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=6922682) | iOS | Mid | Toronto, ON, CA | 2025-12-12 | 2026-10-02 |
 
 ## Reddit
@@ -482,7 +481,6 @@ tech companies, scraped directly from each company's careers API every
 | [iOS Engineer, Identity](https://stripe.com/jobs/search?gh_jid=8311082) | iOS | Mid | New York City, NY; San Francisco, CA; Seattle, WA | 2026-10-26 | 2026-10-26 |
 | [Android Engineer, Identity](https://stripe.com/jobs/search?gh_jid=8311069) | Android | Mid | New York City, NY; San Francisco, CA; Seattle, WA | 2026-10-26 | 2026-10-26 |
 | [Android Engineer, Terminal - CA](https://stripe.com/jobs/search?gh_jid=8274893) | Android | Mid | Toronto, CA | 2026-10-12 | 2026-10-13 |
-| [Engineering Manager, Mobile Development Productivity](https://stripe.com/jobs/search?gh_jid=8229361) | Mobile | Manager | US-Remote | 2026-10-05 | 2026-10-06 |
 | [Android BSP Engineer](https://stripe.com/jobs/search?gh_jid=8239006) | Android | Mid | Taipei, Taiwan | 2026-09-29 | 2026-10-02 |
 | [Mobile Engineer, Treasury](https://stripe.com/jobs/search?gh_jid=7978915) | Mobile | Mid | United Kingdom | 2026-06-03 | 2026-10-02 |
 
@@ -490,11 +488,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [iOS Engineer - Design System](https://sumup.com/careers/positions/8937739002?gh_jid=8937739002) 🆕 | iOS | Mid | London, England, United Kingdom | 2026-11-11 | 2026-11-11 |
-| [iOS Engineer - Design System](https://sumup.com/careers/positions/8937745002?gh_jid=8937745002) 🆕 | iOS | Mid | Paris, Paris, France | 2026-11-11 | 2026-11-11 |
 | [Senior Android Engineer- Hardware](https://sumup.com/careers/positions/8794602002?gh_jid=8794602002) | Android | Senior | Berlin, Germany | 2026-09-22 | 2026-10-02 |
 | [Android Engineer](https://sumup.com/careers/positions/8348937002?gh_jid=8348937002) | Android | Mid | São Paulo, São Paulo, Brazil | 2026-09-15 | 2026-10-02 |
-| [iOS Engineer - Design System](https://sumup.com/careers/positions/8426778002?gh_jid=8426778002) | iOS | Mid | Berlin, Germany | 2026-02-18 | 2026-10-02 |
 | [Senior Android Engineer - KMP](https://sumup.com/careers/positions/8003469002?gh_jid=8003469002) | Android | Senior | Berlin, Germany | 2025-11-12 | 2026-10-02 |
 
 ## Twitch
@@ -511,7 +506,6 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [Staff Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=8193298) | Android | Staff+ | Mountain View, CA, US; San Francisco, CA, US | 2026-09-15 | 2026-10-02 |
 | [Senior Staff Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=7932205) | Android | Staff+ | Mountain View, CA, USA | 2026-05-18 | 2026-10-29 |
-| [Staff iOS Engineer, Growth](https://careers.withwaymo.com/jobs?gh_jid=7815237) | iOS | Staff+ | Mountain View, CA, USA; San Francisco, CA, USA | 2026-05-04 | 2026-10-02 |
 | [Senior Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=7484282) | Android | Senior | Mountain View, CA, US; San Francisco, CA, US | 2025-12-26 | 2026-10-02 |
 | [Sr Software Engineer, Android Automotive](https://careers.withwaymo.com/jobs?gh_jid=7438665) | Android | Senior | Mountain View, California, USA | 2025-12-19 | 2026-10-02 |
 | [Senior Android Platform Engineer](https://careers.withwaymo.com/jobs?gh_jid=7382506) | Android | Senior | Mountain View, CA, USA; San Francisco, CA, USA | 2025-11-07 | 2026-10-02 |
