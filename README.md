@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-15 19:12:25 UTC** · 📌 **234** open mobile jobs
+> 🕐 Last updated: **2026-11-16 07:18:33 UTC** · 📌 **235** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **104** iOS · **81** Android · **2** iOS & Android · **47** Mobile
-> · By level: 2 Intern · 1 Entry · 89 Mid · 81 Senior · 41 Staff+ · 20 Manager
+> 📊 By platform: **104** iOS · **82** Android · **2** iOS & Android · **47** Mobile
+> · By level: 2 Intern · 1 Entry · 89 Mid · 82 Senior · 41 Staff+ · 20 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -32,7 +32,7 @@ tech companies, scraped directly from each company's careers API every
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 10 |
-| [Coupang](#coupang) | 9 |
+| [Coupang](#coupang) | 10 |
 | [Databricks](#databricks) | 1 |
 | [Deliveroo](#deliveroo) | 3 |
 | [DoorDash](#doordash) | 6 |
@@ -239,6 +239,7 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Staff Security Engineer, Mobile Security (Digital Trust)](https://www.coupang.jobs/en/jobs/?gh_jid=8203471) | Mobile | Staff+ | Seoul, South Korea | 2026-09-18 | 2026-10-02 |
 | [[Coupang Pay Tech] Staff Android Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8194393) | Android | Staff+ | Seoul, South Korea | 2026-09-16 | 2026-10-02 |
 | [[쿠팡페이] Staff iOS Engineer (Rocket Pay)](https://www.coupang.jobs/en/jobs/?gh_jid=8146512) | iOS | Staff+ | Seoul, South Korea | 2026-09-09 | 2026-10-02 |
+| [Senior, Android Engineer (Coupang Eats)](https://www.coupang.jobs/en/jobs/?gh_jid=6482283) 🆕 | Android | Senior | Seoul, South Korea | 2024-12-17 | 2026-11-16 |
 
 ## Databricks
 
