@@ -1971,9 +1971,9 @@
       "url": "https://jobs.apple.com/en-us/details/200693053/ios-application-developer-health-software"
     },
     "apple:200694101": {
-      "active": true,
+      "active": false,
       "category": "iOS",
-      "closed": "2026-11-11",
+      "closed": "2026-11-17",
       "company": "Apple",
       "external_id": "200694101",
       "first_seen": "2026-11-10",
@@ -2945,8 +2945,9 @@
       "url": "https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002"
     },
     "duolingo:8701378002": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-17",
       "company": "Duolingo",
       "external_id": "8701378002",
       "first_seen": "2026-10-02",
@@ -4797,8 +4798,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83802267525751494"
     },
     "google:83912025851208390": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-17",
       "company": "Google",
       "external_id": "83912025851208390",
       "first_seen": "2026-10-02",
@@ -6029,6 +6031,36 @@
       "title": "Android Engineer, Plugin Developer Platform",
       "url": "https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0"
     },
+    "oracle:350644": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Oracle",
+      "external_id": "350644",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "level": "Staff+",
+      "locations": [
+        "BRNO, Czech Republic"
+      ],
+      "posted": "2026-11-17",
+      "title": "Principal Software Engineer \u2013 Mobile & AI",
+      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350644"
+    },
+    "oracle:350645": {
+      "active": true,
+      "category": "Android",
+      "company": "Oracle",
+      "external_id": "350645",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "level": "Entry",
+      "locations": [
+        "BRNO, Czech Republic"
+      ],
+      "posted": "2026-11-17",
+      "title": "Junior Android Software Engineer",
+      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350645"
+    },
     "paypal:R0134248": {
       "active": true,
       "category": "iOS",
@@ -6180,8 +6212,23 @@
         "Toronto, ON, CA"
       ],
       "posted": "2025-12-12",
-      "title": "Software Engineer, iOS",
+      "title": "Software Engineer II, iOS",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6922682"
+    },
+    "pinterest:7987854": {
+      "active": true,
+      "category": "Android",
+      "company": "Pinterest",
+      "external_id": "7987854",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "level": "Mid",
+      "locations": [
+        "Toronto, ON, CA"
+      ],
+      "posted": "2026-06-10",
+      "title": "Software Engineer II, Android",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7987854"
     },
     "pinterest:8011547": {
       "active": true,
@@ -7734,5 +7781,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-17T08:32:52Z"
+  "updated_at": "2026-11-17T21:23:51Z"
 }
