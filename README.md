@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-17 21:23:51 UTC** · 📌 **229** open mobile jobs
+> 🕐 Last updated: **2026-11-18 07:59:27 UTC** · 📌 **231** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **99** iOS · **82** Android · **2** iOS & Android · **46** Mobile
-> · By level: 2 Intern · 2 Entry · 86 Mid · 81 Senior · 40 Staff+ · 18 Manager
+> 📊 By platform: **100** iOS · **82** Android · **2** iOS & Android · **1** Cross-platform · **46** Mobile
+> · By level: 2 Intern · 2 Entry · 87 Mid · 81 Senior · 41 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -26,13 +26,13 @@ tech companies, scraped directly from each company's careers API every
 | [Airbnb](#airbnb) | 4 |
 | [Amazon](#amazon) | 14 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 42 |
+| [Apple](#apple) | 43 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
 | [Coinbase](#coinbase) | 10 |
-| [Coupang](#coupang) | 11 |
+| [Coupang](#coupang) | 12 |
 | [Databricks](#databricks) | 1 |
 | [Deliveroo](#deliveroo) | 3 |
 | [DoorDash](#doordash) | 6 |
@@ -143,6 +143,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Swift Software Engineer, Productivity Apps](https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps) 🆕 | iOS | Mid | Pittsburgh | 2026-11-18 | 2026-11-18 |
 | [iOS Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications) 🆕 | iOS | Mid | Vancouver | 2026-11-16 | 2026-11-16 |
 | [Sr. Swift Standard Libraries Engineer](https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer) 🆕 | iOS | Senior | Cupertino | 2026-11-16 | 2026-11-16 |
 | [AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software](https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software) 🆕 | iOS | Mid | Sunnyvale | 2026-11-13 | 2026-11-14 |
@@ -228,6 +229,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [[쿠팡이츠] Staff, Flutter Engineer (Mobile Delivery and Merchant)](https://www.coupang.jobs/en/jobs/?gh_jid=8395172) 🆕 | Cross-platform | Staff+ | Seoul, South Korea | 2026-11-17 | 2026-11-18 |
+| [Senior, Android Engineer (Coupang Eats)](https://www.coupang.jobs/en/jobs/?gh_jid=8395151) 🆕 | Android | Senior | Seoul, South Korea | 2026-11-17 | 2026-11-18 |
 | [[쿠팡이츠] Senior, Android Engineer (Customer Android)](https://www.coupang.jobs/en/jobs/?gh_jid=8392212) 🆕 | Android | Senior | Seoul, South Korea | 2026-11-16 | 2026-11-16 |
 | [[쿠팡이츠] Staff, Mobile Engineer (Mobile Delivery and Merchant)](https://www.coupang.jobs/en/jobs/?gh_jid=8384906) 🆕 | Mobile | Staff+ | Seoul, South Korea | 2026-11-12 | 2026-11-13 |
 | [Staff, Mobile Engineer (CoupangEats)](https://www.coupang.jobs/en/jobs/?gh_jid=8384903) 🆕 | Mobile | Staff+ | Seoul, South Korea | 2026-11-12 | 2026-11-13 |
@@ -238,7 +241,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Staff Security Engineer, Mobile Security (Digital Trust)](https://www.coupang.jobs/en/jobs/?gh_jid=8203471) | Mobile | Staff+ | Seoul, South Korea | 2026-09-18 | 2026-10-02 |
 | [[Coupang Pay Tech] Staff Android Engineer](https://www.coupang.jobs/en/jobs/?gh_jid=8194393) | Android | Staff+ | Seoul, South Korea | 2026-09-16 | 2026-10-02 |
 | [[쿠팡페이] Staff iOS Engineer (Rocket Pay)](https://www.coupang.jobs/en/jobs/?gh_jid=8146512) | iOS | Staff+ | Seoul, South Korea | 2026-09-09 | 2026-10-02 |
-| [Senior, Android Engineer (Coupang Eats)](https://www.coupang.jobs/en/jobs/?gh_jid=6482283) 🆕 | Android | Senior | Seoul, South Korea | 2024-12-17 | 2026-11-16 |
 
 ## Databricks
 
@@ -291,8 +293,8 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer Manager, YouTube Main App, Mobile](https://www.google.com/about/careers/applications/jobs/results/138470615676789446) 🆕 | Mobile | Manager | San Bruno, CA, USA | 2026-11-12 | 2026-11-12 |
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/87132880177636038) 🆕 | Android | Senior | Durham, NC, USA; Raleigh, NC, USA | 2026-11-11 | 2026-11-11 |
 | [Senior Software Engineer, Gemini Enterprise Mobile](https://www.google.com/about/careers/applications/jobs/results/96308785747763910) 🆕 | Mobile | Senior | Warsaw, Poland | 2026-11-11 | 2026-11-11 |
-| [Staff Software Engineer, Mobile and On-Device Agentic AI, XR](https://www.google.com/about/careers/applications/jobs/results/79215657723273926) 🆕 | Mobile | Staff+ | San Francisco, CA, USA; San Jose, CA, USA | 2026-11-10 | 2026-11-10 |
-| [Staff Software Engineer, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/142459566552949446) 🆕 | Android | Staff+ | Mountain View, CA, USA | 2026-11-10 | 2026-11-10 |
+| [Staff Software Engineer, Mobile and On-Device Agentic AI, XR](https://www.google.com/about/careers/applications/jobs/results/79215657723273926) | Mobile | Staff+ | San Francisco, CA, USA; San Jose, CA, USA | 2026-11-10 | 2026-11-10 |
+| [Staff Software Engineer, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/142459566552949446) | Android | Staff+ | Mountain View, CA, USA | 2026-11-10 | 2026-11-10 |
 | [Senior Software Engineer, Android](https://www.google.com/about/careers/applications/jobs/results/86748053255398086) | Android | Senior | Bengaluru, Karnataka, India | 2026-11-04 | 2026-11-04 |
 | [Senior Android Infrastructure Software Developer](https://www.google.com/about/careers/applications/jobs/results/107833473640604358) | Android | Senior | Waterloo, ON, Canada | 2026-11-04 | 2026-11-04 |
 | [Software Engineer III, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/130852230604432070) | Android | Senior | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | 2026-11-03 | 2026-11-04 |
@@ -378,7 +380,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Android Engineer, Growth](https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c) 🆕 | Android | Mid | San Francisco | 2026-11-10 | 2026-11-10 |
+| [Android Engineer, Growth](https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c) | Android | Mid | San Francisco | 2026-11-10 | 2026-11-10 |
 | [Android Engineer, Plugin Developer Platform](https://jobs.ashbyhq.com/openai/e6e5e4b6-a1d9-4a4e-beef-8d3befef08c0) | Android | Mid | San Francisco | 2026-10-05 | 2026-10-06 |
 | [Mobile / Full Stack Staff & Software Engineer, Consumer Monetization](https://jobs.ashbyhq.com/openai/76c2a136-4e93-4e1a-bbdf-de4268498838) | Mobile | Staff+ | San Francisco | 2026-09-24 | 2026-10-02 |
 | [Android Engineer, ChatGPT Library Team](https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732) | Android | Mid | Seattle | 2026-09-09 | 2026-10-02 |
