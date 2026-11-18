@@ -171,8 +171,9 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7663436003"
     },
     "affirm:7829427003": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-18",
       "company": "Affirm",
       "external_id": "7829427003",
       "first_seen": "2026-10-02",
@@ -186,8 +187,9 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7829427003"
     },
     "affirm:7829429003": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-18",
       "company": "Affirm",
       "external_id": "7829429003",
       "first_seen": "2026-10-02",
@@ -2308,6 +2310,21 @@
       "title": "Software Engineer, Mobile SDK",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635"
     },
+    "cloudflare:8398448": {
+      "active": true,
+      "category": "iOS",
+      "company": "Cloudflare",
+      "external_id": "8398448",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Mid",
+      "locations": [
+        "In-Office"
+      ],
+      "posted": "2026-11-18",
+      "title": "Systems Engineer - iOS",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8398448?gh_jid=8398448"
+    },
     "coinbase:8029035": {
       "active": true,
       "category": "iOS & Android",
@@ -3227,6 +3244,22 @@
       "title": "Senior Software Engineer, Mobile (iOS), Health Platform",
       "url": "https://www.google.com/about/careers/applications/jobs/results/105605735575888582"
     },
+    "google:105645086871560902": {
+      "active": true,
+      "category": "iOS",
+      "company": "Google",
+      "external_id": "105645086871560902",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Staff+",
+      "locations": [
+        "Los Angeles, CA, USA",
+        "Mountain View, CA, USA"
+      ],
+      "posted": "2026-11-18",
+      "title": "Staff Software Engineer, Mobile (iOS), Search",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/105645086871560902"
+    },
     "google:106016703816573638": {
       "active": false,
       "category": "Android",
@@ -3388,6 +3421,22 @@
       "posted": "2026-10-12",
       "title": "Senior Engineering Manager, Android Application Safety",
       "url": "https://www.google.com/about/careers/applications/jobs/results/111474325202051782"
+    },
+    "google:111735487936242374": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "111735487936242374",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Senior",
+      "locations": [
+        "San Jose, CA, USA",
+        "Seattle, WA, USA"
+      ],
+      "posted": "2026-11-18",
+      "title": "Software Engineer III, Connectivity, Android microXR",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111735487936242374"
     },
     "google:111864505801024198": {
       "active": false,
@@ -4100,6 +4149,21 @@
       "title": "Staff Technical Lead, Games Performance, Android System Health",
       "url": "https://www.google.com/about/careers/applications/jobs/results/133963718856712902"
     },
+    "google:133967613049873094": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "133967613049873094",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Staff+",
+      "locations": [
+        "Krak\u00f3w, Poland"
+      ],
+      "posted": "2026-11-18",
+      "title": "Mobile Technical Lead, RCS For Business",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/133967613049873094"
+    },
     "google:134433573246509766": {
       "active": false,
       "category": "Android",
@@ -4655,8 +4719,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/77656647140287174"
     },
     "google:78657275467571910": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-18",
       "company": "Google",
       "external_id": "78657275467571910",
       "first_seen": "2026-10-23",
@@ -5364,6 +5429,36 @@
       "posted": "2026-10-20",
       "title": "Android Engineer, Luxury",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8900188002?gh_jid=8900188002"
+    },
+    "lyft:8950102002": {
+      "active": true,
+      "category": "Android",
+      "company": "Lyft",
+      "external_id": "8950102002",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Mid",
+      "locations": [
+        "Montreal, Canada"
+      ],
+      "posted": "2026-11-18",
+      "title": "Android Software Developer, Lyft Urban Solutions",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002"
+    },
+    "lyft:8950105002": {
+      "active": true,
+      "category": "Android",
+      "company": "Lyft",
+      "external_id": "8950105002",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "level": "Mid",
+      "locations": [
+        "Montreal, Canada"
+      ],
+      "posted": "2026-11-18",
+      "title": "D\u00e9veloppeur(se) Logiciel Android, Lyft Solutions Urbaines",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8950105002?gh_jid=8950105002"
     },
     "meta:1061795906099278": {
       "active": true,
@@ -6970,8 +7065,9 @@
       "url": "https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168"
     },
     "roblox:8140563": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-18",
       "company": "Roblox",
       "external_id": "8140563",
       "first_seen": "2026-10-02",
@@ -7445,8 +7541,9 @@
       "url": "https://sumup.com/careers/positions/8773681002?gh_jid=8773681002"
     },
     "sumup:8794602002": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-18",
       "company": "SumUp",
       "external_id": "8794602002",
       "first_seen": "2026-10-02",
@@ -7827,5 +7924,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-18T07:59:27Z"
+  "updated_at": "2026-11-18T20:57:25Z"
 }
