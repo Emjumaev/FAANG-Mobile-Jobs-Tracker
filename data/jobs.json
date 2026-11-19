@@ -391,6 +391,21 @@
       "title": "Senior iOS Engineer, Guest & Host",
       "url": "https://careers.airbnb.com/positions/8327822?gh_jid=8327822"
     },
+    "airbnb:8400808": {
+      "active": true,
+      "category": "Android",
+      "company": "Airbnb",
+      "external_id": "8400808",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "level": "Senior",
+      "locations": [
+        "Remote, USA"
+      ],
+      "posted": "2026-11-19",
+      "title": "Senior Android Engineer, App Experience & Frameworks",
+      "url": "https://careers.airbnb.com/positions/8400808?gh_jid=8400808"
+    },
     "amazon:10457833": {
       "active": true,
       "category": "Mobile",
@@ -703,8 +718,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10591189/sde-ii-ab-mobile"
     },
     "amazon:10591199": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-19",
       "company": "Amazon",
       "external_id": "10591199",
       "first_seen": "2026-10-30",
@@ -1371,8 +1387,9 @@
       "url": "https://jobs.apple.com/en-us/details/200676232/software-architect-ios-devices"
     },
     "apple:200677257": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-19",
       "company": "Apple",
       "external_id": "200677257",
       "first_seen": "2026-11-11",
@@ -1998,7 +2015,7 @@
       "last_seen": "2026-11-19",
       "level": "Mid",
       "locations": [
-        "Pittsburgh"
+        "Vancouver"
       ],
       "posted": "2026-11-18",
       "title": "Swift Software Engineer, Productivity Apps",
@@ -2020,8 +2037,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694227/build-automation-ios-engineer-services-special-project"
     },
     "apple:200694335": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-19",
       "company": "Apple",
       "external_id": "200694335",
       "first_seen": "2026-11-11",
@@ -2110,6 +2128,21 @@
       "title": "Sr. Swift Standard Libraries Engineer",
       "url": "https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer"
     },
+    "apple:200695538": {
+      "active": true,
+      "category": "iOS",
+      "company": "Apple",
+      "external_id": "200695538",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "level": "Mid",
+      "locations": [
+        "Sunnyvale"
+      ],
+      "posted": "2026-11-19",
+      "title": "Front End \u2013 iOS Developer \u2013 Retail Point of Sale, IS&T",
+      "url": "https://jobs.apple.com/en-us/details/200695538/front-end-ios-developer-retail-point-of-sale-is-t"
+    },
     "apple:200695877": {
       "active": true,
       "category": "Mobile",
@@ -2122,8 +2155,8 @@
         "Austin"
       ],
       "posted": "2026-11-19",
-      "title": "Software Development Engineer in Test, Security Server Application, Join Mobile Engineering Team",
-      "url": "https://jobs.apple.com/en-us/details/200695877/software-development-engineer-in-test-security-server-application-join-mobile-engineering-team"
+      "title": "Software Development Engineer in Test, Security Server Application, Joint Mobile Engineering Team",
+      "url": "https://jobs.apple.com/en-us/details/200695877/software-development-engineer-in-test-security-server-application-joint-mobile-engineering-team"
     },
     "block:5373636008": {
       "active": true,
@@ -2259,7 +2292,7 @@
       "locations": [
         "Galway, Ireland"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-11-19",
       "title": "Senior Software Engineer \u2013 Android Platform",
       "url": "https://careers.cisco.com/global/en/job/2027664"
     },
@@ -2311,13 +2344,13 @@
       "url": "https://careers.cisco.com/global/en/job/2028670"
     },
     "cloudflare:8248635": {
-      "active": false,
+      "active": true,
       "category": "Mobile",
       "closed": "2026-11-04",
       "company": "Cloudflare",
       "external_id": "8248635",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-19",
       "level": "Mid",
       "locations": [
         "Hybrid"
@@ -3244,8 +3277,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/103794099043082950"
     },
     "google:104709412408435398": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-19",
       "company": "Google",
       "external_id": "104709412408435398",
       "first_seen": "2026-10-20",
@@ -3373,8 +3407,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/106829872927515334"
     },
     "google:107833473640604358": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-19",
       "company": "Google",
       "external_id": "107833473640604358",
       "first_seen": "2026-11-04",
@@ -5536,7 +5571,9 @@
       "level": "Mid",
       "locations": [
         "Bellevue, WA",
+        "Boston, MA",
         "Burlingame, CA",
+        "Cambridge, MA",
         "Menlo Park, CA",
         "New York, NY",
         "Redmond, WA",
@@ -5583,6 +5620,21 @@
       "posted": null,
       "title": "WhatsApp - Software Engineer - Android",
       "url": "https://www.metacareers.com/jobs/1420264290310565"
+    },
+    "meta:1734756811407923": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "1734756811407923",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "level": "Mid",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Android Engineer (Technical Leadership), WhatsApp",
+      "url": "https://www.metacareers.com/jobs/1734756811407923"
     },
     "meta:2189071041883117": {
       "active": false,
@@ -5645,6 +5697,21 @@
       "posted": null,
       "title": "WhatsApp - Software Engineer - iOS",
       "url": "https://www.metacareers.com/jobs/2535581886910269"
+    },
+    "meta:29030081546642214": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "29030081546642214",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "level": "Mid",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "iOS Engineer, WhatsApp",
+      "url": "https://www.metacareers.com/jobs/29030081546642214"
     },
     "meta:3017015768637502": {
       "active": false,
@@ -5740,6 +5807,21 @@
       "posted": null,
       "title": "Software Engineer - Android (Technical Leadership)",
       "url": "https://www.metacareers.com/jobs/964439272759912"
+    },
+    "meta:980479324710261": {
+      "active": true,
+      "category": "Android",
+      "company": "Meta",
+      "external_id": "980479324710261",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "level": "Mid",
+      "locations": [
+        "Menlo Park, CA"
+      ],
+      "posted": null,
+      "title": "Android Engineer, WhatsApp",
+      "url": "https://www.metacareers.com/jobs/980479324710261"
     },
     "meta:981723587621513": {
       "active": true,
@@ -7956,5 +8038,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-19T07:57:19Z"
+  "updated_at": "2026-11-19T21:02:11Z"
 }
