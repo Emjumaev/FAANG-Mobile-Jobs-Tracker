@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-18 20:57:25 UTC** · 📌 **232** open mobile jobs
+> 🕐 Last updated: **2026-11-19 07:57:19 UTC** · 📌 **233** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **100** iOS · **84** Android · **2** iOS & Android · **1** Cross-platform · **45** Mobile
-> · By level: 2 Intern · 2 Entry · 90 Mid · 79 Senior · 41 Staff+ · 18 Manager
+> 📊 By platform: **100** iOS · **83** Android · **2** iOS & Android · **1** Cross-platform · **47** Mobile
+> · By level: 2 Intern · 2 Entry · 90 Mid · 79 Senior · 43 Staff+ · 17 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -22,16 +22,16 @@ tech companies, scraped directly from each company's careers API every
 |---|---|
 | [Adobe](#adobe) | 3 |
 | [Adyen](#adyen) | 3 |
-| Affirm | — |
+| [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 4 |
-| [Amazon](#amazon) | 14 |
+| [Amazon](#amazon) | 13 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 43 |
+| [Apple](#apple) | 44 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 5 |
 | [Cloudflare](#cloudflare) | 1 |
-| [Coinbase](#coinbase) | 10 |
+| [Coinbase](#coinbase) | 11 |
 | [Coupang](#coupang) | 12 |
 | [Databricks](#databricks) | 1 |
 | [Deliveroo](#deliveroo) | 3 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 31 |
+| [Google](#google) | 29 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
@@ -97,6 +97,13 @@ tech companies, scraped directly from each company's careers API every
 | [Engineering Manager - Android](https://job-boards.greenhouse.io/adyen/jobs/8167155) | Android | Manager | Amsterdam | 2026-10-12 | 2026-10-13 |
 | [Staff Engineer - Payments (Mobile & Terminal Experiences)](https://job-boards.greenhouse.io/adyen/jobs/8103468) | Mobile | Staff+ | Chicago | 2026-08-24 | 2026-10-02 |
 
+## Affirm
+
+| Role | Platform | Level | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829427003) | Mobile | Staff+ | Remote US | 2026-08-14 | 2026-10-02 |
+| [Staff Software Engineer, Mobile (App Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/7829429003) | Mobile | Staff+ | Remote Canada | 2026-08-14 | 2026-10-02 |
+
 ## Airbnb
 
 | Role | Platform | Level | Location | Posted | First seen |
@@ -118,7 +125,6 @@ tech companies, scraped directly from each company's careers API every
 | [Software Development Manager, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations) | Mobile | Manager | Seattle, Washington, USA | 2026-10-02 | 2026-10-14 |
 | [Sr. Engineering Manager, Android](https://www.amazon.jobs/en/jobs/10532122/sr-engineering-manager-android) | Android | Manager | San Francisco, California, USA | 2026-09-08 | 2026-10-02 |
 | [Principal Software Engineer, Fulfillment by Amazon - IOS](https://www.amazon.jobs/en/jobs/10530757/principal-software-engineer-fulfillment-by-amazon-ios) | iOS | Staff+ | Bengaluru, Karnataka, IND | 2026-09-06 | 2026-10-02 |
-| [Mobile Security Engineer, Application Security](https://www.amazon.jobs/en/jobs/10509690/mobile-security-engineer-application-security) | Mobile | Mid | USA | 2026-08-20 | 2026-10-02 |
 | [Sr. Front-End Mobile Engineer, Aza & PXT AI](https://www.amazon.jobs/en/jobs/10505565/sr-front-end-mobile-engineer-aza-pxt-ai) | Mobile | Senior | Bellevue, Washington, USA | 2026-08-18 | 2026-10-08 |
 | [Software Development Manager, Prime Video Mobile Android](https://www.amazon.jobs/en/jobs/10504584/software-development-manager-prime-video-mobile-android) | Android | Manager | Seattle, Washington, USA | 2026-08-18 | 2026-10-02 |
 | [Security Engineering Manager, Stores Org Mobile Security](https://www.amazon.jobs/en/jobs/10497967/security-engineering-manager-stores-org-mobile-security) | Mobile | Manager | Texas, USA | 2026-08-10 | 2026-10-02 |
@@ -136,14 +142,15 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Development Engineer in Test, Security Server Application, Join Mobile Engineering Team](https://jobs.apple.com/en-us/details/200695877/software-development-engineer-in-test-security-server-application-join-mobile-engineering-team) 🆕 | Mobile | Mid | Austin | 2026-11-19 | 2026-11-19 |
 | [Swift Software Engineer, Productivity Apps](https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps) 🆕 | iOS | Mid | Pittsburgh | 2026-11-18 | 2026-11-18 |
 | [iOS Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications) 🆕 | iOS | Mid | Vancouver | 2026-11-16 | 2026-11-16 |
 | [Sr. Swift Standard Libraries Engineer](https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer) 🆕 | iOS | Senior | Cupertino | 2026-11-16 | 2026-11-16 |
 | [AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software](https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software) 🆕 | iOS | Mid | Sunnyvale | 2026-11-13 | 2026-11-14 |
 | [Build Automation & iOS Engineer - Services Special Project](https://jobs.apple.com/en-us/details/200694227/build-automation-ios-engineer-services-special-project) 🆕 | iOS | Mid | Cupertino | 2026-11-12 | 2026-11-13 |
-| [iOS/macOS Accessibility Engineer (Native Accessibility SME)](https://jobs.apple.com/en-us/details/200677257/ios-macos-accessibility-engineer-native-accessibility-sme) 🆕 | iOS | Mid | London | 2026-11-11 | 2026-11-11 |
-| [Sr iOS Software Engineer, Creativity Apps](https://jobs.apple.com/en-us/details/200694335/sr-ios-software-engineer-creativity-apps) 🆕 | iOS | Senior | Cupertino | 2026-11-11 | 2026-11-11 |
-| [Software Development Engineer - iOS for Keyboard](https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard) 🆕 | iOS | Mid | Cupertino | 2026-11-10 | 2026-11-11 |
+| [iOS/macOS Accessibility Engineer (Native Accessibility SME)](https://jobs.apple.com/en-us/details/200677257/ios-macos-accessibility-engineer-native-accessibility-sme) | iOS | Mid | London | 2026-11-11 | 2026-11-11 |
+| [Sr iOS Software Engineer, Creativity Apps](https://jobs.apple.com/en-us/details/200694335/sr-ios-software-engineer-creativity-apps) | iOS | Senior | Cupertino | 2026-11-11 | 2026-11-11 |
+| [Software Development Engineer - iOS for Keyboard](https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard) | iOS | Mid | Cupertino | 2026-11-10 | 2026-11-11 |
 | [Engineering Manager, Siri App (iOS and macOS)](https://jobs.apple.com/en-us/details/200686902/engineering-manager-siri-app-ios-and-macos) | iOS | Manager | Cupertino | 2026-11-10 | 2026-10-07 |
 | [iOS Engineer - Apple, Inc.](https://jobs.apple.com/en-us/details/200693049/ios-engineer-apple-inc) | iOS | Mid | Seattle | 2026-11-03 | 2026-11-04 |
 | [iOS Application Developer - Health Software](https://jobs.apple.com/en-us/details/200693053/ios-application-developer-health-software) | iOS | Mid | Sunnyvale | 2026-11-03 | 2026-11-03 |
@@ -213,6 +220,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Software Engineer, Native Mobile - International](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) 🆕 | Mobile | Senior | Remote - Singapore | 2026-11-19 | 2026-11-19 |
 | [Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)](https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850) | Mobile | Staff+ | Remote - USA | 2026-11-06 | 2026-11-06 |
 | [Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)](https://www.coinbase.com/careers/positions/8359446?gh_jid=8359446) | Mobile | Staff+ | Remote - Canada | 2026-11-06 | 2026-11-06 |
 | [Staff Software Engineer, Native Mobile](https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720) | Mobile | Staff+ | Remote - USA | 2026-09-29 | 2026-10-02 |
@@ -292,12 +300,10 @@ tech companies, scraped directly from each company's careers API every
 | [Mobile Technical Lead, RCS For Business](https://www.google.com/about/careers/applications/jobs/results/133967613049873094) 🆕 | Mobile | Staff+ | Kraków, Poland | 2026-11-18 | 2026-11-18 |
 | [Software Engineer, Android System UI, Laptops and Tablets](https://www.google.com/about/careers/applications/jobs/results/130901835329217222) 🆕 | Android | Mid | Beijing, China | 2026-11-13 | 2026-11-13 |
 | [Staff Software Engineer, Android Laptop and Tablet System Software, Platform Inputs](https://www.google.com/about/careers/applications/jobs/results/123327042027430598) 🆕 | Android | Staff+ | San Jose, CA, USA | 2026-11-12 | 2026-11-12 |
-| [Senior Software Engineer Manager, YouTube Main App, Mobile](https://www.google.com/about/careers/applications/jobs/results/138470615676789446) 🆕 | Mobile | Manager | San Bruno, CA, USA | 2026-11-12 | 2026-11-12 |
-| [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/87132880177636038) 🆕 | Android | Senior | Durham, NC, USA; Raleigh, NC, USA | 2026-11-11 | 2026-11-11 |
-| [Senior Software Engineer, Gemini Enterprise Mobile](https://www.google.com/about/careers/applications/jobs/results/96308785747763910) 🆕 | Mobile | Senior | Warsaw, Poland | 2026-11-11 | 2026-11-11 |
+| [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/87132880177636038) | Android | Senior | Durham, NC, USA; Raleigh, NC, USA | 2026-11-11 | 2026-11-11 |
+| [Senior Software Engineer, Gemini Enterprise Mobile](https://www.google.com/about/careers/applications/jobs/results/96308785747763910) | Mobile | Senior | Warsaw, Poland | 2026-11-11 | 2026-11-11 |
 | [Staff Software Engineer, Mobile and On-Device Agentic AI, XR](https://www.google.com/about/careers/applications/jobs/results/79215657723273926) | Mobile | Staff+ | San Francisco, CA, USA; San Jose, CA, USA | 2026-11-10 | 2026-11-10 |
 | [Staff Software Engineer, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/142459566552949446) | Android | Staff+ | Mountain View, CA, USA | 2026-11-10 | 2026-11-10 |
-| [Senior Software Engineer, Android](https://www.google.com/about/careers/applications/jobs/results/86748053255398086) | Android | Senior | Bengaluru, Karnataka, India | 2026-11-04 | 2026-11-04 |
 | [Senior Android Infrastructure Software Developer](https://www.google.com/about/careers/applications/jobs/results/107833473640604358) | Android | Senior | Waterloo, ON, Canada | 2026-11-04 | 2026-11-04 |
 | [Software Engineer III, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/130852230604432070) | Android | Senior | Bengaluru, Karnataka, India; Hyderabad, Telangana, India | 2026-11-03 | 2026-11-04 |
 | [Senior Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/78939579372970694) | iOS | Senior | Singapore | 2026-11-02 | 2026-11-02 |
@@ -346,7 +352,7 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+5 more)* | — | 2026-10-02 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/3374573439389340) | iOS | Mid | London, UK | — | 2026-10-02 |
 | [Software Engineer, Android](https://www.metacareers.com/jobs/1394915781774041) | Android | Mid | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — | 2026-10-02 |
-| [Software Engineer - iOS (Technical Leadership)](https://www.metacareers.com/jobs/1061795906099278) | iOS | Mid | Menlo Park, CA; New York, NY; Remote, US *(+1 more)* | — | 2026-10-02 |
+| [Software Engineer - iOS (Technical Leadership)](https://www.metacareers.com/jobs/1061795906099278) | iOS | Mid | Menlo Park, CA; New York, NY; San Francisco, CA | — | 2026-10-02 |
 | [Software Engineer - Android (Technical Leadership)](https://www.metacareers.com/jobs/699608119727078) | Android | Mid | Burlingame, CA; Menlo Park, CA; New York, NY *(+4 more)* | — | 2026-10-02 |
 
 ## Monzo
@@ -437,8 +443,8 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Senior Android Engineer, Event Contracts](https://boards.greenhouse.io/robinhood/jobs/8335168?t=gh_src=&gh_jid=8335168) | Android | Senior | New York, NY | 2026-10-29 | 2026-10-29 |
-| [Senior iOS Engineer, Crypto Perpetuals](https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701) | iOS | Senior | Toronto, Canada | 2026-10-23 | 2026-10-24 |
-| [Senior iOS Engineer, Crypto Perpetuals](https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388) | iOS | Senior | Menlo Park, CA; New York, NY | 2026-10-16 | 2026-10-16 |
+| [Senior iOS Engineer, Crypto Trading](https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701) | iOS | Senior | Toronto, Canada | 2026-10-23 | 2026-10-24 |
+| [Senior iOS Engineer, Crypto Trading](https://boards.greenhouse.io/robinhood/jobs/8289388?t=gh_src=&gh_jid=8289388) | iOS | Senior | Menlo Park, CA; New York, NY | 2026-10-16 | 2026-10-16 |
 | [Android Engineer, Social](https://boards.greenhouse.io/robinhood/jobs/8202874?t=gh_src=&gh_jid=8202874) | Android | Mid | Menlo Park, CA; New York, NY | 2026-09-14 | 2026-10-02 |
 | [Staff Android Engineer](https://boards.greenhouse.io/robinhood/jobs/8114730?t=gh_src=&gh_jid=8114730) | Android | Staff+ | Menlo Park, CA | 2026-08-12 | 2026-10-02 |
 | [Senior Android Engineer, Crypto Expansion](https://boards.greenhouse.io/robinhood/jobs/8100160?t=gh_src=&gh_jid=8100160) | Android | Senior | Menlo Park, CA; New York, NY | 2026-07-31 | 2026-10-02 |
