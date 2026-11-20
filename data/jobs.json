@@ -406,6 +406,21 @@
       "title": "Senior Android Engineer, App Experience & Frameworks",
       "url": "https://careers.airbnb.com/positions/8400808?gh_jid=8400808"
     },
+    "airbnb:8406431": {
+      "active": true,
+      "category": "Android",
+      "company": "Airbnb",
+      "external_id": "8406431",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "level": "Senior",
+      "locations": [
+        "Remote, USA"
+      ],
+      "posted": "2026-11-20",
+      "title": "Senior Android Engineer, Profile & Community",
+      "url": "https://careers.airbnb.com/positions/8406431?gh_jid=8406431"
+    },
     "amazon:10457833": {
       "active": true,
       "category": "Mobile",
@@ -3311,8 +3326,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/105605735575888582"
     },
     "google:105645086871560902": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-20",
       "company": "Google",
       "external_id": "105645086871560902",
       "first_seen": "2026-11-18",
@@ -4360,8 +4376,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/138815997619380934"
     },
     "google:139747893048156870": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-20",
       "company": "Google",
       "external_id": "139747893048156870",
       "first_seen": "2026-10-21",
@@ -4962,8 +4979,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83748242205876934"
     },
     "google:83802267525751494": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-20",
       "company": "Google",
       "external_id": "83802267525751494",
       "first_seen": "2026-10-21",
@@ -5543,6 +5561,21 @@
       "posted": null,
       "title": "Software Engineer - iOS (Technical Leadership)",
       "url": "https://www.metacareers.com/jobs/1061795906099278"
+    },
+    "meta:1087742840660039": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "1087742840660039",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "level": "Mid",
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "posted": null,
+      "title": "Software Engineer, iOS",
+      "url": "https://www.metacareers.com/jobs/1087742840660039"
     },
     "meta:1165549049490227": {
       "active": false,
@@ -7652,6 +7685,21 @@
       "title": "iOS Engineer - Design System",
       "url": "https://sumup.com/careers/positions/8426778002?gh_jid=8426778002"
     },
+    "sumup:8658154002": {
+      "active": true,
+      "category": "Android",
+      "company": "SumUp",
+      "external_id": "8658154002",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "level": "Senior",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-09-04",
+      "title": "Senior Embedded Android Engineer- Hardware",
+      "url": "https://sumup.com/careers/positions/8658154002?gh_jid=8658154002"
+    },
     "sumup:8773681002": {
       "active": false,
       "category": "iOS",
@@ -7669,13 +7717,13 @@
       "url": "https://sumup.com/careers/positions/8773681002?gh_jid=8773681002"
     },
     "sumup:8794602002": {
-      "active": false,
+      "active": true,
       "category": "Android",
       "closed": "2026-11-18",
       "company": "SumUp",
       "external_id": "8794602002",
       "first_seen": "2026-10-02",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-20",
       "level": "Senior",
       "locations": [
         "Berlin, Germany"
@@ -8052,5 +8100,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-20T07:47:06Z"
+  "updated_at": "2026-11-20T20:46:15Z"
 }
