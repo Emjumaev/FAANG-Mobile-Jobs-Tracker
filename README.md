@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-21 07:44:35 UTC** · 📌 **238** open mobile jobs
+> 🕐 Last updated: **2026-11-21 19:49:34 UTC** · 📌 **237** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **103** iOS · **85** Android · **2** iOS & Android · **1** Cross-platform · **47** Mobile
-> · By level: 2 Intern · 2 Entry · 97 Mid · 78 Senior · 42 Staff+ · 17 Manager
+> 📊 By platform: **103** iOS · **85** Android · **2** iOS & Android · **1** Cross-platform · **46** Mobile
+> · By level: 2 Intern · 2 Entry · 96 Mid · 78 Senior · 42 Staff+ · 17 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -24,7 +24,7 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 4 |
-| [Amazon](#amazon) | 12 |
+| [Amazon](#amazon) | 11 |
 | [Anthropic](#anthropic) | 2 |
 | [Apple](#apple) | 46 |
 | [Block](#block) | 2 |
@@ -118,7 +118,6 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10595875/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-11-05 | 2026-11-06 |
-| [Software Development Engineer - App Performance, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10594512/software-development-engineer-app-performance-mobile-app-foundations) | Mobile | Mid | Seattle, Washington, USA | 2026-11-02 | 2026-11-02 |
 | [Software Development Engineer, Mobile App Foundations, BuilderWorks](https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks) | Mobile | Mid | Seattle, Washington, USA | 2026-10-29 | 2026-10-29 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-10-14 | 2026-10-19 |
 | [Software Development Manager, Mobile App Foundations](https://www.amazon.jobs/en/jobs/10568011/software-development-manager-mobile-app-foundations) | Mobile | Manager | Seattle, Washington, USA | 2026-10-02 | 2026-10-14 |

@@ -798,8 +798,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks"
     },
     "amazon:10594512": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-21",
       "company": "Amazon",
       "external_id": "10594512",
       "first_seen": "2026-11-02",
@@ -8177,5 +8178,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8200951"
     }
   },
-  "updated_at": "2026-11-21T07:44:35Z"
+  "updated_at": "2026-11-21T19:49:34Z"
 }
