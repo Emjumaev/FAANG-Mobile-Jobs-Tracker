@@ -8,7 +8,7 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-21 19:49:34 UTC** · 📌 **237** open mobile jobs
+> 🕐 Last updated: **2026-11-22 07:29:18 UTC** · 📌 **237** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **103** iOS · **85** Android · **2** iOS & Android · **1** Cross-platform · **46** Mobile
@@ -149,7 +149,7 @@ tech companies, scraped directly from each company's careers API every
 | [Swift Software Engineer, Productivity Apps](https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps) 🆕 | iOS | Mid | Pittsburgh | 2026-11-18 | 2026-11-18 |
 | [iOS Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications) 🆕 | iOS | Mid | Vancouver | 2026-11-16 | 2026-11-16 |
 | [Sr. Swift Standard Libraries Engineer](https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer) 🆕 | iOS | Senior | Cupertino | 2026-11-16 | 2026-11-16 |
-| [AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software](https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software) 🆕 | iOS | Mid | Sunnyvale | 2026-11-13 | 2026-11-14 |
+| [AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software](https://jobs.apple.com/en-us/details/200694936/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software) | iOS | Mid | Sunnyvale | 2026-11-13 | 2026-11-14 |
 | [Build Automation & iOS Engineer - Services Special Project](https://jobs.apple.com/en-us/details/200694227/build-automation-ios-engineer-services-special-project) | iOS | Mid | Cupertino | 2026-11-12 | 2026-11-13 |
 | [Software Development Engineer - iOS for Keyboard](https://jobs.apple.com/en-us/details/200694375/software-development-engineer-ios-for-keyboard) | iOS | Mid | Cupertino | 2026-11-10 | 2026-11-11 |
 | [Engineering Manager, Siri App (iOS and macOS)](https://jobs.apple.com/en-us/details/200686902/engineering-manager-siri-app-ios-and-macos) | iOS | Manager | Cupertino | 2026-11-10 | 2026-10-07 |
@@ -325,7 +325,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Senior iOS Engineer](https://instacart.careers/job/?gh_jid=8386574) 🆕 | iOS | Senior | Canada - Remote (ON, AB, BC, or NS Only) | 2026-11-13 | 2026-11-14 |
+| [Senior iOS Engineer](https://instacart.careers/job/?gh_jid=8386574) | iOS | Senior | Canada - Remote (ON, AB, BC, or NS Only) | 2026-11-13 | 2026-11-14 |
 
 ## Lyft
 
