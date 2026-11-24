@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-24 10:27:40 UTC** · 📌 **240** open mobile jobs
+> 🕐 Last updated: **2026-11-24 22:49:34 UTC** · 📌 **243** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **103** iOS · **87** Android · **2** iOS & Android · **1** Cross-platform · **47** Mobile
-> · By level: 2 Intern · 2 Entry · 95 Mid · 80 Senior · 43 Staff+ · 18 Manager
+> 📊 By platform: **103** iOS · **85** Android · **3** iOS & Android · **1** Cross-platform · **51** Mobile
+> · By level: 2 Intern · 2 Entry · 99 Mid · 80 Senior · 43 Staff+ · 17 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -24,7 +24,7 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 3 |
-| [Amazon](#amazon) | 11 |
+| [Amazon](#amazon) | 12 |
 | [Anthropic](#anthropic) | 2 |
 | [Apple](#apple) | 45 |
 | [Block](#block) | 2 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 25 |
+| [Google](#google) | 26 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
@@ -56,8 +56,8 @@ tech companies, scraped directly from each company's careers API every
 | [OpenAI](#openai) | 6 |
 | [Oracle](#oracle) | 2 |
 | [PayPal](#paypal) | 5 |
-| [Pinterest](#pinterest) | 4 |
-| [Proton](#proton) | 1 |
+| [Pinterest](#pinterest) | 3 |
+| [Proton](#proton) | 4 |
 | [Reddit](#reddit) | 5 |
 | [Riot Games](#riot-games) | 1 |
 | [Robinhood](#robinhood) | 12 |
@@ -71,7 +71,7 @@ tech companies, scraped directly from each company's careers API every
 | [SumUp](#sumup) | 6 |
 | Tripadvisor | — |
 | [Twitch](#twitch) | 3 |
-| [Waymo](#waymo) | 5 |
+| [Waymo](#waymo) | 4 |
 | [Wolt](#wolt) | 1 |
 | ByteDance / TikTok | *joinbytedance.com's job-search API rejects requests that don't carry its in-browser client signature; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -116,6 +116,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Development Engineer II- (Android/ios), Last Mile Platform Services, SDE](https://www.amazon.jobs/en/jobs/10612630/software-development-engineer-ii-android-ios-last-mile-platform-services-sde) 🆕 | iOS & Android | Mid | Gurugram, Haryana, IND | 2026-11-24 | 2026-11-24 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10595875/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-11-05 | 2026-11-06 |
 | [Software Development Engineer, Mobile App Foundations, BuilderWorks](https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks) | Mobile | Mid | Seattle, Washington, USA | 2026-10-29 | 2026-10-29 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-10-14 | 2026-10-19 |
@@ -294,6 +295,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Staff Software Engineer, YouTube, Mobile Frameworks](https://www.google.com/about/careers/applications/jobs/results/95639625548079814) 🆕 | Mobile | Staff+ | San Bruno, CA, USA | 2026-11-24 | 2026-11-24 |
 | [Staff Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/119288402674623174) 🆕 | iOS | Staff+ | London, UK | 2026-11-23 | 2026-11-24 |
 | [Security Engineer Manager, Android Malware Analysis, Android Ecosystem](https://www.google.com/about/careers/applications/jobs/results/142178585497477830) 🆕 | Android | Manager | Bengaluru, Karnataka, India | 2026-11-23 | 2026-11-24 |
 | [Software Engineer III, Connectivity, Android microXR](https://www.google.com/about/careers/applications/jobs/results/111735487936242374) 🆕 | Android | Senior | San Jose, CA, USA; Seattle, WA, USA | 2026-11-18 | 2026-11-18 |
@@ -417,7 +419,6 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Engineering Manager II, Android Modernization](https://www.pinterestcareers.com/jobs/?gh_jid=8015531) | Android | Manager | Toronto, ON, CA | 2026-09-14 | 2026-10-02 |
 | [Sr. Software Engineer, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=8011547) | iOS | Senior | Toronto, ON, CA | 2026-06-22 | 2026-11-16 |
 | [Software Engineer II, Android](https://www.pinterestcareers.com/jobs/?gh_jid=7987854) 🆕 | Android | Mid | Toronto, ON, CA | 2026-06-10 | 2026-11-17 |
 | [Software Engineer II, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=6922682) | iOS | Mid | Toronto, ON, CA | 2025-12-12 | 2026-10-02 |
@@ -426,6 +427,9 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047492101) 🆕 | Mobile | Mid | Paris, France | 2026-11-24 | 2026-11-24 |
+| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047491101) 🆕 | Mobile | Mid | Barcelona, Spain | 2026-11-24 | 2026-11-24 |
+| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047490101) 🆕 | Mobile | Mid | London, United Kingdom | 2026-11-24 | 2026-11-24 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5044916101) 🆕 | Mobile | Mid | Geneva, Switzerland | 2026-11-23 | 2026-11-24 |
 
 ## Reddit
@@ -525,7 +529,6 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Staff Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=8193298) | Android | Staff+ | Mountain View, CA, US; San Francisco, CA, US | 2026-09-15 | 2026-10-02 |
-| [Senior Staff Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=7932205) | Android | Staff+ | Mountain View, CA, USA | 2026-05-18 | 2026-10-29 |
 | [Senior Android Engineer, In-Car Experience](https://careers.withwaymo.com/jobs?gh_jid=7484282) | Android | Senior | Mountain View, CA, US; San Francisco, CA, US | 2025-12-26 | 2026-10-02 |
 | [Sr Software Engineer, Android Automotive](https://careers.withwaymo.com/jobs?gh_jid=7438665) | Android | Senior | Mountain View, California, USA | 2025-12-19 | 2026-10-02 |
 | [Senior Android Platform Engineer](https://careers.withwaymo.com/jobs?gh_jid=7382506) | Android | Senior | Mountain View, CA, USA; San Francisco, CA, USA | 2025-11-07 | 2026-10-02 |

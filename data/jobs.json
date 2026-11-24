@@ -845,6 +845,21 @@
       "title": "SDE-II, AB Mobile",
       "url": "https://www.amazon.jobs/en/jobs/10601863/sde-ii-ab-mobile"
     },
+    "amazon:10612630": {
+      "active": true,
+      "category": "iOS & Android",
+      "company": "Amazon",
+      "external_id": "10612630",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "level": "Mid",
+      "locations": [
+        "Gurugram, Haryana, IND"
+      ],
+      "posted": "2026-11-24",
+      "title": "Software Development Engineer II- (Android/ios), Last Mile Platform Services, SDE",
+      "url": "https://www.amazon.jobs/en/jobs/10612630/software-development-engineer-ii-android-ios-last-mile-platform-services-sde"
+    },
     "anthropic:4572744008": {
       "active": true,
       "category": "iOS",
@@ -5380,6 +5395,21 @@
       "title": "Senior Software Engineer, Mobile (Android), XR, Platforms and Devices",
       "url": "https://www.google.com/about/careers/applications/jobs/results/94130379677409990"
     },
+    "google:95639625548079814": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Google",
+      "external_id": "95639625548079814",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "level": "Staff+",
+      "locations": [
+        "San Bruno, CA, USA"
+      ],
+      "posted": "2026-11-24",
+      "title": "Staff Software Engineer, YouTube, Mobile Frameworks",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95639625548079814"
+    },
     "google:96308785747763910": {
       "active": true,
       "category": "Mobile",
@@ -6678,8 +6708,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015517"
     },
     "pinterest:8015531": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-24",
       "company": "Pinterest",
       "external_id": "8015531",
       "first_seen": "2026-10-02",
@@ -6885,6 +6916,51 @@
       "posted": "2026-11-23",
       "title": "Mobile Product Engineer",
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044916101"
+    },
+    "proton:5047490101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5047490101",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "level": "Mid",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "posted": "2026-11-24",
+      "title": "Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047490101"
+    },
+    "proton:5047491101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5047491101",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "level": "Mid",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "posted": "2026-11-24",
+      "title": "Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047491101"
+    },
+    "proton:5047492101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5047492101",
+      "first_seen": "2026-11-24",
+      "last_seen": "2026-11-24",
+      "level": "Mid",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": "2026-11-24",
+      "title": "Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047492101"
     },
     "reddit:7895156": {
       "active": true,
@@ -8208,8 +8284,9 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7815237"
     },
     "waymo:7932205": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-24",
       "company": "Waymo",
       "external_id": "7932205",
       "first_seen": "2026-10-29",
@@ -8289,5 +8366,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8262171"
     }
   },
-  "updated_at": "2026-11-24T10:27:40Z"
+  "updated_at": "2026-11-24T22:49:34Z"
 }
