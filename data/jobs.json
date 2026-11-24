@@ -830,8 +830,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10595875/software-development-engineer-ios"
     },
     "amazon:10601863": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-24",
       "company": "Amazon",
       "external_id": "10601863",
       "first_seen": "2026-11-23",
@@ -1843,8 +1844,9 @@
       "url": "https://jobs.apple.com/en-us/details/200687778/ios-telephony-software-engineer-wireless-technologies-ecosystems"
     },
     "apple:200689059": {
-      "active": true,
+      "active": false,
       "category": "iOS",
+      "closed": "2026-11-24",
       "company": "Apple",
       "external_id": "200689059",
       "first_seen": "2026-10-22",
@@ -4211,8 +4213,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/130852230604432070"
     },
     "google:130901835329217222": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-24",
       "company": "Google",
       "external_id": "130901835329217222",
       "first_seen": "2026-11-13",
@@ -8286,5 +8289,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8262171"
     }
   },
-  "updated_at": "2026-11-24T00:22:31Z"
+  "updated_at": "2026-11-24T10:27:40Z"
 }

@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-24 00:22:31 UTC** · 📌 **243** open mobile jobs
+> 🕐 Last updated: **2026-11-24 10:27:40 UTC** · 📌 **240** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **104** iOS · **88** Android · **2** iOS & Android · **1** Cross-platform · **48** Mobile
-> · By level: 2 Intern · 2 Entry · 98 Mid · 80 Senior · 43 Staff+ · 18 Manager
+> 📊 By platform: **103** iOS · **87** Android · **2** iOS & Android · **1** Cross-platform · **47** Mobile
+> · By level: 2 Intern · 2 Entry · 95 Mid · 80 Senior · 43 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -24,9 +24,9 @@ tech companies, scraped directly from each company's careers API every
 | [Adyen](#adyen) | 3 |
 | [Affirm](#affirm) | 2 |
 | [Airbnb](#airbnb) | 3 |
-| [Amazon](#amazon) | 12 |
+| [Amazon](#amazon) | 11 |
 | [Anthropic](#anthropic) | 2 |
-| [Apple](#apple) | 46 |
+| [Apple](#apple) | 45 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
 | [Cisco](#cisco) | 5 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 26 |
+| [Google](#google) | 25 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
@@ -116,7 +116,6 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [SDE-II, AB Mobile](https://www.amazon.jobs/en/jobs/10601863/sde-ii-ab-mobile) 🆕 | Mobile | Mid | Hyderabad, Telangana, IND | 2026-11-23 | 2026-11-23 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10595875/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-11-05 | 2026-11-06 |
 | [Software Development Engineer, Mobile App Foundations, BuilderWorks](https://www.amazon.jobs/en/jobs/10593119/software-development-engineer-mobile-app-foundations-builderworks) | Mobile | Mid | Seattle, Washington, USA | 2026-10-29 | 2026-10-29 |
 | [Software Development Engineer, iOS](https://www.amazon.jobs/en/jobs/10575843/software-development-engineer-ios) | iOS | Mid | Newark, New Jersey, USA | 2026-10-14 | 2026-10-19 |
@@ -162,7 +161,6 @@ tech companies, scraped directly from each company's careers API every
 | [iOS Application Developer - Health Software](https://jobs.apple.com/en-us/details/200692096/ios-application-developer-health-software) | iOS | Mid | Sunnyvale | 2026-10-27 | 2026-10-27 |
 | [iOS Analytics Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200662789/ios-analytics-software-engineer-video-applications) | iOS | Mid | Boulder | 2026-10-26 | 2026-10-02 |
 | [Software Architect - iOS Devices](https://jobs.apple.com/en-us/details/200691192/software-architect-ios-devices) | iOS | Staff+ | Sunnyvale | 2026-10-23 | 2026-10-23 |
-| [Swift Engineer, Radar Engineering](https://jobs.apple.com/en-us/details/200689059/swift-engineer-radar-engineering) | iOS | Mid | Cork | 2026-10-22 | 2026-10-22 |
 | [Senior Swift Software Engineer, Employee Engagement Engineering](https://jobs.apple.com/en-us/details/200668788/senior-swift-software-engineer-employee-engagement-engineering) | iOS | Senior | Cork | 2026-10-20 | 2026-10-20 |
 | [iOS Software Engineer, Shortcuts Actions - Proactive](https://jobs.apple.com/en-us/details/200689259/ios-software-engineer-shortcuts-actions-proactive) | iOS | Mid | Seattle | 2026-10-14 | 2026-10-15 |
 | [Profiling Tools Engineer (Xcode Instruments) - Developer Experience](https://jobs.apple.com/en-us/details/200669203/profiling-tools-engineer-xcode-instruments-developer-experience) | iOS | Mid | Cupertino | 2026-10-12 | 2026-10-13 |
@@ -300,7 +298,6 @@ tech companies, scraped directly from each company's careers API every
 | [Security Engineer Manager, Android Malware Analysis, Android Ecosystem](https://www.google.com/about/careers/applications/jobs/results/142178585497477830) 🆕 | Android | Manager | Bengaluru, Karnataka, India | 2026-11-23 | 2026-11-24 |
 | [Software Engineer III, Connectivity, Android microXR](https://www.google.com/about/careers/applications/jobs/results/111735487936242374) 🆕 | Android | Senior | San Jose, CA, USA; Seattle, WA, USA | 2026-11-18 | 2026-11-18 |
 | [Mobile Technical Lead, RCS For Business](https://www.google.com/about/careers/applications/jobs/results/133967613049873094) 🆕 | Mobile | Staff+ | Kraków, Poland | 2026-11-18 | 2026-11-18 |
-| [Software Engineer, Android System UI, Laptops and Tablets](https://www.google.com/about/careers/applications/jobs/results/130901835329217222) | Android | Mid | Beijing, China | 2026-11-13 | 2026-11-13 |
 | [Staff Software Engineer, Android Laptop and Tablet System Software, Platform Inputs](https://www.google.com/about/careers/applications/jobs/results/123327042027430598) | Android | Staff+ | San Jose, CA, USA | 2026-11-12 | 2026-11-12 |
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/87132880177636038) | Android | Senior | Durham, NC, USA; Raleigh, NC, USA | 2026-11-11 | 2026-11-11 |
 | [Senior Software Engineer, Gemini Enterprise Mobile](https://www.google.com/about/careers/applications/jobs/results/96308785747763910) | Mobile | Senior | Warsaw, Poland | 2026-11-11 | 2026-11-11 |
