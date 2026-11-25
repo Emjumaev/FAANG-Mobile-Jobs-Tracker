@@ -8,7 +8,7 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-24 22:49:34 UTC** · 📌 **243** open mobile jobs
+> 🕐 Last updated: **2026-11-25 09:08:51 UTC** · 📌 **243** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **103** iOS · **85** Android · **3** iOS & Android · **1** Cross-platform · **51** Mobile
@@ -402,8 +402,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Principal Software Engineer – Mobile & AI](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350644) 🆕 | Mobile | Staff+ | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
-| [Junior Android Software Engineer](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350645) 🆕 | Android | Entry | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
+| [Principal Software Engineer – Mobile & AI](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350644) | Mobile | Staff+ | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
+| [Junior Android Software Engineer](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350645) | Android | Entry | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
 
 ## PayPal
 
@@ -420,16 +420,16 @@ tech companies, scraped directly from each company's careers API every
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Sr. Software Engineer, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=8011547) | iOS | Senior | Toronto, ON, CA | 2026-06-22 | 2026-11-16 |
-| [Software Engineer II, Android](https://www.pinterestcareers.com/jobs/?gh_jid=7987854) 🆕 | Android | Mid | Toronto, ON, CA | 2026-06-10 | 2026-11-17 |
+| [Software Engineer II, Android](https://www.pinterestcareers.com/jobs/?gh_jid=7987854) | Android | Mid | Toronto, ON, CA | 2026-06-10 | 2026-11-17 |
 | [Software Engineer II, iOS](https://www.pinterestcareers.com/jobs/?gh_jid=6922682) | iOS | Mid | Toronto, ON, CA | 2025-12-12 | 2026-10-02 |
 
 ## Proton
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047492101) 🆕 | Mobile | Mid | Paris, France | 2026-11-24 | 2026-11-24 |
-| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047491101) 🆕 | Mobile | Mid | Barcelona, Spain | 2026-11-24 | 2026-11-24 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047490101) 🆕 | Mobile | Mid | London, United Kingdom | 2026-11-24 | 2026-11-24 |
+| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047491101) 🆕 | Mobile | Mid | Barcelona, Spain | 2026-11-24 | 2026-11-24 |
+| [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047492101) 🆕 | Mobile | Mid | Paris, France | 2026-11-24 | 2026-11-24 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5044916101) 🆕 | Mobile | Mid | Geneva, Switzerland | 2026-11-23 | 2026-11-24 |
 
 ## Reddit
