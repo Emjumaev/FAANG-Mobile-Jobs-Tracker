@@ -2425,8 +2425,9 @@
       "url": "https://careers.cisco.com/global/en/job/2027716"
     },
     "cisco:2028669": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-25",
       "company": "Cisco",
       "external_id": "2028669",
       "first_seen": "2026-10-22",
@@ -3339,6 +3340,21 @@
       "title": "Software Engineer, Google Pay Mobile Development",
       "url": "https://www.google.com/about/careers/applications/jobs/results/100577550790468294"
     },
+    "google:100581706976633542": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "100581706976633542",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "level": "Senior",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-11-25",
+      "title": "Senior Software Engineer, Android Trust",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100581706976633542"
+    },
     "google:102388080295453382": {
       "active": false,
       "category": "Android",
@@ -3504,8 +3520,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/106608848810189510"
     },
     "google:106829872927515334": {
-      "active": true,
+      "active": false,
       "category": "Android",
+      "closed": "2026-11-25",
       "company": "Google",
       "external_id": "106829872927515334",
       "first_seen": "2026-10-26",
@@ -4912,6 +4929,21 @@
       "posted": "2026-09-17",
       "title": "Software Engineer, Android",
       "url": "https://www.google.com/about/careers/applications/jobs/results/77247651363332806"
+    },
+    "google:77415546735207110": {
+      "active": true,
+      "category": "Android",
+      "company": "Google",
+      "external_id": "77415546735207110",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "level": "Manager",
+      "locations": [
+        "Singapore"
+      ],
+      "posted": "2026-11-25",
+      "title": "Engineering Manager, Developer and Agent Experience, Android Velocity and Quality",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77415546735207110"
     },
     "google:77656647140287174": {
       "active": false,
@@ -8366,5 +8398,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8262171"
     }
   },
-  "updated_at": "2026-11-25T09:08:51Z"
+  "updated_at": "2026-11-25T22:02:17Z"
 }

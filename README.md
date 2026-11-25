@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-25 09:08:51 UTC** · 📌 **243** open mobile jobs
+> 🕐 Last updated: **2026-11-25 22:02:17 UTC** · 📌 **243** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **103** iOS · **85** Android · **3** iOS & Android · **1** Cross-platform · **51** Mobile
-> · By level: 2 Intern · 2 Entry · 99 Mid · 80 Senior · 43 Staff+ · 17 Manager
+> 📊 By platform: **103** iOS · **86** Android · **3** iOS & Android · **1** Cross-platform · **50** Mobile
+> · By level: 2 Intern · 2 Entry · 98 Mid · 80 Senior · 43 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -29,7 +29,7 @@ tech companies, scraped directly from each company's careers API every
 | [Apple](#apple) | 45 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
-| [Cisco](#cisco) | 5 |
+| [Cisco](#cisco) | 4 |
 | [Cloudflare](#cloudflare) | 2 |
 | [Coinbase](#coinbase) | 11 |
 | [Coupang](#coupang) | 12 |
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 26 |
+| [Google](#google) | 27 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
@@ -205,7 +205,6 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [Senior Software Engineer – Android Platform](https://careers.cisco.com/global/en/job/2027664) | Android | Senior | Galway, Ireland | 2026-11-19 | 2026-10-13 |
 | [Software Engineer- Software Test Engineer – IOS XR \| Python Automation \| L0/L1 Optical Testing 8 - 10 years](https://careers.cisco.com/global/en/job/2027016) | iOS | Mid | Bangalore, India | 2026-11-03 | 2026-11-03 |
-| [Software Engineer - Mobile](https://careers.cisco.com/global/en/job/2028669) | Mobile | Mid | Slovakia | 2026-10-22 | 2026-10-22 |
 | [UI Desktop macOS and IOS Engineer Hybird](https://careers.cisco.com/global/en/job/2021020) | iOS | Mid | Research Triangle Park, North Carolina, United States of America; San Jose, California, United States of America | 2026-10-05 | 2026-10-06 |
 | [Senior IOS Engineer (Duo)](https://careers.cisco.com/global/en/job/2023299) | iOS | Senior | Ann Arbor, Michigan, United States of America | 2026-08-28 | 2026-10-02 |
 
@@ -295,6 +294,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Software Engineer, Android Trust](https://www.google.com/about/careers/applications/jobs/results/100581706976633542) 🆕 | Android | Senior | Singapore | 2026-11-25 | 2026-11-25 |
+| [Engineering Manager, Developer and Agent Experience, Android Velocity and Quality](https://www.google.com/about/careers/applications/jobs/results/77415546735207110) 🆕 | Android | Manager | Singapore | 2026-11-25 | 2026-11-25 |
 | [Staff Software Engineer, YouTube, Mobile Frameworks](https://www.google.com/about/careers/applications/jobs/results/95639625548079814) 🆕 | Mobile | Staff+ | San Bruno, CA, USA | 2026-11-24 | 2026-11-24 |
 | [Staff Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/119288402674623174) 🆕 | iOS | Staff+ | London, UK | 2026-11-23 | 2026-11-24 |
 | [Security Engineer Manager, Android Malware Analysis, Android Ecosystem](https://www.google.com/about/careers/applications/jobs/results/142178585497477830) 🆕 | Android | Manager | Bengaluru, Karnataka, India | 2026-11-23 | 2026-11-24 |
@@ -314,7 +315,6 @@ tech companies, scraped directly from each company's careers API every
 | [Senior Software Engineer, Mobile, Android](https://www.google.com/about/careers/applications/jobs/results/109692820817617606) | Android | Senior | Mountain View, CA, USA; San Bruno, CA, USA; Sunnyvale, CA, USA | 2026-10-29 | 2026-10-29 |
 | [Senior Software Engineer, Mobile (iOS)](https://www.google.com/about/careers/applications/jobs/results/99617068059370182) | iOS | Senior | New York, NY, USA | 2026-10-29 | 2026-10-29 |
 | [Senior Software Engineer, Computational Photography and HDR+, Pixel and XR Camera, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/138815997619380934) | Android | Senior | Mountain View, CA, USA | 2026-10-29 | 2026-10-29 |
-| [Senior Software Engineer, Android System and Frameworks, Beam](https://www.google.com/about/careers/applications/jobs/results/106829872927515334) | Android | Senior | Mountain View, CA, USA; Seattle, WA, USA | 2026-10-26 | 2026-10-26 |
 | [Engineering Manager, Classroom Mobile Platform Team](https://www.google.com/about/careers/applications/jobs/results/126687241098404550) | Mobile | Manager | New York, NY, USA | 2026-10-22 | 2026-10-22 |
 | [Senior Software Engineer, iOS, Google Photos](https://www.google.com/about/careers/applications/jobs/results/136190139708646086) | iOS | Senior | Sydney NSW, Australia | 2026-10-16 | 2026-10-16 |
 | [Senior Software Engineer, iOS, CarPlay, Google Maps](https://www.google.com/about/careers/applications/jobs/results/129819530682606278) | iOS | Senior | Sydney NSW, Australia | 2026-10-06 | 2026-10-06 |
