@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-26 08:57:53 UTC** · 📌 **247** open mobile jobs
+> 🕐 Last updated: **2026-11-26 21:58:16 UTC** · 📌 **251** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **102** iOS · **88** Android · **3** iOS & Android · **1** Cross-platform · **53** Mobile
-> · By level: 2 Intern · 2 Entry · 98 Mid · 82 Senior · 45 Staff+ · 18 Manager
+> 📊 By platform: **103** iOS · **88** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
+> · By level: 2 Intern · 2 Entry · 98 Mid · 86 Senior · 45 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -45,7 +45,7 @@ tech companies, scraped directly from each company's careers API every
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
-| [Meta](#meta) | 13 |
+| [Meta](#meta) | 14 |
 | Microsoft | — |
 | MongoDB | — |
 | [Monzo](#monzo) | 2 |
@@ -57,7 +57,7 @@ tech companies, scraped directly from each company's careers API every
 | [Oracle](#oracle) | 2 |
 | [PayPal](#paypal) | 5 |
 | [Pinterest](#pinterest) | 3 |
-| [Proton](#proton) | 4 |
+| [Proton](#proton) | 8 |
 | [Reddit](#reddit) | 5 |
 | [Riot Games](#riot-games) | 1 |
 | [Robinhood](#robinhood) | 12 |
@@ -67,7 +67,7 @@ tech companies, scraped directly from each company's careers API every
 | [Snap](#snap) | 4 |
 | [Snowflake](#snowflake) | 1 |
 | [Spotify](#spotify) | 1 |
-| [Stripe](#stripe) | 6 |
+| [Stripe](#stripe) | 5 |
 | [SumUp](#sumup) | 6 |
 | Tripadvisor | — |
 | [Twitch](#twitch) | 3 |
@@ -347,6 +347,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer, iOS](https://www.metacareers.com/jobs/2203967606897780) 🆕 | iOS | Mid | Tel Aviv, Israel | — | 2026-11-26 |
 | [Software Engineer - Android](https://www.metacareers.com/jobs/1407489568097442) 🆕 | Android | Mid | Menlo Park, CA | — | 2026-11-21 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1087742840660039) 🆕 | iOS | Mid | San Francisco, CA | — | 2026-11-20 |
 | [iOS Engineer, WhatsApp](https://www.metacareers.com/jobs/29030081546642214) 🆕 | iOS | Mid | Menlo Park, CA | — | 2026-11-19 |
@@ -431,6 +432,10 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Senior Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5049659101) 🆕 | Mobile | Senior | Geneva, Switzerland | 2026-11-26 | 2026-11-26 |
+| [Senior Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5049660101) 🆕 | Mobile | Senior | London, United Kingdom | 2026-11-26 | 2026-11-26 |
+| [Senior Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5049661101) 🆕 | Mobile | Senior | Barcelona, Spain | 2026-11-26 | 2026-11-26 |
+| [Senior Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5049662101) 🆕 | Mobile | Senior | Paris, France | 2026-11-26 | 2026-11-26 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047490101) 🆕 | Mobile | Mid | London, United Kingdom | 2026-11-24 | 2026-11-24 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047491101) 🆕 | Mobile | Mid | Barcelona, Spain | 2026-11-24 | 2026-11-24 |
 | [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047492101) 🆕 | Mobile | Mid | Paris, France | 2026-11-24 | 2026-11-24 |
@@ -507,7 +512,6 @@ tech companies, scraped directly from each company's careers API every
 | [Android Engineer, Identity](https://stripe.com/jobs/search?gh_jid=8311069) | Android | Mid | New York City, NY; San Francisco, CA; Seattle, WA | 2026-10-26 | 2026-10-26 |
 | [Android Engineer, Terminal - CA](https://stripe.com/jobs/search?gh_jid=8274893) | Android | Mid | Toronto, CA | 2026-10-12 | 2026-10-13 |
 | [Android BSP Engineer](https://stripe.com/jobs/search?gh_jid=8239006) | Android | Mid | Taipei, Taiwan | 2026-09-29 | 2026-10-02 |
-| [Mobile Engineer, Treasury](https://stripe.com/jobs/search?gh_jid=7978915) | Mobile | Mid | United Kingdom | 2026-06-03 | 2026-10-02 |
 
 ## SumUp
 

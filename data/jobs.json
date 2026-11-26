@@ -5931,6 +5931,21 @@
       "title": "Software Engineer - Android, Standalone Apps Team",
       "url": "https://www.metacareers.com/jobs/2189071041883117"
     },
+    "meta:2203967606897780": {
+      "active": true,
+      "category": "iOS",
+      "company": "Meta",
+      "external_id": "2203967606897780",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "level": "Mid",
+      "locations": [
+        "Tel Aviv, Israel"
+      ],
+      "posted": null,
+      "title": "Software Engineer, iOS",
+      "url": "https://www.metacareers.com/jobs/2203967606897780"
+    },
     "meta:2254341065493340": {
       "active": false,
       "category": "Android",
@@ -7054,6 +7069,66 @@
       "title": "Mobile Product Engineer",
       "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047492101"
     },
+    "proton:5049659101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5049659101",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "level": "Senior",
+      "locations": [
+        "Geneva, Switzerland"
+      ],
+      "posted": "2026-11-26",
+      "title": "Senior Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5049659101"
+    },
+    "proton:5049660101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5049660101",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "level": "Senior",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "posted": "2026-11-26",
+      "title": "Senior Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5049660101"
+    },
+    "proton:5049661101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5049661101",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "level": "Senior",
+      "locations": [
+        "Barcelona, Spain"
+      ],
+      "posted": "2026-11-26",
+      "title": "Senior Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5049661101"
+    },
+    "proton:5049662101": {
+      "active": true,
+      "category": "Mobile",
+      "company": "Proton",
+      "external_id": "5049662101",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "level": "Senior",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": "2026-11-26",
+      "title": "Senior Mobile Product Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5049662101"
+    },
     "reddit:7895156": {
       "active": true,
       "category": "iOS",
@@ -7838,8 +7913,9 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7557403"
     },
     "stripe:7978915": {
-      "active": true,
+      "active": false,
       "category": "Mobile",
+      "closed": "2026-11-26",
       "company": "Stripe",
       "external_id": "7978915",
       "first_seen": "2026-10-02",
@@ -8474,5 +8550,5 @@
       "url": "https://job-boards.greenhouse.io/wolt/jobs/8262171"
     }
   },
-  "updated_at": "2026-11-26T08:57:53Z"
+  "updated_at": "2026-11-26T21:58:16Z"
 }
