@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-26 21:58:16 UTC** · 📌 **251** open mobile jobs
+> 🕐 Last updated: **2026-11-27 09:04:55 UTC** · 📌 **252** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **103** iOS · **88** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
-> · By level: 2 Intern · 2 Entry · 98 Mid · 86 Senior · 45 Staff+ · 18 Manager
+> 📊 By platform: **104** iOS · **88** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
+> · By level: 2 Intern · 2 Entry · 99 Mid · 86 Senior · 45 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -29,7 +29,7 @@ tech companies, scraped directly from each company's careers API every
 | [Apple](#apple) | 45 |
 | [Block](#block) | 2 |
 | [Bloomberg](#bloomberg) | 1 |
-| [Cisco](#cisco) | 4 |
+| [Cisco](#cisco) | 6 |
 | [Cloudflare](#cloudflare) | 2 |
 | [Coinbase](#coinbase) | 14 |
 | [Coupang](#coupang) | 12 |
@@ -45,7 +45,7 @@ tech companies, scraped directly from each company's careers API every
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
-| [Meta](#meta) | 14 |
+| [Meta](#meta) | 13 |
 | Microsoft | — |
 | MongoDB | — |
 | [Monzo](#monzo) | 2 |
@@ -144,8 +144,8 @@ tech companies, scraped directly from each company's careers API every
 | [IOS SPRINGBOARD ENGINEER- WALLPAPERS](https://jobs.apple.com/en-us/details/200696355/ios-springboard-engineer-wallpapers) 🆕 | iOS | Mid | San Diego | 2026-11-21 | 2026-11-21 |
 | [IOS SPRINGBOARD ENGINEER- LOCK SCREEN](https://jobs.apple.com/en-us/details/200696342/ios-springboard-engineer-lock-screen) 🆕 | iOS | Mid | Cupertino | 2026-11-20 | 2026-11-21 |
 | [IOS SOFTWARE ENGINEER - System Experience Widgets & Live Activities](https://jobs.apple.com/en-us/details/200696358/ios-software-engineer-system-experience-widgets-live-activities) 🆕 | iOS | Mid | Austin | 2026-11-20 | 2026-11-21 |
-| [Software Development Engineer in Test, Security Server Application, Joint Mobile Engineering Team](https://jobs.apple.com/en-us/details/200695877/software-development-engineer-in-test-security-server-application-joint-mobile-engineering-team) 🆕 | Mobile | Mid | Austin | 2026-11-19 | 2026-11-19 |
-| [Front End – iOS Developer – Retail Point of Sale, IS&T](https://jobs.apple.com/en-us/details/200695538/front-end-ios-developer-retail-point-of-sale-is-t) 🆕 | iOS | Mid | Sunnyvale | 2026-11-19 | 2026-11-19 |
+| [Software Development Engineer in Test, Security Server Application, Joint Mobile Engineering Team](https://jobs.apple.com/en-us/details/200695877/software-development-engineer-in-test-security-server-application-joint-mobile-engineering-team) | Mobile | Mid | Austin | 2026-11-19 | 2026-11-19 |
+| [Front End – iOS Developer – Retail Point of Sale, IS&T](https://jobs.apple.com/en-us/details/200695538/front-end-ios-developer-retail-point-of-sale-is-t) | iOS | Mid | Sunnyvale | 2026-11-19 | 2026-11-19 |
 | [Swift Software Engineer, Productivity Apps](https://jobs.apple.com/en-us/details/200694166/swift-software-engineer-productivity-apps) | iOS | Mid | Pittsburgh | 2026-11-18 | 2026-11-18 |
 | [iOS Software Engineer - Video Applications](https://jobs.apple.com/en-us/details/200695213/ios-software-engineer-video-applications) | iOS | Mid | Vancouver | 2026-11-16 | 2026-11-16 |
 | [Sr. Swift Standard Libraries Engineer](https://jobs.apple.com/en-us/details/200695246/sr-swift-standard-libraries-engineer) | iOS | Senior | Cupertino | 2026-11-16 | 2026-11-16 |
@@ -203,6 +203,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer- l2, L3 forwarding, C/C ++, IOS XR  4 to 8 years](https://careers.cisco.com/global/en/job/2030090) 🆕 | iOS | Mid | Bangalore, India | 2026-11-27 | 2026-11-27 |
+| [Software Engineer - L2 L3 forwarding, C / C++, IOS XR  8 to 10 years](https://careers.cisco.com/global/en/job/2030084) 🆕 | iOS | Mid | Bangalore, India | 2026-11-27 | 2026-11-27 |
 | [Senior Software Engineer – Android Platform](https://careers.cisco.com/global/en/job/2027664) | Android | Senior | Galway, Ireland | 2026-11-19 | 2026-10-13 |
 | [Software Engineer- Software Test Engineer – IOS XR \| Python Automation \| L0/L1 Optical Testing 8 - 10 years](https://careers.cisco.com/global/en/job/2027016) | iOS | Mid | Bangalore, India | 2026-11-03 | 2026-11-03 |
 | [UI Desktop macOS and IOS Engineer Hybird](https://careers.cisco.com/global/en/job/2021020) | iOS | Mid | Research Triangle Park, North Carolina, United States of America; San Jose, California, United States of America | 2026-10-05 | 2026-10-06 |
@@ -222,7 +224,7 @@ tech companies, scraped directly from each company's careers API every
 | [Staff Software Engineer, Native Mobile](https://www.coinbase.com/careers/positions/8417596?gh_jid=8417596) 🆕 | Mobile | Staff+ | Remote - USA | 2026-11-25 | 2026-11-26 |
 | [Senior Staff Software Engineer, Native Mobile](https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588) 🆕 | Mobile | Staff+ | Remote - USA | 2026-11-25 | 2026-11-26 |
 | [Senior Software Engineer, Native Mobile](https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630) 🆕 | Mobile | Senior | Remote - USA | 2026-11-25 | 2026-11-26 |
-| [Senior Software Engineer, Native Mobile - International](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) 🆕 | Mobile | Senior | Remote - Singapore | 2026-11-19 | 2026-11-19 |
+| [Senior Software Engineer, Native Mobile - International](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) | Mobile | Senior | Remote - Singapore | 2026-11-19 | 2026-11-19 |
 | [Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)](https://www.coinbase.com/careers/positions/8356850?gh_jid=8356850) | Mobile | Staff+ | Remote - USA | 2026-11-06 | 2026-11-06 |
 | [Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)](https://www.coinbase.com/careers/positions/8359446?gh_jid=8359446) | Mobile | Staff+ | Remote - Canada | 2026-11-06 | 2026-11-06 |
 | [Staff Software Engineer, Native Mobile](https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720) | Mobile | Staff+ | Remote - USA | 2026-09-29 | 2026-10-02 |
@@ -350,14 +352,13 @@ tech companies, scraped directly from each company's careers API every
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/2203967606897780) 🆕 | iOS | Mid | Tel Aviv, Israel | — | 2026-11-26 |
 | [Software Engineer - Android](https://www.metacareers.com/jobs/1407489568097442) 🆕 | Android | Mid | Menlo Park, CA | — | 2026-11-21 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1087742840660039) 🆕 | iOS | Mid | San Francisco, CA | — | 2026-11-20 |
-| [iOS Engineer, WhatsApp](https://www.metacareers.com/jobs/29030081546642214) 🆕 | iOS | Mid | Menlo Park, CA | — | 2026-11-19 |
-| [Android Engineer, WhatsApp](https://www.metacareers.com/jobs/980479324710261) 🆕 | Android | Mid | Menlo Park, CA; Remote, US | — | 2026-11-19 |
-| [Android Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/1734756811407923) 🆕 | Android | Mid | Menlo Park, CA | — | 2026-11-19 |
+| [iOS Engineer, WhatsApp](https://www.metacareers.com/jobs/29030081546642214) | iOS | Mid | Menlo Park, CA | — | 2026-11-19 |
+| [Android Engineer, WhatsApp](https://www.metacareers.com/jobs/980479324710261) | Android | Mid | Menlo Park, CA; Remote, US | — | 2026-11-19 |
+| [Android Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/1734756811407923) | Android | Mid | Menlo Park, CA | — | 2026-11-19 |
 | [Software Engineer - Android (Technical Leadership)](https://www.metacareers.com/jobs/964439272759912) | Android | Mid | London, UK | — | 2026-11-06 |
 | [WhatsApp - Software Engineer - Android](https://www.metacareers.com/jobs/1420264290310565) | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [Android Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/981723587621513) | Android | Mid | Bangalore, India | — | 2026-10-16 |
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/1203016587809246) | iOS | Mid | Bellevue, WA; Boston, MA; Burlingame, CA *(+7 more)* | — | 2026-10-02 |
-| [Software Engineer, iOS](https://www.metacareers.com/jobs/3374573439389340) | iOS | Mid | London, UK; Tel Aviv, Israel | — | 2026-10-02 |
 | [Software Engineer, Android](https://www.metacareers.com/jobs/1394915781774041) | Android | Mid | Bellevue, WA; Burlingame, CA; Menlo Park, CA *(+4 more)* | — | 2026-10-02 |
 | [Software Engineer - iOS (Technical Leadership)](https://www.metacareers.com/jobs/1061795906099278) | iOS | Mid | Menlo Park, CA | — | 2026-10-02 |
 | [Software Engineer - Android (Technical Leadership)](https://www.metacareers.com/jobs/699608119727078) | Android | Mid | Burlingame, CA; Menlo Park, CA; New York, NY *(+4 more)* | — | 2026-10-02 |
