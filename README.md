@@ -8,11 +8,11 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-27 09:04:55 UTC** · 📌 **252** open mobile jobs
+> 🕐 Last updated: **2026-11-27 21:41:58 UTC** · 📌 **250** open mobile jobs
 > · 🆕 = added in the last 7 days
 
-> 📊 By platform: **104** iOS · **88** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
-> · By level: 2 Intern · 2 Entry · 99 Mid · 86 Senior · 45 Staff+ · 18 Manager
+> 📊 By platform: **104** iOS · **86** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
+> · By level: 2 Intern · 2 Entry · 100 Mid · 83 Senior · 45 Staff+ · 18 Manager
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new mobile job(s)”.
 
@@ -41,7 +41,7 @@ tech companies, scraped directly from each company's careers API every
 | [Epic Games](#epic-games) | 4 |
 | Figma | — |
 | GitHub | — |
-| [Google](#google) | 28 |
+| [Google](#google) | 29 |
 | [Instacart](#instacart) | 1 |
 | Intel | — |
 | [Lyft](#lyft) | 6 |
@@ -68,7 +68,7 @@ tech companies, scraped directly from each company's careers API every
 | [Snowflake](#snowflake) | 1 |
 | [Spotify](#spotify) | 1 |
 | [Stripe](#stripe) | 5 |
-| [SumUp](#sumup) | 6 |
+| [SumUp](#sumup) | 3 |
 | Tripadvisor | — |
 | [Twitch](#twitch) | 3 |
 | [Waymo](#waymo) | 4 |
@@ -85,7 +85,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Mobile Engineering Manager - Adobe Scan](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239) | Mobile | Manager | San Jose | 2026-11-10 | 2026-10-27 |
+| [Mobile Engineering Manager - Adobe Scan](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Mobile-Engineering-Manager---Adobe-Scan_R173239) | Mobile | Manager | San Jose | 2026-11-24 | 2026-10-27 |
 | [Sr. iOS Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-Washington/Sr-iOS-Engineer_R170605) | iOS | Senior | 5 Locations | 2026-11-06 | 2026-10-02 |
 | [Senior Engineering Manager  \| iOS Video Applications](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-California/Senior-Engineering-Manager----iOS-Video-Applications_R170167-1) | iOS | Manager | Remote California | 2026-09-19 | 2026-10-02 |
 
@@ -299,6 +299,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer lll, Android Velocity and Quality AI Agents](https://www.google.com/about/careers/applications/jobs/results/106571399648158406) 🆕 | Android | Mid | Singapore | 2026-11-27 | 2026-11-27 |
 | [Senior Software Engineer, Google Photos, Mobile (Android)](https://www.google.com/about/careers/applications/jobs/results/96775403879703238) 🆕 | Android | Senior | Mountain View, CA, USA | 2026-11-26 | 2026-11-26 |
 | [Senior Software Engineer, Android Trust](https://www.google.com/about/careers/applications/jobs/results/100581706976633542) 🆕 | Android | Senior | Singapore | 2026-11-25 | 2026-11-25 |
 | [Engineering Manager, Developer and Agent Experience, Android Velocity and Quality](https://www.google.com/about/careers/applications/jobs/results/77415546735207110) 🆕 | Android | Manager | Singapore | 2026-11-25 | 2026-11-25 |
@@ -408,8 +409,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Junior Android Software Engineer](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350645) | Android | Entry | BRNO, Czech Republic | 2026-11-27 | 2026-11-17 |
 | [Principal Software Engineer – Mobile & AI](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350644) | Mobile | Staff+ | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
-| [Junior Android Software Engineer](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/350645) | Android | Entry | BRNO, Czech Republic | 2026-11-17 | 2026-11-17 |
 
 ## PayPal
 
@@ -518,11 +519,8 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Senior Embedded Android Engineer- Hardware](https://sumup.com/careers/positions/8958362002?gh_jid=8958362002) 🆕 | Android | Senior | Brazil | 2026-11-23 | 2026-11-24 |
-| [Senior Embedded Android Engineer- Hardware](https://sumup.com/careers/positions/8958363002?gh_jid=8958363002) 🆕 | Android | Senior | Barcelona, Barcelona, Spain | 2026-11-23 | 2026-11-24 |
 | [Senior Android Engineer- Hardware](https://sumup.com/careers/positions/8794602002?gh_jid=8794602002) | Android | Senior | Berlin, Germany | 2026-09-22 | 2026-10-02 |
 | [Android Engineer](https://sumup.com/careers/positions/8348937002?gh_jid=8348937002) | Android | Mid | São Paulo, São Paulo, Brazil | 2026-09-15 | 2026-10-02 |
-| [Senior Embedded Android Engineer- Hardware](https://sumup.com/careers/positions/8658154002?gh_jid=8658154002) 🆕 | Android | Senior | Berlin, Germany | 2026-09-04 | 2026-11-20 |
 | [Senior Android Engineer - KMP](https://sumup.com/careers/positions/8003469002?gh_jid=8003469002) | Android | Senior | Berlin, Germany | 2025-11-12 | 2026-10-02 |
 
 ## Twitch
