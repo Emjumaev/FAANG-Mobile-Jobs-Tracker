@@ -1,14 +1,13 @@
 {
   "failed": {
+    "Adobe": "request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (Expecting value: line 1 column 1 (char 0))",
     "Intel": "request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429)",
-    "Meta": "meta graphql response missing all_jobs (doc_id likely rotated): {'errors': [{'message': 'A server error missing_required_variable_value occured. Check server logs for details.', 'severity': 'CRITICAL', 'mids': ['5dd0881ecb3d703975bbf8a467d8d257'], 'debug_link': 'h",
     "NVIDIA": "request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429)",
     "PayPal": "request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs (HTTP 429)",
     "Salesforce": "request failed after 3 attempts: POST https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs (HTTP 429)",
     "Snap": "request failed after 3 attempts: POST https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs (HTTP 429)"
   },
   "succeeded": [
-    "Adobe",
     "Adyen",
     "Affirm",
     "Airbnb",
@@ -32,6 +31,7 @@
     "Google",
     "Instacart",
     "Lyft",
+    "Meta",
     "Microsoft",
     "MongoDB",
     "Monzo",

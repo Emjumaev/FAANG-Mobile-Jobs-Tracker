@@ -8,7 +8,7 @@ tech companies, scraped directly from each company's careers API every
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-Mobile-Jobs-Tracker](https://emjumaev.github.io/FAANG-Mobile-Jobs-Tracker/)**
 
-> 🕐 Last updated: **2026-11-27 21:41:58 UTC** · 📌 **250** open mobile jobs
+> 🕐 Last updated: **2026-11-28 08:27:58 UTC** · 📌 **250** open mobile jobs
 > · 🆕 = added in the last 7 days
 
 > 📊 By platform: **104** iOS · **86** Android · **3** iOS & Android · **1** Cross-platform · **56** Mobile
@@ -352,7 +352,7 @@ tech companies, scraped directly from each company's careers API every
 |---|---|---|---|---|---|
 | [Software Engineer, iOS](https://www.metacareers.com/jobs/2203967606897780) 🆕 | iOS | Mid | Tel Aviv, Israel | — | 2026-11-26 |
 | [Software Engineer - Android](https://www.metacareers.com/jobs/1407489568097442) 🆕 | Android | Mid | Menlo Park, CA | — | 2026-11-21 |
-| [Software Engineer, iOS](https://www.metacareers.com/jobs/1087742840660039) 🆕 | iOS | Mid | San Francisco, CA | — | 2026-11-20 |
+| [Software Engineer, iOS](https://www.metacareers.com/jobs/1087742840660039) | iOS | Mid | San Francisco, CA | — | 2026-11-20 |
 | [iOS Engineer, WhatsApp](https://www.metacareers.com/jobs/29030081546642214) | iOS | Mid | Menlo Park, CA | — | 2026-11-19 |
 | [Android Engineer, WhatsApp](https://www.metacareers.com/jobs/980479324710261) | Android | Mid | Menlo Park, CA; Remote, US | — | 2026-11-19 |
 | [Android Engineer (Technical Leadership), WhatsApp](https://www.metacareers.com/jobs/1734756811407923) | Android | Mid | Menlo Park, CA | — | 2026-11-19 |
@@ -509,7 +509,7 @@ tech companies, scraped directly from each company's careers API every
 
 | Role | Platform | Level | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Staff Software Engineer, Mobile Development Productivity](https://stripe.com/jobs/search?gh_jid=8404115) 🆕 | Mobile | Staff+ | na | 2026-11-19 | 2026-11-20 |
+| [Staff Software Engineer, Mobile Development Productivity](https://stripe.com/jobs/search?gh_jid=8404115) | Mobile | Staff+ | na | 2026-11-19 | 2026-11-20 |
 | [iOS Engineer, Identity](https://stripe.com/jobs/search?gh_jid=8311082) | iOS | Mid | New York City, NY; San Francisco, CA; Seattle, WA | 2026-10-26 | 2026-10-26 |
 | [Android Engineer, Identity](https://stripe.com/jobs/search?gh_jid=8311069) | Android | Mid | New York City, NY; San Francisco, CA; Seattle, WA | 2026-10-26 | 2026-10-26 |
 | [Android Engineer, Terminal - CA](https://stripe.com/jobs/search?gh_jid=8274893) | Android | Mid | Toronto, CA | 2026-10-12 | 2026-10-13 |
